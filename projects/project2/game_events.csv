@@ -1,0 +1,839 @@
+"id","game","event_type","created_at","team_name","player_name","related_player_name","result","minute","extra_minute","previous_player_event","previous_player_event_at","seconds_after_previous_event","player_id","related_player_id","participant_id","fixture_id"
+116213644,Romania vs Ukraine (2024-06-17),Substitution,2024-06-17 16:27:00.000,Romania,Bogdan Racovițan,Nicolae Stanciu,,87,0,,,,31616427,62905,18638,19032635
+116213524,Romania vs Ukraine (2024-06-17),Substitution,2024-06-17 16:02:00.000,Ukraine,Volodymyr Brazhko,Taras Stepanenko,,62,0,,,,24065258,204483,18624,19032635
+116213531,Romania vs Ukraine (2024-06-17),Substitution,2024-06-17 16:02:00.000,Romania,Valentin Mihăilă,Florinel Coman,,62,0,,,,6013442,165479,18638,19032635
+116213571,Romania vs Ukraine (2024-06-17),Yellowcard,2024-06-17 16:07:00.000,Ukraine,Yukhym Konoplya,,,67,0,,,,4545319,,18624,19032635
+116213583,Romania vs Ukraine (2024-06-17),Substitution,2024-06-17 16:12:00.000,Ukraine,Oleksandr Tymchyk,Yukhym Konoplya,,72,0,,,,206981,4545319,18624,19032635
+116213533,Romania vs Ukraine (2024-06-17),Substitution,2024-06-17 16:02:00.000,Ukraine,Roman Yaremchuk,Mykola Shaparenko,,62,0,,,,205933,205964,18624,19032635
+116213534,Romania vs Ukraine (2024-06-17),Substitution,2024-06-17 16:02:00.000,Ukraine,Andriy Yarmolenko,Viktor Tsygankov,,62,0,,,,204697,205635,18624,19032635
+116213507,Romania vs Ukraine (2024-06-17),Goal,2024-06-17 15:57:00.000,Romania,Denis Drăguș,Dennis Man,"3-0",57,0,,,,165648,165622,18638,19032635
+116213593,Romania vs Ukraine (2024-06-17),Substitution,2024-06-17 16:15:00.000,Romania,George Pușcaș,Denis Drăguș,,75,0,,,,130192,165648,18638,19032635
+116213525,Romania vs Ukraine (2024-06-17),Substitution,2024-06-17 16:02:00.000,Romania,Ianis Hagi,Dennis Man,,62,0,,,,129857,165622,18638,19032635
+116213596,Romania vs Ukraine (2024-06-17),Substitution,2024-06-17 16:15:00.000,Romania,Adrian Rus,Marius Marin,,75,0,,,,116888,133835,18638,19032635
+116213620,Romania vs Ukraine (2024-06-17),Yellowcard,2024-06-17 16:19:00.000,Romania,Răzvan Marin,,,79,0,Goal,2024-06-17 15:53:00.000,1560.0,64202,,18638,19032635
+116213493,Romania vs Ukraine (2024-06-17),Goal,2024-06-17 15:53:00.000,Romania,Răzvan Marin,,"2-0",53,0,,,,64202,,18638,19032635
+116213437,Romania vs Ukraine (2024-06-17),Goal,2024-06-17 15:29:00.000,Romania,Nicolae Stanciu,Dennis Man,"1-0",29,0,,,,62905,165622,18638,19032635
+116213630,Romania vs Ukraine (2024-06-17),Substitution,2024-06-17 16:23:00.000,Ukraine,Ruslan Malinovskyi,Georgiy Sudakov,,83,0,,,,62872,23277810,18624,19032635
+116479144,Germany vs Denmark (2024-06-29),Yellowcard,2024-06-29 21:59:00.000,Germany,Julian Nagelsmann,,,59,0,Yellowcard,2024-06-29 21:41:00.000,1080.0,,,18660,19032605
+116478453,Germany vs Denmark (2024-06-29),Yellowcard,2024-06-29 21:41:00.000,Denmark,Kasper Hjulmand,,,41,0,,,,,,18583,19032605
+116481732,Germany vs Denmark (2024-06-29),VAR,2024-06-29 22:32:00.000,Germany,Florian Wirtz,,,90,2,Substitution,2024-06-29 22:21:00.000,660.0,37429246,,18660,19032605
+116481354,Germany vs Denmark (2024-06-29),Substitution,2024-06-29 22:21:00.000,Germany,Florian Wirtz,Jamal Musiala,,81,0,,,,37429246,33186829,18660,19032605
+116479263,Germany vs Denmark (2024-06-29),Goal,2024-06-29 22:08:00.000,Germany,Jamal Musiala,Nico Schlotterbeck,"2-0",68,0,,,,33186829,3862352,18660,19032605
+116481342,Germany vs Denmark (2024-06-29),Substitution,2024-06-29 22:21:00.000,Denmark,Victor Kristiansen,A. Bah,,81,0,,,,32796825,85996,18583,19032605
+116478451,Germany vs Denmark (2024-06-29),VAR,2024-06-29 21:48:00.000,Germany,Nico Schlotterbeck,,,48,0,,,,3862352,,18660,19032605
+116481353,Germany vs Denmark (2024-06-29),Substitution,2024-06-29 22:21:00.000,Denmark,Jonas Wind,R. Højlund,,81,0,,,,537914,37325012,18583,19032605
+116479090,Germany vs Denmark (2024-06-29),Yellowcard,2024-06-29 22:00:00.000,Denmark,Joakim Maehle,,,60,0,,,,84604,,18583,19032605
+116481352,Germany vs Denmark (2024-06-29),Substitution,2024-06-29 22:21:00.000,Denmark,Jacob Bruun Larsen,A. Christensen,,81,0,,,,32792,4460,18583,19032605
+116481519,Germany vs Denmark (2024-06-29),Substitution,2024-06-29 22:28:00.000,Germany,Waldemar Anton ,Leroy Sané,,88,0,,,,32728,4783,18660,19032605
+116478811,Germany vs Denmark (2024-06-29),Goal,2024-06-29 21:53:00.000,Germany,Kai Havertz,,"1-0",53,0,,,,32612,,18660,19032605
+116479291,Germany vs Denmark (2024-06-29),Substitution,2024-06-29 22:09:00.000,Denmark,Yussuf Poulsen,A. Skov Olsen,,69,0,,,,32587,1685328,18583,19032605
+116481341,Germany vs Denmark (2024-06-29),Substitution,2024-06-29 22:21:00.000,Germany,Benjamin Henrichs,David Raum,,81,0,,,,32566,36119,18660,19032605
+116479292,Germany vs Denmark (2024-06-29),Substitution,2024-06-29 22:09:00.000,Denmark,Christian Nørgaard,T. Delaney,,69,0,,,,31609,33677,18583,19032605
+116479198,Germany vs Denmark (2024-06-29),Substitution,2024-06-29 22:04:00.000,Germany,Niclas Füllkrug,İlkay Gündoğan,,64,0,,,,31532,4842,18660,19032605
+116479004,Germany vs Denmark (2024-06-29),Yellowcard,2024-06-29 21:57:00.000,Denmark,Joachim Andersen,,,57,0,VAR,2024-06-29 21:48:00.000,540.0,25284,,18583,19032605
+116478876,Germany vs Denmark (2024-06-29),VAR,2024-06-29 21:48:00.000,Denmark,Joachim Andersen,,,48,0,,,,25284,,18583,19032605
+116479199,Germany vs Denmark (2024-06-29),Substitution,2024-06-29 22:04:00.000,Germany,Emre Can,Robert Andrich,,64,0,,,,1388,34880,18660,19032605
+116521748,Spain vs Georgia (2024-06-30),Goal,2024-06-30 22:15:00.000,Spain,Nico Williams,Fabián Ruiz,"3-1",75,0,,,,37297544,186735,18710,19032607
+116521646,Spain vs Georgia (2024-06-30),Yellowcard,2024-06-30 22:11:00.000,Georgia,Zuriko Davitashvili,,,71,0,Substitution,2024-06-30 22:03:00.000,480.0,539555,,18692,19032607
+116521471,Spain vs Georgia (2024-06-30),Substitution,2024-06-30 22:03:00.000,Georgia,Zuriko Davitashvili,G. Chakvetadze,,63,0,,,,539555,106821,18692,19032607
+116521487,Spain vs Georgia (2024-06-30),Substitution,2024-06-30 22:03:00.000,Georgia,Georgiy Tsitaishvili,L. Lochoshvili,,63,0,,,,537257,104100,18692,19032607
+116521543,Spain vs Georgia (2024-06-30),Substitution,2024-06-30 22:06:00.000,Spain,Mikel Oyarzabal,Álvaro Morata,,66,0,,,,186932,129660,18710,19032607
+116520536,Spain vs Georgia (2024-06-30),Goal,2024-06-30 21:39:00.000,Spain,Rodri,Nico Williams,"1-1",39,0,,,,186910,37297544,18710,19032607
+116521204,Spain vs Georgia (2024-06-30),Goal,2024-06-30 21:51:00.000,Spain,Fabián Ruiz,Lamine Yamal,"2-1",51,0,,,,186735,37656179,18710,19032607
+116521529,Spain vs Georgia (2024-06-30),Substitution,2024-06-30 22:06:00.000,Spain,Alejandro Grimaldo,Marc Cucurella,,66,0,,,,160208,448448,18710,19032607
+116520692,Spain vs Georgia (2024-06-30),Yellowcard,2024-06-30 21:44:00.000,Spain,Álvaro Morata,,,44,0,,,,129660,,18710,19032607
+116520618,Spain vs Georgia (2024-06-30),Substitution,2024-06-30 21:41:00.000,Georgia,Sandro Altunashvili,O. Kiteishvili,,41,0,,,,105926,106505,18692,19032607
+116521734,Spain vs Georgia (2024-06-30),VAR,2024-06-30 22:14:00.000,Spain,Giorgi Gvelesiani,,,74,0,,,,103247,,18710,19032607
+116520002,Spain vs Georgia (2024-06-30),Goal,2024-06-30 21:18:00.000,Georgia,Robin Le Normand,Otar Kakabadze,"0-1",18,0,,,,100580,84624,18692,19032607
+116521845,Spain vs Georgia (2024-06-30),Substitution,2024-06-30 22:18:00.000,Georgia,Budu Zivzivadze,G. Mikautadze,,78,0,,,,84625,13963088,18692,19032607
+116521999,Spain vs Georgia (2024-06-30),Goal,2024-06-30 22:23:00.000,Spain,Dani Olmo,Mikel Oyarzabal,"4-1",83,0,Substitution,2024-06-30 21:52:00.000,1860.0,74060,186932,18710,19032607
+116521236,Spain vs Georgia (2024-06-30),Substitution,2024-06-30 21:52:00.000,Spain,Dani Olmo,Pedri,,52,0,,,,74060,37288001,18710,19032607
+116521841,Spain vs Georgia (2024-06-30),Substitution,2024-06-30 22:18:00.000,Georgia,Nika Kvekveskiri,G. Gvelesiani,,78,0,,,,56315,103247,18692,19032607
+116521929,Spain vs Georgia (2024-06-30),Substitution,2024-06-30 22:21:00.000,Spain,Mikel Merino,Fabián Ruiz,,81,0,,,,32710,186735,18710,19032607
+116521943,Spain vs Georgia (2024-06-30),Substitution,2024-06-30 22:21:00.000,Spain,Jesús Navas ,Daniel Carvajal,,81,0,,,,1435,31647,18710,19032607
+116409458,Ukraine vs Belgium (2024-06-26),Substitution,2024-06-26 19:17:00.000,Belgium,Johan Bakayoko,J. Doku,,77,0,,,,37400407,23697990,18743,19032639
+116409192,Ukraine vs Belgium (2024-06-26),Substitution,2024-06-26 19:10:00.000,Ukraine,Vladyslav Vanat,M. Shaparenko,,70,0,,,,24065263,205964,18624,19032639
+116409678,Ukraine vs Belgium (2024-06-26),Substitution,2024-06-26 19:30:00.000,Belgium,Loïs Openda,R. Lukaku,,90,0,,,,539993,995,18743,19032639
+116409023,Ukraine vs Belgium (2024-06-26),Substitution,2024-06-26 19:02:00.000,Belgium,Orel Mangala,Y. Tielemans,,62,0,,,,523939,62342,18743,19032639
+116409151,Ukraine vs Belgium (2024-06-26),Yellowcard,2024-06-26 19:09:00.000,Ukraine,Artem Dovbyk,,,69,0,,,,205978,,18624,19032639
+116409527,Ukraine vs Belgium (2024-06-26),Substitution,2024-06-26 19:21:00.000,Ukraine,Andriy Yarmolenko,O. Svatok,,81,0,,,,204697,205651,18624,19032639
+116409189,Ukraine vs Belgium (2024-06-26),Substitution,2024-06-26 19:10:00.000,Ukraine,Taras Stepanenko,V. Brazhko,,70,0,,,,204483,24065258,18624,19032639
+116409022,Ukraine vs Belgium (2024-06-26),Substitution,2024-06-26 19:02:00.000,Belgium,Yannick Carrasco,L. Trossard,,62,0,,,,96092,61780,18743,19032639
+116409188,Ukraine vs Belgium (2024-06-26),Substitution,2024-06-26 19:10:00.000,Ukraine,Ruslan Malinovskyi,R. Yaremchuk,,70,0,,,,62872,205933,18624,19032639
+116406532,Ukraine vs Belgium (2024-06-26),Yellowcard,2024-06-26 18:43:00.000,Belgium,Wout Faes,,,43,0,,,,26955,,18743,19032639
+116408943,Ukraine vs Belgium (2024-06-26),Substitution,2024-06-26 18:58:00.000,Ukraine,Oleksandr Zinchenko,V. Mykolenko,,58,0,,,,26603,537271,18624,19032639
+116148144,Italy vs Albania (2024-06-15),Substitution,2024-06-15 22:17:00.000,Italy,Andrea Cambiaso,Federico Chiesa,,77,0,,,,37260234,129836,18658,19032617
+116147621,Italy vs Albania (2024-06-15),Yellowcard,2024-06-15 21:51:00.000,Albania,Armando Broja,,,51,0,,,,23697427,,18641,19032617
+116147622,Italy vs Albania (2024-06-15),Yellowcard,2024-06-15 21:51:00.000,Italy,Riccardo Calafiori,,,51,0,,,,23278684,,18658,19032617
+116148393,Italy vs Albania (2024-06-15),Substitution,2024-06-15 22:27:00.000,Albania,Ernest Muci,Nedim Bajrami,,87,0,,,,10966299,198736,18641,19032617
+116148310,Italy vs Albania (2024-06-15),Substitution,2024-06-15 22:23:00.000,Italy,Mateo Retegui,Gianluca Scamacca,,83,0,,,,9302266,30178,18658,19032617
+116148052,Italy vs Albania (2024-06-15),Yellowcard,2024-06-15 22:14:00.000,Albania,Arbër Hoxha,,,74,0,Substitution,2024-06-15 22:08:00.000,360.0,1486200,,18641,19032617
+116147973,Italy vs Albania (2024-06-15),Substitution,2024-06-15 22:08:00.000,Albania,Arbër Hoxha,Jasir Asani,,68,0,,,,1486200,142532,18641,19032617
+116148514,Italy vs Albania (2024-06-15),Substitution,2024-06-15 22:32:00.000,Italy,Michael Folorunsho,Nicolò Barella,,90,2,,,,368455,130117,18658,19032617
+116145822,Italy vs Albania (2024-06-15),Goal,2024-06-15 21:01:00.000,Albania,Nedim Bajrami,,"0-1",1,0,,,,198736,,18641,19032617
+116145951,Italy vs Albania (2024-06-15),Goal,2024-06-15 21:11:00.000,Italy,Alessandro Bastoni,Lorenzo Pellegrini,"1-1",11,0,,,,133797,129946,18658,19032617
+116146022,Italy vs Albania (2024-06-15),Goal,2024-06-15 21:16:00.000,Italy,Nicolò Barella,,"2-1",16,0,,,,130117,,18658,19032617
+116146119,Italy vs Albania (2024-06-15),Yellowcard,2024-06-15 21:22:00.000,Italy,Lorenzo Pellegrini,,,22,0,,,,129946,,18658,19032617
+116148143,Italy vs Albania (2024-06-15),Substitution,2024-06-15 22:17:00.000,Albania,Rey Manaj,Armando Broja,,77,0,,,,129812,23697427,18641,19032617
+116148142,Italy vs Albania (2024-06-15),Substitution,2024-06-15 22:17:00.000,Italy,Bryan Cristante,Lorenzo Pellegrini,,77,0,,,,129467,129946,18658,19032617
+116147974,Italy vs Albania (2024-06-15),Substitution,2024-06-15 22:08:00.000,Albania,Qazim Laci,Taulant Seferi,,68,0,,,,78462,142613,18641,19032617
+116148311,Italy vs Albania (2024-06-15),Substitution,2024-06-15 22:23:00.000,Italy,Matteo Darmian,Federico Dimarco,,83,0,,,,933,129842,18658,19032617
+116607644,Portugal vs France (2024-07-05),Substitution,2024-07-05 22:14:00.000,Portugal,Francisco Conceição,João Cancelo,,74,0,,,,37328006,160956,18701,19032602
+116609294,Portugal vs France (2024-07-05),Substitution,2024-07-05 22:46:00.000,France,Bradley Barcola,Kylian Mbappé,,106,0,Penalty Shootout Goal,2024-07-05 21:07:00.000,5940.0,37317369,96611,18647,19032602
+116609393,Portugal vs France (2024-07-05),Penalty Shootout Goal,2024-07-05 21:07:00.000,France,Bradley Barcola,,"2-4",7,0,,,,37317369,,18647,19032602
+116609408,Portugal vs France (2024-07-05),Penalty Shootout Goal,2024-07-05 21:08:00.000,Portugal,Nuno Mendes,,"3-4",8,0,,,,37262099,,18701,19032602
+116609327,Portugal vs France (2024-07-05),Substitution,2024-07-05 22:59:00.000,Portugal,Matheus Nunes,Vitinha,,119,0,,,,21781428,4545430,18701,19032602
+116607685,Portugal vs France (2024-07-05),Yellowcard,2024-07-05 22:24:00.000,France,William Saliba,,,84,0,,,,17544737,,18647,19032602
+116607763,Portugal vs France (2024-07-05),Substitution,2024-07-05 22:31:00.000,Portugal,Youssouf Fofana,João Palhinha,,91,0,Penalty Shootout Goal,2024-07-05 21:03:00.000,5280.0,3510051,160072,18701,19032602
+116609352,Portugal vs France (2024-07-05),Penalty Shootout Goal,2024-07-05 21:03:00.000,France,Youssouf Fofana,,"1-2",3,0,,,,3510051,,18647,19032602
+116609368,Portugal vs France (2024-07-05),Penalty Shootout Goal,2024-07-05 21:05:00.000,France,Jules Koundé,,"2-3",5,0,,,,337394,,18647,19032602
+116609425,Portugal vs France (2024-07-05),Penalty Shootout Goal,2024-07-05 21:09:00.000,France,Theo Hernández,,"3-5",9,0,,,,186995,,18647,19032602
+116609296,Portugal vs France (2024-07-05),Substitution,2024-07-05 22:46:00.000,Portugal,João Félix,Rafael Leão,,106,0,Penalty Shootout Missed,2024-07-05 21:06:00.000,6000.0,163152,540251,18701,19032602
+116609379,Portugal vs France (2024-07-05),Penalty Shootout Missed,2024-07-05 21:06:00.000,Portugal,João Félix,,"2-3",6,0,,,,163152,,18701,19032602
+116607646,Portugal vs France (2024-07-05),Substitution,2024-07-05 22:14:00.000,Portugal,Nélson Semedo,Bruno Fernandes,,74,0,,,,160110,129602,18701,19032602
+116607676,Portugal vs France (2024-07-05),Yellowcard,2024-07-05 22:19:00.000,Portugal,João Palhinha,,,79,0,,,,160072,,18701,19032602
+116607716,Portugal vs France (2024-07-05),Substitution,2024-07-05 22:32:00.000,France,Rúben Neves,Eduardo Camavinga,,90,2,,,,159699,23688922,18647,19032602
+116607692,Portugal vs France (2024-07-05),Substitution,2024-07-05 22:26:00.000,France,Marcus Thuram,Randal Kolo Muani,,86,0,,,,99000,432872,18647,19032602
+116609359,Portugal vs France (2024-07-05),Penalty Shootout Goal,2024-07-05 21:04:00.000,Portugal,Bernardo Silva,,"2-2",4,0,,,,96353,,18701,19032602
+116607589,Portugal vs France (2024-07-05),Substitution,2024-07-05 22:07:00.000,France,Ousmane Dembélé,Antoine Griezmann,,67,0,Penalty Shootout Goal,2024-07-05 21:01:00.000,3960.0,32403,185658,18647,19032602
+116609342,Portugal vs France (2024-07-05),Penalty Shootout Goal,2024-07-05 21:01:00.000,France,Ousmane Dembélé,,"0-1",1,0,,,,32403,,18647,19032602
+116609345,Portugal vs France (2024-07-05),Penalty Shootout Goal,2024-07-05 21:02:00.000,Portugal,Cristiano Ronaldo,,"1-1",2,0,,,,580,,18701,19032602
+116635387,Netherlands vs Turkey (2024-07-06),Yellowcard,2024-07-06 22:35:00.000,Turkey,Vincenzo Montella,,,90,5,,,,,,18716,19032603
+116635326,Netherlands vs Turkey (2024-07-06),Substitution,2024-07-06 22:29:00.000,Turkey,Semih Kılıçsoy,Kaan Ayhan,,89,0,,,,37564566,31878,18716,19032603
+116634313,Netherlands vs Turkey (2024-07-06),Yellowcard,2024-07-06 21:30:00.000,Netherlands,Xavi Simons,,,30,0,,,,37317392,,18694,19032603
+116635155,Netherlands vs Turkey (2024-07-06),Substitution,2024-07-06 22:13:00.000,Netherlands,Micky van de Ven,Nathan Aké,,73,0,,,,37296248,1869,18694,19032603
+116635398,Netherlands vs Turkey (2024-07-06),Redcard,2024-07-06 22:36:00.000,Turkey,Bertuğ Yıldırım,,,90,6,,,,34873979,,18716,19032603
+116635303,Netherlands vs Turkey (2024-07-06),Substitution,2024-07-06 22:27:00.000,Netherlands,Joshua Zirkzee,Xavi Simons,,87,0,,,,9605680,37317392,18694,19032603
+116635298,Netherlands vs Turkey (2024-07-06),Substitution,2024-07-06 22:27:00.000,Netherlands,Jeremie Frimpong,Memphis Depay,,87,0,,,,8403182,929,18694,19032603
+116635174,Netherlands vs Turkey (2024-07-06),Goal,2024-07-06 22:16:00.000,Netherlands,Mert Müldür,Denzel Dumfries,"2-1",76,0,,,,2510388,26027,18694,19032603
+116635193,Netherlands vs Turkey (2024-07-06),Substitution,2024-07-06 22:17:00.000,Turkey,Kerem Aktürkoğlu,Kenan Yıldız,,77,0,,,,534383,37598725,18716,19032603
+116635218,Netherlands vs Turkey (2024-07-06),Substitution,2024-07-06 22:22:00.000,Turkey,Zeki Çelik,Samet Akaydin,,82,0,,,,450031,390543,18716,19032603
+116634386,Netherlands vs Turkey (2024-07-06),Goal,2024-07-06 21:35:00.000,Turkey,Samet Akaydin,Arda Güler,"0-1",35,0,,,,390543,37547467,18716,19032603
+116635192,Netherlands vs Turkey (2024-07-06),Substitution,2024-07-06 22:17:00.000,Turkey,Okay Yokuşlu,Salih Özcan,,77,0,,,,201060,32622,18716,19032603
+116635364,Netherlands vs Turkey (2024-07-06),Yellowcard,2024-07-06 22:33:00.000,Turkey,Cenk Tosun,,,90,3,Substitution,2024-07-06 22:22:00.000,660.0,45863,,18716,19032603
+116635217,Netherlands vs Turkey (2024-07-06),Substitution,2024-07-06 22:22:00.000,Turkey,Cenk Tosun,Mert Müldür,,82,0,,,,45863,2510388,18716,19032603
+116635153,Netherlands vs Turkey (2024-07-06),Substitution,2024-07-06 22:13:00.000,Netherlands,Joey Veerman,Tijjani Reijnders,,73,0,,,,29394,3156873,18694,19032603
+116635472,Netherlands vs Turkey (2024-07-06),Yellowcard,2024-07-06 22:36:00.000,Netherlands,Wout Weghorst,,,90,6,Substitution,2024-07-06 21:46:00.000,3000.0,25317,,18694,19032603
+116634895,Netherlands vs Turkey (2024-07-06),Substitution,2024-07-06 21:46:00.000,Netherlands,Wout Weghorst,Steven Bergwijn,,46,0,,,,25317,25776,18694,19032603
+116635127,Netherlands vs Turkey (2024-07-06),Goal,2024-07-06 22:10:00.000,Netherlands,Stefan de Vrij,Memphis Depay,"1-1",70,0,,,,24015,929,18694,19032603
+116634996,Netherlands vs Turkey (2024-07-06),Yellowcard,2024-07-06 21:54:00.000,Netherlands,Nathan Aké,,,54,0,,,,1869,,18694,19032603
+116635060,Netherlands vs Turkey (2024-07-06),Yellowcard,2024-07-06 22:04:00.000,Netherlands,Virgil van Dijk,,,64,0,,,,1743,,18694,19032603
+116269454,Slovenia vs Serbia (2024-06-20),Substitution,2024-06-20 16:22:00.000,Serbia,Lazar Samardžić,Dusan Tadic,,82,0,,,,23707373,1351,18873,19032625
+116269491,Slovenia vs Serbia (2024-06-20),Yellowcard,2024-06-20 16:34:00.000,Slovenia,Zan Vipotnik,,,90,4,Substitution,2024-06-20 16:16:00.000,1080.0,23697933,,18630,19032625
+116269432,Slovenia vs Serbia (2024-06-20),Substitution,2024-06-20 16:16:00.000,Slovenia,Zan Vipotnik,Benjamin Sesko,,76,0,,,,23697933,24818280,18630,19032625
+116269480,Slovenia vs Serbia (2024-06-20),Substitution,2024-06-20 16:31:00.000,Slovenia,David Brekalo,Timi Max Elsnik,,90,1,,,,2823098,7159,18630,19032625
+116269453,Slovenia vs Serbia (2024-06-20),Substitution,2024-06-20 16:22:00.000,Serbia,Veljko Birmancevic,Andrija Zivkovic,,82,0,,,,2510860,160928,18873,19032625
+116269410,Slovenia vs Serbia (2024-06-20),Goal,2024-06-20 16:09:00.000,Slovenia,Zan Karnicnik,Timi Max Elsnik,"1-0",69,0,,,,688941,7159,18630,19032625
+116269502,Slovenia vs Serbia (2024-06-20),Goal,2024-06-20 16:35:00.000,Serbia,Luka Jović,Ivan Ilić,"1-1",90,5,Yellowcard,2024-06-20 16:32:00.000,180.0,161284,1359363,18873,19032625
+116269482,Slovenia vs Serbia (2024-06-20),Yellowcard,2024-06-20 16:32:00.000,Serbia,Luka Jović,,,90,2,Substitution,2024-06-20 16:04:00.000,1680.0,161284,,18873,19032625
+116269391,Slovenia vs Serbia (2024-06-20),Substitution,2024-06-20 16:04:00.000,Serbia,Luka Jović,Dušan Vlahović,,64,0,,,,161284,177988,18873,19032625
+116269382,Slovenia vs Serbia (2024-06-20),Yellowcard,2024-06-20 15:54:00.000,Serbia,Saša Lukić,,,54,0,,,,130248,,18873,19032625
+116269431,Slovenia vs Serbia (2024-06-20),Substitution,2024-06-20 16:16:00.000,Slovenia,Benjamin Verbic,Petar Stojanović,,76,0,,,,84457,74146,18630,19032625
+116269472,Slovenia vs Serbia (2024-06-20),Yellowcard,2024-06-20 16:27:00.000,Slovenia,Erik Janza,,,87,0,,,,81827,,18630,19032625
+116269393,Slovenia vs Serbia (2024-06-20),Substitution,2024-06-20 16:04:00.000,Serbia,Sergej Milinković-Savić,Saša Lukić,,64,0,,,,62511,130248,18873,19032625
+116269487,Slovenia vs Serbia (2024-06-20),Yellowcard,2024-06-20 16:33:00.000,Serbia,Mijat Gacinovic,,,90,3,Substitution,2024-06-20 15:46:00.000,2820.0,32537,,18873,19032625
+116269356,Slovenia vs Serbia (2024-06-20),Substitution,2024-06-20 15:46:00.000,Serbia,Mijat Gacinovic,Filip Mladenovic,,46,0,,,,32537,32482,18873,19032625
+116269202,Slovenia vs Serbia (2024-06-20),Yellowcard,2024-06-20 15:25:00.000,Serbia,Filip Mladenovic,,,25,0,,,,32482,,18873,19032625
+116269394,Slovenia vs Serbia (2024-06-20),Substitution,2024-06-20 16:04:00.000,Slovenia,Jon Gorenc Stankovic,Jan Mlakar,,64,0,,,,3339,133994,18630,19032625
+116378905,Croatia vs Italy (2024-06-24),Yellowcard,2024-06-24 22:39:00.000,Italy,Luciano Spalletti,,,90,9,,,,,,18658,19032620
+116378779,Croatia vs Italy (2024-06-24),Yellowcard,2024-06-24 22:33:00.000,Italy,Riccardo Calafiori,,,90,3,,,,23278684,,18658,19032620
+116378249,Croatia vs Italy (2024-06-24),Yellowcard,2024-06-24 21:24:00.000,Croatia,Luka Sucic,,,24,0,,,,22528446,,18588,19032620
+116378800,Croatia vs Italy (2024-06-24),Yellowcard,2024-06-24 22:36:00.000,Italy,Nicolò Fagioli,,,90,6,Substitution,2024-06-24 22:21:00.000,900.0,4536538,,18658,19032620
+116378665,Croatia vs Italy (2024-06-24),Substitution,2024-06-24 22:21:00.000,Croatia,Nicolò Fagioli,Luka Modric,,81,0,,,,4536538,268,18588,19032620
+116378673,Croatia vs Italy (2024-06-24),Yellowcard,2024-06-24 22:22:00.000,Croatia,Josip Stanisic,,,82,0,,,,3862426,,18588,19032620
+116378455,Croatia vs Italy (2024-06-24),Substitution,2024-06-24 21:46:00.000,Italy,Davide Frattesi,Lorenzo Pellegrini,,46,0,,,,134015,129946,18658,19032620
+116378501,Croatia vs Italy (2024-06-24),Substitution,2024-06-24 21:57:00.000,Italy,Federico Chiesa,Federico Dimarco,,57,0,,,,129836,129842,18658,19032620
+116378810,Croatia vs Italy (2024-06-24),Goal,2024-06-24 22:38:00.000,Italy,Mattia Zaccagni,Riccardo Calafiori,"1-1",90,8,Substitution,2024-06-24 22:21:00.000,1020.0,129677,23278684,18658,19032620
+116378667,Croatia vs Italy (2024-06-24),Substitution,2024-06-24 22:21:00.000,Italy,Mattia Zaccagni,Matteo Darmian,,81,0,,,,129677,933,18658,19032620
+116378594,Croatia vs Italy (2024-06-24),Yellowcard,2024-06-24 22:13:00.000,Croatia,Luka Ivanusec,,,73,0,Substitution,2024-06-24 22:10:00.000,180.0,74186,,18588,19032620
+116378555,Croatia vs Italy (2024-06-24),Substitution,2024-06-24 22:10:00.000,Croatia,Luka Ivanusec,Mateo Kovacic,,70,0,,,,74186,73147,18588,19032620
+116378655,Croatia vs Italy (2024-06-24),Substitution,2024-06-24 22:20:00.000,Italy,Lovro Majer,Jorginho,,80,0,,,,74116,129511,18658,19032620
+116378747,Croatia vs Italy (2024-06-24),Substitution,2024-06-24 22:30:00.000,Croatia,Josip Juranovic,Andrej Kramaric,,90,0,,,,74000,1232,18588,19032620
+116378757,Croatia vs Italy (2024-06-24),Yellowcard,2024-06-24 22:31:00.000,Croatia,Marcelo Brozovic,,,90,1,,,,73004,,18588,19032620
+116378633,Croatia vs Italy (2024-06-24),Yellowcard,2024-06-24 22:18:00.000,Croatia,Marin Pongracic,,,78,0,,,,36681,,18588,19032620
+116378454,Croatia vs Italy (2024-06-24),Substitution,2024-06-24 21:46:00.000,Croatia,Ante Budimir,Mario Pasalic,,46,0,,,,34700,73603,18588,19032620
+116378558,Croatia vs Italy (2024-06-24),Substitution,2024-06-24 22:10:00.000,Croatia,I. Perišić,Luka Sucic,,70,0,,,,31002,22528446,18588,19032620
+116378599,Croatia vs Italy (2024-06-24),Substitution,2024-06-24 22:15:00.000,Italy,Gianluca Scamacca,Giacomo Raspadori,,75,0,,,,30178,13238937,18658,19032620
+116378489,Croatia vs Italy (2024-06-24),VAR,2024-06-24 21:53:00.000,Croatia,Andrej Kramaric,,,53,0,,,,1232,,18588,19032620
+116378515,Croatia vs Italy (2024-06-24),Yellowcard,2024-06-24 22:00:00.000,Croatia,Luka Modric,,,60,0,Goal,2024-06-24 21:55:00.000,300.0,268,,18588,19032620
+116378492,Croatia vs Italy (2024-06-24),Goal,2024-06-24 21:55:00.000,Croatia,Luka Modric,Ante Budimir,"1-0",55,0,Missed Penalty,2024-06-24 21:54:00.000,60.0,268,34700,18588,19032620
+116378485,Croatia vs Italy (2024-06-24),Missed Penalty,2024-06-24 21:54:00.000,Croatia,Luka Modric,Luka Modric,,54,0,,,,268,268,18588,19032620
+116234052,Portugal vs Czech Republic (2024-06-18),Substitution,2024-06-18 22:03:00.000,Portugal,Gonçalo Inácio,Diogo Dalot,,63,0,,,,37522785,164061,18701,19032641
+116234529,Portugal vs Czech Republic (2024-06-18),Yellowcard,2024-06-18 22:33:00.000,Portugal,Francisco Conceição,,,90,3,Goal,2024-06-18 22:32:00.000,60.0,37328006,,18701,19032641
+116234480,Portugal vs Czech Republic (2024-06-18),Goal,2024-06-18 22:32:00.000,Portugal,Francisco Conceição,,"2-1",90,2,Substitution,2024-06-18 22:30:00.000,120.0,37328006,,18701,19032641
+116234419,Portugal vs Czech Republic (2024-06-18),Substitution,2024-06-18 22:30:00.000,Portugal,Francisco Conceição,Vitinha,,90,0,,,,37328006,4545430,18701,19032641
+116234020,Portugal vs Czech Republic (2024-06-18),Substitution,2024-06-18 22:00:00.000,Czech Republic,Mojmír Chytil,Jan Kuchta,,60,0,,,,26313942,80926,18718,19032641
+116234127,Portugal vs Czech Republic (2024-06-18),Goal,2024-06-18 22:09:00.000,Portugal,Robin Hranac,,"1-1",69,0,,,,24469159,,18701,19032641
+116234021,Portugal vs Czech Republic (2024-06-18),Substitution,2024-06-18 22:00:00.000,Czech Republic,Ondrej Lingr,Patrik Schick,,60,0,,,,608247,80675,18718,19032641
+116233819,Portugal vs Czech Republic (2024-06-18),Yellowcard,2024-06-18 21:39:00.000,Portugal,Rafael Leão,,,39,0,,,,540251,,18701,19032641
+116234418,Portugal vs Czech Republic (2024-06-18),Substitution,2024-06-18 22:30:00.000,Portugal,Pedro Neto,Nuno Mendes,,90,0,,,,496775,37262099,18701,19032641
+116234433,Portugal vs Czech Republic (2024-06-18),Substitution,2024-06-18 22:30:00.000,Portugal,Nélson Semedo,João Cancelo,,90,0,,,,160110,160956,18701,19032641
+116234373,Portugal vs Czech Republic (2024-06-18),VAR,2024-06-18 22:27:00.000,Portugal,Diogo Jota,,,87,0,Substitution,2024-06-18 22:03:00.000,1440.0,159917,,18701,19032641
+116234061,Portugal vs Czech Republic (2024-06-18),Substitution,2024-06-18 22:03:00.000,Portugal,Diogo Jota,Rafael Leão,,63,0,,,,159917,540251,18701,19032641
+116234035,Portugal vs Czech Republic (2024-06-18),Goal,2024-06-18 22:02:00.000,Czech Republic,Lukas Provod,Vladimír Coufal,"0-1",62,0,,,,83003,80304,18718,19032641
+116234271,Portugal vs Czech Republic (2024-06-18),Substitution,2024-06-18 22:19:00.000,Czech Republic,Petr Sevcik,Pavel Sulc,,79,0,,,,80879,24469162,18718,19032641
+116234558,Portugal vs Czech Republic (2024-06-18),Substitution,2024-06-18 22:33:00.000,Czech Republic,Tomas Chory,Tomas Holes,,90,3,,,,80707,79972,18718,19032641
+116234006,Portugal vs Czech Republic (2024-06-18),Yellowcard,2024-06-18 21:57:00.000,Czech Republic,Patrik Schick,,,57,0,,,,80675,,18718,19032641
+116234270,Portugal vs Czech Republic (2024-06-18),Substitution,2024-06-18 22:19:00.000,Czech Republic,Antonín Barák,Lukas Provod,,79,0,,,,80331,83003,18718,19032641
+116272717,Spain vs Italy (2024-06-20),Substitution,2024-06-20 21:46:00.000,Italy,Andrea Cambiaso,Davide Frattesi,,46,0,,,,37260234,134015,18658,19032619
+116272759,Spain vs Italy (2024-06-20),Goal,2024-06-20 21:55:00.000,Spain,Riccardo Calafiori,,"1-0",55,0,,,,23278684,,18710,19032619
+116272955,Spain vs Italy (2024-06-20),Substitution,2024-06-20 22:22:00.000,Italy,Giacomo Raspadori,Lorenzo Pellegrini,,82,0,,,,13238937,129946,18658,19032619
+116272817,Spain vs Italy (2024-06-20),Substitution,2024-06-20 22:04:00.000,Italy,Mateo Retegui,Gianluca Scamacca,,64,0,,,,9302266,30178,18658,19032619
+116272883,Spain vs Italy (2024-06-20),Substitution,2024-06-20 22:11:00.000,Spain,Álex Baena,Pedri,,71,0,,,,7698436,37288001,18710,19032619
+116272882,Spain vs Italy (2024-06-20),Substitution,2024-06-20 22:11:00.000,Spain,Ferran Torres,Lamine Yamal,,71,0,,,,448389,37656179,18710,19032619
+116272931,Spain vs Italy (2024-06-20),Substitution,2024-06-20 22:18:00.000,Spain,Mikel Oyarzabal,Álvaro Morata,,78,0,,,,186932,129660,18710,19032619
+116272651,Spain vs Italy (2024-06-20),Yellowcard,2024-06-20 21:46:00.000,Spain,Rodri,,,45,1,,,,186910,,18710,19032619
+116272430,Spain vs Italy (2024-06-20),Yellowcard,2024-06-20 21:15:00.000,Italy,Gianluigi Donnarumma,,,15,0,,,,129771,,18658,19032619
+116272818,Spain vs Italy (2024-06-20),Substitution,2024-06-20 22:04:00.000,Italy,Mattia Zaccagni,Federico Chiesa,,64,0,,,,129677,129836,18658,19032619
+116272720,Spain vs Italy (2024-06-20),Substitution,2024-06-20 21:46:00.000,Italy,Bryan Cristante,Jorginho,,46,0,Yellowcard,2024-06-20 21:46:00.000,0.0,129467,129511,18658,19032619
+116272724,Spain vs Italy (2024-06-20),Yellowcard,2024-06-20 21:46:00.000,Italy,Bryan Cristante,,,46,0,,,,129467,,18658,19032619
+116272856,Spain vs Italy (2024-06-20),Yellowcard,2024-06-20 22:09:00.000,Spain,Robin Le Normand,,,69,0,,,,100580,,18710,19032619
+116273035,Spain vs Italy (2024-06-20),Substitution,2024-06-20 22:34:00.000,Spain,Mikel Merino,Fabián Ruiz,,90,4,,,,32710,186735,18710,19032619
+116273047,Spain vs Italy (2024-06-20),Yellowcard,2024-06-20 22:36:00.000,Spain,Daniel Carvajal,,,90,6,,,,31647,,18710,19032619
+116272930,Spain vs Italy (2024-06-20),Substitution,2024-06-20 22:18:00.000,Spain,Ayoze Pérez,Nico Williams,,78,0,,,,1396,37297544,18710,19032619
+116512997,England vs Slovakia (2024-06-30),Yellowcard,2024-06-30 18:07:00.000,England,Kobbie Mainoo,,,7,0,,,,37540234,,18645,19032608
+116517359,England vs Slovakia (2024-06-30),Goal,2024-06-30 19:35:00.000,England,Jude Bellingham,Marc Guéhi,"1-1",90,5,Yellowcard,2024-06-30 18:17:00.000,4680.0,37255840,4536500,18645,19032608
+116513183,England vs Slovakia (2024-06-30),Yellowcard,2024-06-30 18:17:00.000,England,Jude Bellingham,,,17,0,,,,37255840,,18645,19032608
+116516763,England vs Slovakia (2024-06-30),Substitution,2024-06-30 19:06:00.000,England,Cole Palmer,Kieran Trippier,,66,0,,,,28912747,1016,18645,19032608
+116527671,England vs Slovakia (2024-06-30),Yellowcard,2024-06-30 20:01:00.000,Slovakia,Tomas Suslov,,,120,1,Substitution,2024-06-30 19:01:00.000,3600.0,24816762,,18648,19032608
+116516675,England vs Slovakia (2024-06-30),Substitution,2024-06-30 19:01:00.000,Slovakia,Tomas Suslov,D. Strelec,,61,0,,,,24816762,9939024,18648,19032608
+116512927,England vs Slovakia (2024-06-30),Yellowcard,2024-06-30 18:03:00.000,England,Marc Guéhi,,,3,0,,,,4536500,,18645,19032608
+116517978,England vs Slovakia (2024-06-30),Substitution,2024-06-30 19:46:00.000,England,Conor Gallagher,Harry Kane,,106,0,,,,1494245,997,18645,19032608
+116516562,England vs Slovakia (2024-06-30),VAR,2024-06-30 18:50:00.000,England,Phil Foden,,,50,0,,,,336133,,18645,19032608
+116516674,England vs Slovakia (2024-06-30),Substitution,2024-06-30 19:01:00.000,Slovakia,Robert Bozenik,L. Haraslín,,61,0,,,,182277,133633,18648,19032608
+116517078,England vs Slovakia (2024-06-30),Substitution,2024-06-30 19:21:00.000,Slovakia,Matus Bero,O. Duda,,81,0,,,,180916,33793,18648,19032608
+116518089,England vs Slovakia (2024-06-30),Yellowcard,2024-06-30 19:48:00.000,Slovakia,Denis Vavro,,,108,0,,,,180894,,18648,19032608
+116518109,England vs Slovakia (2024-06-30),Substitution,2024-06-30 19:49:00.000,Slovakia,Lubomir Tupta,P. Pekarík,,109,0,,,,133276,30844,18648,19032608
+116513442,England vs Slovakia (2024-06-30),Yellowcard,2024-06-30 18:46:00.000,Slovakia,Milan Skriniar,,,45,1,,,,130142,,18648,19032608
+116518275,England vs Slovakia (2024-06-30),Yellowcard,2024-06-30 19:54:00.000,Slovakia,Norbert Gyomber,,,114,0,Substitution,2024-06-30 19:33:00.000,1260.0,129686,,18648,19032608
+116517291,England vs Slovakia (2024-06-30),Substitution,2024-06-30 19:33:00.000,Slovakia,Norbert Gyomber,I. Schranz,,90,3,,,,129686,81501,18648,19032608
+116513247,England vs Slovakia (2024-06-30),Goal,2024-06-30 18:25:00.000,Slovakia,Ivan Schranz,D. Strelec,"0-1",25,0,,,,81501,9939024,18648,19032608
+116513140,England vs Slovakia (2024-06-30),Yellowcard,2024-06-30 18:13:00.000,Slovakia,Juraj Kucka,,,13,0,,,,79268,,18648,19032608
+116517079,England vs Slovakia (2024-06-30),Substitution,2024-06-30 19:21:00.000,Slovakia,Laszlo Benes,J. Kucka,,81,0,,,,33598,79268,18648,19032608
+116516996,England vs Slovakia (2024-06-30),Yellowcard,2024-06-30 19:17:00.000,Slovakia,Peter Pekarik,,,77,0,,,,30844,,18648,19032608
+116517122,England vs Slovakia (2024-06-30),Substitution,2024-06-30 19:24:00.000,England,Eberechi Eze,Kobbie Mainoo,,84,0,,,,7643,37540234,18645,19032608
+116517979,England vs Slovakia (2024-06-30),Substitution,2024-06-30 19:46:00.000,England,Ezri Konsa,Jude Bellingham,,106,0,,,,7124,37255840,18645,19032608
+116517331,England vs Slovakia (2024-06-30),Substitution,2024-06-30 19:34:00.000,England,Ivan Toney,Phil Foden,,90,4,,,,4341,336133,18645,19032608
+116517542,England vs Slovakia (2024-06-30),Goal,2024-06-30 19:31:00.000,England,Harry Kane,Ivan Toney,"2-1",91,0,,,,997,4341,18645,19032608
+116539598,France vs Belgium (2024-07-01),Yellowcard,2024-07-01 19:16:00.000,Belgium,Domenico Tedesco,,,76,0,,,,,,18743,19032610
+116539746,France vs Belgium (2024-07-01),Substitution,2024-07-01 19:28:00.000,Belgium,C. De Ketelaere,T. Castagne,,88,0,,,,23269660,62337,18743,19032610
+116537645,France vs Belgium (2024-07-01),Yellowcard,2024-07-01 18:14:00.000,France,Aurélien Tchouaméni,,,14,0,,,,5270371,,18647,19032610
+116539830,France vs Belgium (2024-07-01),Yellowcard,2024-07-01 19:33:00.000,Belgium,O. Mangala,,,90,3,Substitution,2024-07-01 19:03:00.000,1800.0,523939,,18743,19032610
+116539439,France vs Belgium (2024-07-01),Substitution,2024-07-01 19:03:00.000,Belgium,O. Mangala,L. Openda,,63,0,,,,523939,539993,18743,19032610
+116539428,France vs Belgium (2024-07-01),Substitution,2024-07-01 19:02:00.000,France,Randal Kolo Muani,Marcus Thuram,,62,0,,,,432872,99000,18647,19032610
+116537687,France vs Belgium (2024-07-01),Yellowcard,2024-07-01 18:23:00.000,France,Antoine Griezmann,,,23,0,,,,185658,,18647,19032610
+116537697,France vs Belgium (2024-07-01),Yellowcard,2024-07-01 18:24:00.000,France,Adrien Rabiot,,,24,0,,,,95694,,18647,19032610
+116539747,France vs Belgium (2024-07-01),Substitution,2024-07-01 19:28:00.000,Belgium,D. Lukébakio,Y. Carrasco,,88,0,,,,62871,96092,18743,19032610
+116539702,France vs Belgium (2024-07-01),Goal,2024-07-01 19:25:00.000,France,J. Vertonghen,Randal Kolo Muani,"1-0",85,0,Yellowcard,2024-07-01 19:16:00.000,540.0,915,432872,18647,19032610
+116539578,France vs Belgium (2024-07-01),Yellowcard,2024-07-01 19:16:00.000,Belgium,J. Vertonghen,,,76,0,,,,915,,18743,19032610
+116244094,Croatia vs Albania (2024-06-19),Substitution,2024-06-19 16:24:00.000,Croatia,Martin Baturina,Andrej Kramaric,,84,0,,,,37550680,1232,18588,19032618
+116243757,Croatia vs Albania (2024-06-19),Substitution,2024-06-19 15:46:00.000,Croatia,Luka Sucic,Lovro Majer,,46,0,,,,22528446,74116,18588,19032618
+116244233,Croatia vs Albania (2024-06-19),Yellowcard,2024-06-19 16:34:00.000,Albania,Mirlind Daku,,,90,4,Substitution,2024-06-19 16:25:00.000,540.0,1489787,,18641,19032618
+116244099,Croatia vs Albania (2024-06-19),Substitution,2024-06-19 16:25:00.000,Albania,Mirlind Daku,Rey Manaj,,85,0,,,,1489787,129812,18641,19032618
+116244098,Croatia vs Albania (2024-06-19),Substitution,2024-06-19 16:25:00.000,Albania,Arbër Hoxha,Ylber Ramadani,,85,0,,,,1486200,50828,18641,19032618
+116243840,Croatia vs Albania (2024-06-19),Substitution,2024-06-19 16:04:00.000,Albania,Taulant Seferi,Jasir Asani,,64,0,,,,142613,142532,18641,19032618
+116243969,Croatia vs Albania (2024-06-19),Yellowcard,2024-06-19 16:17:00.000,Albania,Elseid Hysaj,,,77,0,,,,129603,,18641,19032618
+116243062,Croatia vs Albania (2024-06-19),Goal,2024-06-19 15:11:00.000,Albania,Qazim Laci,Jasir Asani,"0-1",11,0,,,,78462,142532,18641,19032618
+116244097,Croatia vs Albania (2024-06-19),Substitution,2024-06-19 16:24:00.000,Croatia,Borna Sosa,I. Perišić,,84,0,,,,74160,31002,18588,19032618
+116244162,Croatia vs Albania (2024-06-19),Yellowcard,2024-06-19 16:27:00.000,Croatia,Ivica Ivusic,,,87,0,,,,73976,,18588,19032618
+116243755,Croatia vs Albania (2024-06-19),Substitution,2024-06-19 15:46:00.000,Croatia,Mario Pasalic,Marcelo Brozovic,,46,0,,,,73603,73004,18588,19032618
+116244311,Croatia vs Albania (2024-06-19),Yellowcard,2024-06-19 16:37:00.000,Albania,Klaus Gjasula,,,90,7,Goal,2024-06-19 16:35:00.000,120.0,38117,,18641,19032618
+116244245,Croatia vs Albania (2024-06-19),Goal,2024-06-19 16:35:00.000,Albania,Klaus Gjasula,,"2-2",90,5,Goal,2024-06-19 16:16:00.000,1140.0,38117,,18641,19032618
+116243937,Croatia vs Albania (2024-06-19),Goal,2024-06-19 16:16:00.000,Croatia,Klaus Gjasula,,"2-1",76,0,Substitution,2024-06-19 16:12:00.000,240.0,38117,,18588,19032618
+116243884,Croatia vs Albania (2024-06-19),Substitution,2024-06-19 16:12:00.000,Albania,Klaus Gjasula,Qazim Laci,,72,0,,,,38117,78462,18641,19032618
+116243867,Croatia vs Albania (2024-06-19),Substitution,2024-06-19 16:09:00.000,Croatia,Ante Budimir,Bruno Petkovic,,69,0,,,,34700,131838,18588,19032618
+116243905,Croatia vs Albania (2024-06-19),Goal,2024-06-19 16:14:00.000,Croatia,Andrej Kramaric,Ante Budimir,"1-1",74,0,,,,1232,34700,18588,19032618
+116391627,France vs Poland (2024-06-25),Yellowcard,2024-06-25 18:53:00.000,Poland,Michal Probierz,,,53,0,,,,,,18699,19032633
+116391672,France vs Poland (2024-06-25),Substitution,2024-06-25 19:01:00.000,France,Eduardo Camavinga,Adrien Rabiot,,61,0,,,,23688922,95694,18647,19032633
+116390025,France vs Poland (2024-06-25),Yellowcard,2024-06-25 18:24:00.000,Poland,Nicola Zalewski,,,24,0,,,,23288607,,18699,19032633
+116391773,France vs Poland (2024-06-25),Substitution,2024-06-25 19:08:00.000,Poland,Michal Skoras,N. Zalewski,,68,0,,,,19625676,23288607,18699,19032633
+116391891,France vs Poland (2024-06-25),Substitution,2024-06-25 19:22:00.000,France,Youssouf Fofana,Aurélien Tchouaméni,,82,0,,,,3510051,5270371,18647,19032633
+116391938,France vs Poland (2024-06-25),Substitution,2024-06-25 19:26:00.000,France,Randal Kolo Muani,Ousmane Dembélé,,86,0,,,,432872,32403,18647,19032633
+116391674,France vs Poland (2024-06-25),Substitution,2024-06-25 19:01:00.000,France,Antoine Griezmann,N'Golo Kanté,,61,0,,,,185658,1193,18647,19032633
+116392004,France vs Poland (2024-06-25),Yellowcard,2024-06-25 19:32:00.000,Poland,Karol Świderski,,,90,2,VAR,2024-06-25 19:17:00.000,900.0,155310,,18699,19032633
+116391850,France vs Poland (2024-06-25),VAR,2024-06-25 19:17:00.000,Poland,Karol Świderski,,,77,0,Substitution,2024-06-25 19:08:00.000,540.0,155310,,18699,19032633
+116391774,France vs Poland (2024-06-25),Substitution,2024-06-25 19:08:00.000,Poland,Karol Świderski,S. Szymański,,68,0,,,,155310,156180,18699,19032633
+116391645,France vs Poland (2024-06-25),Goal,2024-06-25 18:56:00.000,France,Kylian Mbappé,,"1-0",56,0,,,,96611,,18647,19032633
+116390205,France vs Poland (2024-06-25),Yellowcard,2024-06-25 18:43:00.000,France,Adrien Rabiot,,,43,0,,,,95694,,18647,19032633
+116391969,France vs Poland (2024-06-25),Yellowcard,2024-06-25 19:29:00.000,Poland,Paweł Dawidowicz,,,89,0,,,,35311,,18699,19032633
+116391868,France vs Poland (2024-06-25),Goal,2024-06-25 19:19:00.000,Poland,Robert Lewandowski,,"1-1",79,0,VAR,2024-06-25 19:17:00.000,120.0,31000,,18699,19032633
+116392026,France vs Poland (2024-06-25),VAR,2024-06-25 19:17:00.000,Poland,Robert Lewandowski,,,77,0,,,,31000,,18699,19032633
+116391676,France vs Poland (2024-06-25),Substitution,2024-06-25 19:01:00.000,France,Olivier Giroud,Bradley Barcola,,61,0,,,,798,37317369,18647,19032633
+116285138,Poland vs Austria (2024-06-21),Substitution,2024-06-21 19:27:00.000,Poland,Kacper Urbanski,Piotr Zieliński,,87,0,,,,37382883,129072,18699,19032630
+116284598,Poland vs Austria (2024-06-21),Yellowcard,2024-06-21 18:56:00.000,Austria,Patrick Wimmer,,,56,0,Substitution,2024-06-21 18:46:00.000,600.0,37259654,,18643,19032630
+116284418,Poland vs Austria (2024-06-21),Substitution,2024-06-21 18:46:00.000,Austria,Patrick Wimmer,Florian Grillitsch,,46,0,,,,37259654,32378,18643,19032630
+116284711,Poland vs Austria (2024-06-21),Substitution,2024-06-21 19:03:00.000,Austria,Alexander Prass,Phillipp Mwene,,63,0,,,,31626002,35141,18643,19032630
+116284798,Poland vs Austria (2024-06-21),Goal,2024-06-21 19:06:00.000,Austria,Christoph Baumgartner,Alexander Prass,"1-2",66,0,,,,3862700,31626002,18643,19032630
+116284698,Poland vs Austria (2024-06-21),Yellowcard,2024-06-21 19:02:00.000,Poland,Jakub Moder,,,62,0,Substitution,2024-06-21 18:46:00.000,960.0,1444078,,18699,19032630
+116284416,Poland vs Austria (2024-06-21),Substitution,2024-06-21 18:46:00.000,Poland,Jakub Moder,Jakub Piotrowski,,46,0,,,,1444078,155889,18699,19032630
+116284560,Poland vs Austria (2024-06-21),Yellowcard,2024-06-21 18:53:00.000,Poland,Bartosz Slisz,,,53,0,,,,506092,,18699,19032630
+116285039,Poland vs Austria (2024-06-21),Substitution,2024-06-21 19:21:00.000,Austria,Romano Schmid,Christoph Baumgartner,,81,0,,,,459660,3862700,18643,19032630
+116281889,Poland vs Austria (2024-06-21),Goal,2024-06-21 18:30:00.000,Poland,Krzysztof Piatek,,"1-1",30,0,,,,155470,,18699,19032630
+116284648,Poland vs Austria (2024-06-21),Substitution,2024-06-21 19:00:00.000,Poland,Karol Świderski,Adam Buksa,,60,0,,,,155310,155460,18699,19032630
+116281715,Poland vs Austria (2024-06-21),Goal,2024-06-21 18:09:00.000,Austria,Gernot Trauner,Phillipp Mwene,"0-1",9,0,,,,52302,35141,18643,19032630
+116284631,Poland vs Austria (2024-06-21),Substitution,2024-06-21 18:59:00.000,Austria,Kevin Danso,Gernot Trauner,,59,0,,,,33079,52302,18643,19032630
+116285035,Poland vs Austria (2024-06-21),Substitution,2024-06-21 19:21:00.000,Austria,Michael Gregoritsch,Marko Arnautovic,,81,0,,,,32361,1139,18643,19032630
+116284756,Poland vs Austria (2024-06-21),Yellowcard,2024-06-21 19:04:00.000,Poland,Robert Lewandowski ,,,64,0,Substitution,2024-06-21 19:00:00.000,240.0,31000,,18699,19032630
+116284647,Poland vs Austria (2024-06-21),Substitution,2024-06-21 19:00:00.000,Poland,Robert Lewandowski ,Krzysztof Piatek,,60,0,,,,31000,155470,18699,19032630
+116284956,Poland vs Austria (2024-06-21),Substitution,2024-06-21 19:15:00.000,Poland,Kamil Grosicki,Bartosz Slisz,,75,0,,,,5359,506092,18699,19032630
+116284989,Poland vs Austria (2024-06-21),Goal,2024-06-21 19:18:00.000,Austria,Marko Arnautovic,,"1-3",78,0,Yellowcard,2024-06-21 19:10:00.000,480.0,1139,,18643,19032630
+116284875,Poland vs Austria (2024-06-21),Yellowcard,2024-06-21 19:10:00.000,Austria,Marko Arnautovic,,,70,0,,,,1139,,18643,19032630
+116284982,Poland vs Austria (2024-06-21),Yellowcard,2024-06-21 19:17:00.000,Poland,Wojciech Szczęsny,,,77,0,,,,805,,18699,19032630
+116220915,Austria vs France (2024-06-17),Substitution,2024-06-17 22:00:00.000,Austria,Patrick Wimmer,Florian Grillitsch,,60,0,,,,37259654,32378,18643,19032629
+116221059,Austria vs France (2024-06-17),Substitution,2024-06-17 22:28:00.000,Austria,Alexander Prass,Phillipp Mwene,,88,0,,,,31626002,35141,18643,19032629
+116220983,Austria vs France (2024-06-17),Substitution,2024-06-17 22:11:00.000,France,Eduardo Camavinga,Adrien Rabiot,,71,0,,,,23688922,95694,18647,19032629
+116221026,Austria vs France (2024-06-17),Yellowcard,2024-06-17 22:20:00.000,Austria,Christoph Baumgartner,,,80,0,,,,3862700,,18643,19032629
+116221078,Austria vs France (2024-06-17),Substitution,2024-06-17 22:30:00.000,France,Youssouf Fofana,Antoine Griezmann,,90,0,,,,3510051,185658,18647,19032629
+116221086,Austria vs France (2024-06-17),Substitution,2024-06-17 22:31:00.000,Austria,Romano Schmid,Konrad Laimer,,90,1,,,,459660,52585,18643,19032629
+116220984,Austria vs France (2024-06-17),Substitution,2024-06-17 22:11:00.000,France,Randal Kolo Muani,Ousmane Dembélé,,71,0,,,,432872,32403,18647,19032629
+116221076,Austria vs France (2024-06-17),Yellowcard,2024-06-17 22:30:00.000,France,Kylian Mbappé,,,90,0,,,,96611,,18647,19032629
+116220726,Austria vs France (2024-06-17),Goal,2024-06-17 21:38:00.000,France,Maximilian Wöber,Kylian Mbappé,"0-1",38,0,Yellowcard,2024-06-17 21:16:00.000,1320.0,52850,96611,18647,19032629
+116220587,Austria vs France (2024-06-17),Yellowcard,2024-06-17 21:16:00.000,Austria,Maximilian Wöber,,,16,0,,,,52850,,18643,19032629
+116221042,Austria vs France (2024-06-17),Yellowcard,2024-06-17 22:24:00.000,Austria,Konrad Laimer,,,84,0,,,,52585,,18643,19032629
+116220914,Austria vs France (2024-06-17),Substitution,2024-06-17 21:59:00.000,Austria,Gernot Trauner,Maximilian Wöber,,59,0,,,,52302,52850,18643,19032629
+116220699,Austria vs France (2024-06-17),Yellowcard,2024-06-17 21:33:00.000,Austria,Phillipp Mwene,,,33,0,,,,35141,,18643,19032629
+116221070,Austria vs France (2024-06-17),Yellowcard,2024-06-17 22:33:00.000,Austria,Kevin Danso,,,90,3,,,,33079,,18643,19032629
+116220905,Austria vs France (2024-06-17),Yellowcard,2024-06-17 21:56:00.000,France,Ousmane Dembélé,,,56,0,,,,32403,,18647,19032629
+116220913,Austria vs France (2024-06-17),Substitution,2024-06-17 21:59:00.000,Austria,Marko Arnautovic,Michael Gregoritsch,,59,0,,,,1139,32361,18643,19032629
+116221077,Austria vs France (2024-06-17),Substitution,2024-06-17 22:30:00.000,France,Olivier Giroud,Kylian Mbappé,,90,0,,,,798,96611,18647,19032629
+116281417,Slovakia vs Ukraine (2024-06-21),Substitution,2024-06-21 16:26:00.000,Slovakia,Leo Sauer,Ivan Schranz,,86,0,,,,37597231,81501,18648,19032636
+116281433,Slovakia vs Ukraine (2024-06-21),Substitution,2024-06-21 16:32:00.000,Ukraine,Maksym Taloverov,Mykola Shaparenko,,90,2,,,,37259951,205964,18624,19032636
+116281280,Slovakia vs Ukraine (2024-06-21),Substitution,2024-06-21 16:07:00.000,Slovakia,Adam Obert,Lukas Haraslin,,67,0,,,,24816773,133633,18648,19032636
+116281281,Slovakia vs Ukraine (2024-06-21),Substitution,2024-06-21 16:07:00.000,Slovakia,Tomas Suslov,David Hancko,,67,0,,,,24816762,181449,18648,19032636
+116281263,Slovakia vs Ukraine (2024-06-21),Substitution,2024-06-21 16:00:00.000,Slovakia,David Strelec,Robert Bozenik,,60,0,,,,9939024,182277,18648,19032636
+116281248,Slovakia vs Ukraine (2024-06-21),Goal,2024-06-21 15:54:00.000,Ukraine,Mykola Shaparenko,Oleksandr Zinchenko,"1-1",54,0,,,,205964,26603,18624,19032636
+116281290,Slovakia vs Ukraine (2024-06-21),Substitution,2024-06-21 16:07:00.000,Ukraine,Oleksandr Zubkov,Andriy Yarmolenko,,67,0,,,,205946,204697,18624,19032636
+116281402,Slovakia vs Ukraine (2024-06-21),Yellowcard,2024-06-21 16:24:00.000,Ukraine,Roman Yaremchuk,,,84,0,Goal,2024-06-21 16:20:00.000,240.0,205933,,18624,19032636
+116281390,Slovakia vs Ukraine (2024-06-21),Goal,2024-06-21 16:20:00.000,Ukraine,Roman Yaremchuk,Mykola Shaparenko,"1-2",80,0,Substitution,2024-06-21 16:07:00.000,780.0,205933,205964,18624,19032636
+116281287,Slovakia vs Ukraine (2024-06-21),Substitution,2024-06-21 16:07:00.000,Ukraine,Roman Yaremchuk,Artem Dovbyk,,67,0,,,,205933,205978,18624,19032636
+116281411,Slovakia vs Ukraine (2024-06-21),Substitution,2024-06-21 16:25:00.000,Ukraine,Sergiy Sydorchuk,Volodymyr Brazhko,,85,0,,,,204919,24065258,18624,19032636
+116280959,Slovakia vs Ukraine (2024-06-21),Goal,2024-06-21 15:17:00.000,Slovakia,Ivan Schranz,Lukas Haraslin,"1-0",17,0,,,,81501,133633,18648,19032636
+116281410,Slovakia vs Ukraine (2024-06-21),Substitution,2024-06-21 16:25:00.000,Ukraine,Ruslan Malinovskyi,Mykhaylo Mudryk,,85,0,,,,62872,9938919,18624,19032636
+116281264,Slovakia vs Ukraine (2024-06-21),Substitution,2024-06-21 16:00:00.000,Slovakia,Laszlo Benes,Ondrej Duda,,60,0,,,,33598,33793,18648,19032636
+116603993,Spain vs Germany (2024-07-05),Yellowcard,2024-07-05 19:34:00.000,Germany,Florian Wirtz,,,94,0,Goal,2024-07-05 19:29:00.000,300.0,37429246,,18660,19032601
+116603563,Spain vs Germany (2024-07-05),Goal,2024-07-05 19:29:00.000,Germany,Florian Wirtz,Joshua Kimmich,"1-1",89,0,Substitution,2024-07-05 18:46:00.000,2580.0,37429246,32362,18660,19032601
+116602847,Spain vs Germany (2024-07-05),Substitution,2024-07-05 18:46:00.000,Germany,Florian Wirtz,Leroy Sané,,46,0,,,,37429246,4783,18660,19032601
+116603687,Spain vs Germany (2024-07-05),Yellowcard,2024-07-05 19:29:00.000,Germany,Nico Schlotterbeck,,,89,0,,,,3862352,,18660,19032601
+116603244,Spain vs Germany (2024-07-05),Yellowcard,2024-07-05 19:14:00.000,Spain,Ferran Torres,,,74,0,Substitution,2024-07-05 19:03:00.000,660.0,448389,,18710,19032601
+116603059,Spain vs Germany (2024-07-05),Substitution,2024-07-05 19:03:00.000,Spain,Ferran Torres,Lamine Yamal,,63,0,,,,448389,37656179,18710,19032601
+116603366,Spain vs Germany (2024-07-05),Yellowcard,2024-07-05 19:22:00.000,Spain,Unai Simón,,,82,0,,,,187215,,18710,19032601
+116603326,Spain vs Germany (2024-07-05),Substitution,2024-07-05 19:20:00.000,Spain,Mikel Oyarzabal,Álvaro Morata,,80,0,,,,186932,129660,18710,19032601
+116604745,Spain vs Germany (2024-07-05),Yellowcard,2024-07-05 19:50:00.000,Spain,Rodri,,,110,0,,,,186910,,18710,19032601
+116605572,Spain vs Germany (2024-07-05),Yellowcard,2024-07-05 20:00:00.000,Spain,Fabián Ruiz,,,120,0,Yellowcard,2024-07-05 20:00:00.000,0.0,186735,,18710,19032601
+116605519,Spain vs Germany (2024-07-05),Yellowcard,2024-07-05 20:00:00.000,Spain,Fabián Ruiz,,,120,0,,,,186735,,18710,19032601
+116602846,Spain vs Germany (2024-07-05),Substitution,2024-07-05 18:46:00.000,Spain,Nacho Fernández ,Robin Le Normand,,46,0,,,,186353,100580,18710,19032601
+116601838,Spain vs Germany (2024-07-05),Yellowcard,2024-07-05 18:29:00.000,Spain,Robin Le Normand,,,29,0,,,,100580,,18710,19032601
+116602910,Spain vs Germany (2024-07-05),Goal,2024-07-05 18:51:00.000,Spain,Dani Olmo,Lamine Yamal,"1-0",51,0,Substitution,2024-07-05 18:08:00.000,2580.0,74060,37656179,18710,19032601
+116601691,Spain vs Germany (2024-07-05),Substitution,2024-07-05 18:08:00.000,Spain,Dani Olmo,Pedri,,8,0,,,,74060,37288001,18710,19032601
+116604973,Spain vs Germany (2024-07-05),Yellowcard,2024-07-05 19:53:00.000,Germany,Deniz Undav,,,113,0,,,,41077,,18660,19032601
+116601827,Spain vs Germany (2024-07-05),Yellowcard,2024-07-05 18:28:00.000,Germany,David Raum,,,28,0,,,,36119,,18660,19032601
+116602988,Spain vs Germany (2024-07-05),Yellowcard,2024-07-05 18:56:00.000,Germany,Robert Andrich,,,56,0,Substitution,2024-07-05 18:46:00.000,600.0,34880,,18660,19032601
+116602845,Spain vs Germany (2024-07-05),Substitution,2024-07-05 18:46:00.000,Germany,Robert Andrich,Emre Can,,46,0,,,,34880,1388,18660,19032601
+116603929,Spain vs Germany (2024-07-05),Substitution,2024-07-05 19:31:00.000,Germany,Waldemar Anton,Kai Havertz,,91,0,,,,32728,32612,18660,19032601
+116605305,Spain vs Germany (2024-07-05),Goal,2024-07-05 19:59:00.000,Spain,Mikel Merino,Dani Olmo,"2-1",119,0,Substitution,2024-07-05 19:20:00.000,2340.0,32710,74060,18710,19032601
+116603318,Spain vs Germany (2024-07-05),Substitution,2024-07-05 19:20:00.000,Spain,Mikel Merino,Nico Williams,,80,0,,,,32710,37297544,18710,19032601
+116603224,Spain vs Germany (2024-07-05),Yellowcard,2024-07-05 19:13:00.000,Germany,Maximilian Mittelstädt,,,73,0,Substitution,2024-07-05 18:57:00.000,960.0,32384,,18660,19032601
+116602995,Spain vs Germany (2024-07-05),Substitution,2024-07-05 18:57:00.000,Germany,Maximilian Mittelstädt,David Raum,,57,0,,,,32384,36119,18660,19032601
+116601738,Spain vs Germany (2024-07-05),Yellowcard,2024-07-05 18:13:00.000,Germany,Antonio Rüdiger,,,13,0,,,,31837,,18660,19032601
+116605677,Spain vs Germany (2024-07-05),Yellow/Red card,2024-07-05 20:06:00.000,Spain,Daniel Carvajal,,,120,6,Yellowcard,2024-07-05 19:40:00.000,1560.0,31647,,18710,19032601
+116604345,Spain vs Germany (2024-07-05),Yellowcard,2024-07-05 19:40:00.000,Spain,Daniel Carvajal,,,100,0,,,,31647,,18710,19032601
+116602991,Spain vs Germany (2024-07-05),Substitution,2024-07-05 18:57:00.000,Germany,Niclas Füllkrug,İlkay Gündoğan,,57,0,,,,31532,4842,18660,19032601
+116603115,Spain vs Germany (2024-07-05),Yellowcard,2024-07-05 19:07:00.000,Germany,Toni Kroos,,,67,0,,,,30289,,18660,19032601
+116603319,Spain vs Germany (2024-07-05),Substitution,2024-07-05 19:20:00.000,Germany,Thomas Müller,Jonathan Tah,,80,0,,,,30286,31836,18660,19032601
+116604396,Spain vs Germany (2024-07-05),Substitution,2024-07-05 19:42:00.000,Spain,Joselu,Fabián Ruiz,,102,0,,,,1468,186735,18710,19032601
+116230180,Turkey vs Georgia (2024-06-18),VAR,2024-06-18 18:27:00.000,Turkey,Kenan Yıldız,,,27,0,,,,37598725,,18716,19032640
+116232324,Turkey vs Georgia (2024-06-18),Goal,2024-06-18 19:05:00.000,Turkey,Arda Güler,Kaan Ayhan,"2-1",65,0,,,,37547467,31878,18716,19032640
+116230221,Turkey vs Georgia (2024-06-18),Goal,2024-06-18 18:32:00.000,Georgia,Georges Mikautadze,Giorgi Kochorashvili,"1-1",32,0,,,,13963088,106911,18692,19032640
+116230164,Turkey vs Georgia (2024-06-18),Goal,2024-06-18 18:25:00.000,Turkey,Mert Müldür,,"1-0",25,0,,,,2510388,,18716,19032640
+116232439,Turkey vs Georgia (2024-06-18),Substitution,2024-06-18 19:14:00.000,Georgia,Zuriko Davitashvili,Giorgi Chakvetadze,,74,0,,,,539555,106821,18692,19032640
+116232917,Turkey vs Georgia (2024-06-18),Goal,2024-06-18 19:37:00.000,Turkey,Kerem Aktürkoğlu,Orkun Kökçü,"3-1",90,7,Substitution,2024-06-18 19:25:00.000,720.0,534383,4545376,18716,19032640
+116232624,Turkey vs Georgia (2024-06-18),Substitution,2024-06-18 19:25:00.000,Turkey,Kerem Aktürkoğlu,Kenan Yıldız,,85,0,,,,534383,37598725,18716,19032640
+116232627,Turkey vs Georgia (2024-06-18),Substitution,2024-06-18 19:25:00.000,Georgia,Zeki Çelik,Solomon Kvirkvelia,,85,0,,,,450031,169788,18692,19032640
+116232535,Turkey vs Georgia (2024-06-18),Substitution,2024-06-18 19:19:00.000,Turkey,Yusuf Yazıcı,Arda Güler,,79,0,,,,202568,37547467,18716,19032640
+116230243,Turkey vs Georgia (2024-06-18),Yellowcard,2024-06-18 18:35:00.000,Turkey,Abdülkerim Bardakcı,,,35,0,,,,201370,,18716,19032640
+116232239,Turkey vs Georgia (2024-06-18),Yellowcard,2024-06-18 18:55:00.000,Georgia,Solomon Kvirkvelia,,,55,0,,,,169788,,18692,19032640
+116232534,Turkey vs Georgia (2024-06-18),Substitution,2024-06-18 19:19:00.000,Turkey,Merih Demiral,Kaan Ayhan,,79,0,,,,164069,31878,18716,19032640
+116232722,Turkey vs Georgia (2024-06-18),Substitution,2024-06-18 19:29:00.000,Georgia,Sandro Altunashvili,Anzor Mekvabishvili,,89,0,,,,105926,25922119,18692,19032640
+116232440,Turkey vs Georgia (2024-06-18),Substitution,2024-06-18 19:14:00.000,Georgia,Luka Lochoshvili,Georgiy Tsitaishvili,,74,0,,,,104100,537257,18692,19032640
+116232650,Turkey vs Georgia (2024-06-18),Substitution,2024-06-18 19:25:00.000,Turkey,Budu Zivzivadze,Mert Müldür,,85,0,,,,84625,2510388,18716,19032640
+116232769,Turkey vs Georgia (2024-06-18),Substitution,2024-06-18 19:32:00.000,Turkey,Salih Özcan,Hakan Çalhanoğlu,,90,2,,,,32622,31825,18716,19032640
+116232703,Turkey vs Georgia (2024-06-18),Yellowcard,2024-06-18 19:29:00.000,Turkey,Hakan Çalhanoğlu,,,89,0,,,,31825,,18716,19032640
+116310107,Turkey vs Portugal (2024-06-22),Substitution,2024-06-22 18:58:00.000,Turkey,Kenan Yıldız,Kaan Ayhan,,58,0,,,,37598725,31878,18716,19032643
+116310909,Turkey vs Portugal (2024-06-22),Substitution,2024-06-22 19:28:00.000,Portugal,João Neves,Vitinha,,88,0,,,,37592729,4545430,18701,19032643
+116310479,Turkey vs Portugal (2024-06-22),Substitution,2024-06-22 19:10:00.000,Turkey,Arda Güler,Yunus Akgün,,70,0,,,,37547467,5640825,18716,19032643
+116310826,Turkey vs Portugal (2024-06-22),Substitution,2024-06-22 19:23:00.000,Portugal,António Silva,Pepe,,83,0,,,,37354828,184934,18701,19032643
+116310115,Turkey vs Portugal (2024-06-22),Substitution,2024-06-22 18:58:00.000,Turkey,İsmail Yüksek,Kerem Aktürkoğlu,,58,0,,,,22528506,534383,18716,19032643
+116307152,Turkey vs Portugal (2024-06-22),Yellowcard,2024-06-22 18:39:00.000,Portugal,Rafael Leão,,,39,0,,,,540251,,18701,19032643
+116309844,Turkey vs Portugal (2024-06-22),Substitution,2024-06-22 18:46:00.000,Portugal,Pedro Neto,Rafael Leão,,46,0,,,,496775,540251,18701,19032643
+116307213,Turkey vs Portugal (2024-06-22),Yellowcard,2024-06-22 18:42:00.000,Turkey,Zeki Çelik,,,42,0,,,,450031,,18716,19032643
+116307199,Turkey vs Portugal (2024-06-22),Yellowcard,2024-06-22 18:42:00.000,Turkey,Samet Akaydin,,,42,0,Goal,2024-06-22 18:28:00.000,840.0,390543,,18716,19032643
+116306986,Turkey vs Portugal (2024-06-22),Goal,2024-06-22 18:28:00.000,Portugal,Samet Akaydin,,"0-2",28,0,,,,390543,,18701,19032643
+116309846,Turkey vs Portugal (2024-06-22),Substitution,2024-06-22 18:46:00.000,Turkey,Yusuf Yazıcı,Orkun Kökçü,,46,0,,,,202568,4545376,18716,19032643
+116306953,Turkey vs Portugal (2024-06-22),Yellowcard,2024-06-22 18:25:00.000,Turkey,Abdülkerim Bardakcı,,,25,0,,,,201370,,18716,19032643
+116310630,Turkey vs Portugal (2024-06-22),Substitution,2024-06-22 19:15:00.000,Turkey,Merih Demiral,Samet Akaydin,,75,0,,,,164069,390543,18716,19032643
+116310450,Turkey vs Portugal (2024-06-22),Substitution,2024-06-22 19:08:00.000,Portugal,Nélson Semedo,João Cancelo,,68,0,,,,160110,160956,18701,19032643
+116307241,Turkey vs Portugal (2024-06-22),Yellowcard,2024-06-22 18:45:00.000,Portugal,João Palhinha,,,45,0,,,,160072,,18701,19032643
+116309845,Turkey vs Portugal (2024-06-22),Substitution,2024-06-22 18:46:00.000,Portugal,Rúben Neves,João Palhinha,,46,0,,,,159699,160072,18701,19032643
+116310025,Turkey vs Portugal (2024-06-22),Goal,2024-06-22 18:56:00.000,Portugal,Bruno Fernandes,Cristiano Ronaldo,"0-3",56,0,,,,129602,580,18701,19032643
+116306890,Turkey vs Portugal (2024-06-22),Goal,2024-06-22 18:21:00.000,Portugal,Bernardo Silva,,"0-1",21,0,,,,96353,,18701,19032643
+116543277,Portugal vs Slovenia (2024-07-01),Yellowcard,2024-07-01 22:51:00.000,Portugal,Roberto Martínez Montoliú,,,111,0,Redcard,2024-07-01 22:46:00.000,300.0,,,18701,19032609
+116543263,Portugal vs Slovenia (2024-07-01),Redcard,2024-07-01 22:46:00.000,Slovenia,Matjaž Kek,,,105,1,,,,,,18630,19032609
+116540564,Portugal vs Slovenia (2024-07-01),Substitution,2024-07-01 22:16:00.000,Portugal,Francisco Conceição,Rafael Leão,,76,0,,,,37328006,540251,18701,19032609
+116540343,Portugal vs Slovenia (2024-07-01),Yellowcard,2024-07-01 21:32:00.000,Slovenia,V. Drkušić,,,32,0,,,,21413492,,18630,19032609
+116543206,Portugal vs Slovenia (2024-07-01),Yellowcard,2024-07-01 22:46:00.000,Slovenia,J. Bijol,,,106,0,,,,1548632,,18630,19032609
+116540366,Portugal vs Slovenia (2024-07-01),Yellowcard,2024-07-01 21:37:00.000,Slovenia,Ž. Karničnik,,,37,0,,,,688941,,18630,19032609
+116540557,Portugal vs Slovenia (2024-07-01),Substitution,2024-07-01 22:14:00.000,Slovenia,Ž. Celar,J. Mlakar,,74,0,,,,459196,133994,18630,19032609
+116543217,Portugal vs Slovenia (2024-07-01),Yellowcard,2024-07-01 22:47:00.000,Slovenia,J. Balkovec,,,107,0,Penalty Shootout Missed,2024-07-01 21:03:00.000,6240.0,183013,,18630,19032609
+116543484,Portugal vs Slovenia (2024-07-01),Penalty Shootout Missed,2024-07-01 21:03:00.000,Slovenia,J. Balkovec,,"1-0",3,0,,,,183013,,18630,19032609
+116543261,Portugal vs Slovenia (2024-07-01),Yellowcard,2024-07-01 22:47:00.000,Portugal,João Cancelo,,,107,0,,,,160956,,18701,19032609
+116543306,Portugal vs Slovenia (2024-07-01),Substitution,2024-07-01 22:57:00.000,Portugal,Nélson Semedo,Pepe,,117,0,,,,160110,184934,18701,19032609
+116540535,Portugal vs Slovenia (2024-07-01),Substitution,2024-07-01 22:05:00.000,Portugal,Diogo Jota,Vitinha,,65,0,,,,159917,4545430,18701,19032609
+116543307,Portugal vs Slovenia (2024-07-01),Substitution,2024-07-01 22:58:00.000,Portugal,Rúben Neves,João Cancelo,,118,0,,,,159699,160956,18701,19032609
+116543497,Portugal vs Slovenia (2024-07-01),Penalty Shootout Goal,2024-07-01 21:04:00.000,Portugal,Bruno Fernandes,,"2-0",4,0,,,,129602,,18701,19032609
+116543199,Portugal vs Slovenia (2024-07-01),Substitution,2024-07-01 22:46:00.000,Slovenia,J. Iličić,T. Elšnik,,106,0,Penalty Shootout Missed,2024-07-01 21:01:00.000,6300.0,128899,7159,18630,19032609
+116543456,Portugal vs Slovenia (2024-07-01),Penalty Shootout Missed,2024-07-01 21:01:00.000,Slovenia,J. Iličić,,"0-0",1,0,,,,128899,,18630,19032609
+116543555,Portugal vs Slovenia (2024-07-01),Penalty Shootout Goal,2024-07-01 21:06:00.000,Portugal,Bernardo Silva,,"3-0",6,0,,,,96353,,18701,19032609
+116540639,Portugal vs Slovenia (2024-07-01),Substitution,2024-07-01 22:27:00.000,Slovenia,B. Verbič,P. Stojanović,,87,0,Penalty Shootout Missed,2024-07-01 21:05:00.000,4920.0,84457,74146,18630,19032609
+116543528,Portugal vs Slovenia (2024-07-01),Penalty Shootout Missed,2024-07-01 21:05:00.000,Slovenia,B. Verbič,,"2-0",5,0,,,,84457,,18630,19032609
+116543137,Portugal vs Slovenia (2024-07-01),Yellowcard,2024-07-01 22:41:00.000,Slovenia,J. Gorenc Stankovič,,,101,0,Substitution,2024-07-01 22:14:00.000,1620.0,3339,,18630,19032609
+116540559,Portugal vs Slovenia (2024-07-01),Substitution,2024-07-01 22:14:00.000,Slovenia,J. Gorenc Stankovič,A. Šporar,,74,0,,,,3339,182905,18630,19032609
+116543172,Portugal vs Slovenia (2024-07-01),Missed Penalty,2024-07-01 22:45:00.000,Portugal,Cristiano Ronaldo,Cristiano Ronaldo,,105,0,Penalty Shootout Goal,2024-07-01 21:02:00.000,6180.0,580,580,18701,19032609
+116543466,Portugal vs Slovenia (2024-07-01),Penalty Shootout Goal,2024-07-01 21:02:00.000,Portugal,Cristiano Ronaldo,,"1-0",2,0,,,,580,,18701,19032609
+116250953,Scotland vs Switzerland (2024-06-19),Substitution,2024-06-19 22:26:00.000,Switzerland,Zeki Amdouni,Dan Ndoye,,86,0,,,,37261110,19978623,18708,19045702
+116250958,Scotland vs Switzerland (2024-06-19),Substitution,2024-06-19 22:26:00.000,Switzerland,Leonidas Stergiou,Silvan Widmer,,86,0,,,,24817462,129609,18708,19045702
+116250889,Scotland vs Switzerland (2024-06-19),Substitution,2024-06-19 22:15:00.000,Switzerland,Fabian Rieder,Rubén Vargas,,75,0,,,,24817439,1478864,18708,19045702
+116250082,Scotland vs Switzerland (2024-06-19),VAR,2024-06-19 21:33:00.000,Switzerland,Dan Ndoye,,,33,0,,,,19978623,,18708,19045702
+116250806,Scotland vs Switzerland (2024-06-19),Yellowcard,2024-06-19 21:51:00.000,Scotland,Scott McTominay,,,51,0,Goal,2024-06-19 21:13:00.000,2280.0,455376,,18706,19045702
+116249772,Scotland vs Switzerland (2024-06-19),Goal,2024-06-19 21:13:00.000,Scotland,Scott McTominay,Callum McGregor,"1-0",13,0,,,,455376,8585,18706,19045702
+116250946,Scotland vs Switzerland (2024-06-19),Yellowcard,2024-06-19 22:26:00.000,Switzerland,Vincent Sierro,,,86,0,Substitution,2024-06-19 22:15:00.000,660.0,198045,,18708,19045702
+116250890,Scotland vs Switzerland (2024-06-19),Substitution,2024-06-19 22:15:00.000,Switzerland,Vincent Sierro,Remo Freuler,,75,0,,,,198045,130145,18708,19045702
+116250870,Scotland vs Switzerland (2024-06-19),Yellowcard,2024-06-19 22:08:00.000,Scotland,Scott McKenna,,,68,0,Substitution,2024-06-19 22:01:00.000,420.0,173047,,18706,19045702
+116250840,Scotland vs Switzerland (2024-06-19),Substitution,2024-06-19 22:01:00.000,Scotland,Scott McKenna,Kieran Tierney,,61,0,,,,173047,172960,18706,19045702
+116250979,Scotland vs Switzerland (2024-06-19),Substitution,2024-06-19 22:30:00.000,Scotland,Lawrence Shankland,Ché Adams,,90,0,,,,172938,3596,18706,19045702
+116250978,Scotland vs Switzerland (2024-06-19),Substitution,2024-06-19 22:30:00.000,Scotland,Ryan Christie,John McGinn,,90,0,,,,172752,172611,18706,19045702
+116250877,Scotland vs Switzerland (2024-06-19),Yellowcard,2024-06-19 22:11:00.000,Scotland,John McGinn,,,71,0,,,,172611,,18706,19045702
+116250910,Scotland vs Switzerland (2024-06-19),Substitution,2024-06-19 22:19:00.000,Scotland,Kenny McLean,Billy Gilmour,,79,0,,,,172385,6599973,18706,19045702
+116250951,Scotland vs Switzerland (2024-06-19),VAR,2024-06-19 22:23:00.000,Switzerland,Breel Embolo,,,83,0,Substitution,2024-06-19 22:00:00.000,1380.0,32538,,18708,19045702
+116250836,Scotland vs Switzerland (2024-06-19),Substitution,2024-06-19 22:00:00.000,Switzerland,Breel Embolo,Xherdan Shaqiri,,60,0,,,,32538,1714,18708,19045702
+116250002,Scotland vs Switzerland (2024-06-19),Yellowcard,2024-06-19 21:31:00.000,Switzerland,Ricardo Rodríguez,,,31,0,,,,31653,,18708,19045702
+116249935,Scotland vs Switzerland (2024-06-19),Goal,2024-06-19 21:26:00.000,Switzerland,Xherdan Shaqiri,,"1-1",26,0,,,,1714,,18708,19045702
+116392008,Netherlands vs Austria (2024-06-25),Yellowcard,2024-06-25 19:34:00.000,Austria,Leopold Querfeld,,,90,4,Substitution,2024-06-25 19:02:00.000,1920.0,37536352,,18643,19032632
+116391693,Netherlands vs Austria (2024-06-25),Substitution,2024-06-25 19:02:00.000,Austria,Leopold Querfeld,Florian Grillitsch,,62,0,,,,37536352,32378,18643,19032632
+116390115,Netherlands vs Austria (2024-06-25),Substitution,2024-06-25 18:35:00.000,Netherlands,Xavi Simons,Joey Veerman,,35,0,,,,37317392,29394,18694,19032632
+116391719,Netherlands vs Austria (2024-06-25),Substitution,2024-06-25 19:05:00.000,Netherlands,Micky van de Ven,Nathan Aké,,65,0,,,,37296248,1869,18694,19032632
+116390089,Netherlands vs Austria (2024-06-25),Yellowcard,2024-06-25 18:33:00.000,Austria,Patrick Wimmer,,,33,0,,,,37259654,,18643,19032632
+116391681,Netherlands vs Austria (2024-06-25),Substitution,2024-06-25 19:02:00.000,Austria,Christoph Baumgartner,Philipp Lienhart,,62,0,,,,3862700,186848,18643,19032632
+116389901,Netherlands vs Austria (2024-06-25),Goal,2024-06-25 18:06:00.000,Austria,Donyell Malen,Alexander Prass,"0-1",6,0,,,,537758,31626002,18643,19032632
+116391649,Netherlands vs Austria (2024-06-25),Goal,2024-06-25 18:59:00.000,Austria,Romano Schmid,Florian Grillitsch,"1-2",59,0,,,,459660,32378,18643,19032632
+116391682,Netherlands vs Austria (2024-06-25),Substitution,2024-06-25 19:02:00.000,Austria,Konrad Laimer,Patrick Wimmer,,62,0,,,,52585,37259654,18643,19032632
+116390085,Netherlands vs Austria (2024-06-25),Yellowcard,2024-06-25 18:32:00.000,Austria,Stefan Posch,,,32,0,,,,33770,,18643,19032632
+116391876,Netherlands vs Austria (2024-06-25),Goal,2024-06-25 19:20:00.000,Austria,Marcel Sabitzer,Christoph Baumgartner,"2-3",80,0,,,,32582,3862700,18643,19032632
+116391853,Netherlands vs Austria (2024-06-25),Substitution,2024-06-25 19:18:00.000,Austria,Michael Gregoritsch,Marko Arnautovic,,78,0,,,,32361,1139,18643,19032632
+116391474,Netherlands vs Austria (2024-06-25),Goal,2024-06-25 18:47:00.000,Netherlands,Cody Gakpo,Xavi Simons,"1-1",47,0,,,,30062,37317392,18694,19032632
+116391793,Netherlands vs Austria (2024-06-25),Substitution,2024-06-25 19:12:00.000,Netherlands,Wout Weghorst,Donyell Malen,,72,0,,,,25317,537758,18694,19032632
+116391728,Netherlands vs Austria (2024-06-25),Substitution,2024-06-25 19:05:00.000,Netherlands,Georginio Wijnaldum,Tijjani Reijnders,,65,0,,,,1365,3156873,18694,19032632
+116391836,Netherlands vs Austria (2024-06-25),VAR,2024-06-25 19:17:00.000,Netherlands,Memphis Depay,,,77,0,Goal,2024-06-25 19:15:00.000,120.0,929,,18694,19032632
+116391832,Netherlands vs Austria (2024-06-25),Goal,2024-06-25 19:15:00.000,Netherlands,Memphis Depay,Wout Weghorst,"2-2",75,0,,,,929,25317,18694,19032632
+116391979,Netherlands vs Austria (2024-06-25),Substitution,2024-06-25 19:32:00.000,Austria,Andreas Weimann,Romano Schmid,,90,2,,,,339,459660,18643,19032632
+116191724,Slovenia vs Denmark (2024-06-16),Substitution,2024-06-16 19:34:00.000,Slovenia,David Brekalo,Andraz Sporar,,90,4,,,,2823098,182905,18630,19032622
+116190207,Slovenia vs Denmark (2024-06-16),Yellowcard,2024-06-16 18:49:00.000,Denmark,Morten Hjulmand,,,49,0,,,,540189,,18583,19032622
+116191418,Slovenia vs Denmark (2024-06-16),Yellowcard,2024-06-16 19:24:00.000,Slovenia,Zan Celar,,,84,0,Substitution,2024-06-16 19:15:00.000,540.0,459196,,18630,19032622
+116191222,Slovenia vs Denmark (2024-06-16),Substitution,2024-06-16 19:15:00.000,Slovenia,Zan Celar,Jan Mlakar,,75,0,,,,459196,133994,18630,19032622
+116191725,Slovenia vs Denmark (2024-06-16),Substitution,2024-06-16 19:34:00.000,Slovenia,Jasmin Kurtic,Benjamin Sesko,,90,4,,,,129263,24818280,18630,19032622
+116191256,Slovenia vs Denmark (2024-06-16),Substitution,2024-06-16 19:18:00.000,Denmark,Joakim Maehle,Victor Kristiansen,,78,0,,,,84604,32796825,18583,19032622
+116191101,Slovenia vs Denmark (2024-06-16),Substitution,2024-06-16 19:07:00.000,Slovenia,Benjamin Verbic,Petar Stojanović,,67,0,,,,84457,74146,18630,19032622
+116191229,Slovenia vs Denmark (2024-06-16),Goal,2024-06-16 19:17:00.000,Slovenia,Erik Janza,,"1-1",77,0,,,,81827,,18630,19032622
+116190857,Slovenia vs Denmark (2024-06-16),Yellowcard,2024-06-16 18:53:00.000,Slovenia,Petar Stojanović,,,53,0,,,,74146,,18630,19032622
+116191546,Slovenia vs Denmark (2024-06-16),Substitution,2024-06-16 19:29:00.000,Denmark,Thomas Delaney,Morten Hjulmand,,89,0,,,,33677,540189,18583,19032622
+116191372,Slovenia vs Denmark (2024-06-16),Substitution,2024-06-16 19:23:00.000,Denmark,Yussuf Poulsen,Rasmus Højlund,,83,0,,,,32587,37325012,18583,19032622
+116191370,Slovenia vs Denmark (2024-06-16),Substitution,2024-06-16 19:23:00.000,Denmark,Christian Nørgaard,Pierre-Emile Højbjerg,,83,0,,,,31609,1744,18583,19032622
+116191356,Slovenia vs Denmark (2024-06-16),Substitution,2024-06-16 19:23:00.000,Denmark,Kasper Dolberg,Jonas Wind,,83,0,,,,26033,537914,18583,19032622
+116191223,Slovenia vs Denmark (2024-06-16),Substitution,2024-06-16 19:15:00.000,Slovenia,Jon Gorenc Stankovic,Timi Max Elsnik,,75,0,,,,3339,7159,18630,19032622
+116187156,Slovenia vs Denmark (2024-06-16),Goal,2024-06-16 18:17:00.000,Denmark,Christian Eriksen,Jonas Wind,"0-1",17,0,,,,992,537914,18583,19032622
+116357526,Scotland vs Hungary (2024-06-23),Yellowcard,2024-06-23 22:41:00.000,Hungary,Kevin Csoboth,,,90,11,Goal,2024-06-23 22:40:00.000,60.0,11705271,,18732,19045703
+116355750,Scotland vs Hungary (2024-06-23),Goal,2024-06-23 22:40:00.000,Hungary,Kevin Csoboth,Roland Sallai,"0-1",90,10,Substitution,2024-06-23 22:26:00.000,840.0,11705271,114021,18732,19045703
+116354268,Scotland vs Hungary (2024-06-23),Substitution,2024-06-23 22:26:00.000,Hungary,Kevin Csoboth,Bendegúz Bolla,,86,0,,,,11705271,3169774,18732,19045703
+116352915,Scotland vs Hungary (2024-06-23),Yellowcard,2024-06-23 21:50:00.000,Scotland,Scott McTominay,,,50,0,,,,455376,,18706,19045703
+116354386,Scotland vs Hungary (2024-06-23),Substitution,2024-06-23 22:29:00.000,Scotland,Lewis Morgan,Andrew Robertson,,89,0,,,,172951,1078,18706,19045703
+116353819,Scotland vs Hungary (2024-06-23),Substitution,2024-06-23 22:16:00.000,Scotland,Lawrence Shankland,Ché Adams,,76,0,,,,172938,3596,18706,19045703
+116354137,Scotland vs Hungary (2024-06-23),Substitution,2024-06-23 22:23:00.000,Scotland,Ryan Christie,Billy Gilmour,,83,0,,,,172752,6599973,18706,19045703
+116354143,Scotland vs Hungary (2024-06-23),Substitution,2024-06-23 22:23:00.000,Scotland,Kenny McLean,Anthony Ralston,,83,0,,,,172385,173129,18706,19045703
+116353808,Scotland vs Hungary (2024-06-23),Substitution,2024-06-23 22:16:00.000,Scotland,Stuart Armstrong,John McGinn,,76,0,,,,172357,172611,18706,19045703
+116352116,Scotland vs Hungary (2024-06-23),Yellowcard,2024-06-23 21:44:00.000,Hungary,András Schäfer,,,44,0,,,,115485,,18732,19045703
+116353262,Scotland vs Hungary (2024-06-23),Substitution,2024-06-23 22:01:00.000,Hungary,Ádám Nagy,Callum Styles,,61,0,,,,114226,10351,18732,19045703
+116353726,Scotland vs Hungary (2024-06-23),Substitution,2024-06-23 22:14:00.000,Hungary,Martin Ádám,Márton Dárdai,,74,0,,,,114118,23707369,18732,19045703
+116354279,Scotland vs Hungary (2024-06-23),Substitution,2024-06-23 22:26:00.000,Hungary,Zsolt Nagy,Milos Kerkez,,86,0,,,,114032,37381778,18732,19045703
+116353735,Scotland vs Hungary (2024-06-23),Substitution,2024-06-23 22:14:00.000,Hungary,Attila Szalai,Barnabás Varga,,74,0,,,,53557,52903,18732,19045703
+116353961,Scotland vs Hungary (2024-06-23),Yellowcard,2024-06-23 22:15:00.000,Hungary,L. Kleinheisler,,,75,0,,,,32460,,18732,19045703
+116351551,Scotland vs Hungary (2024-06-23),Yellowcard,2024-06-23 21:26:00.000,Hungary,Willi Orbán,,,26,0,,,,31077,,18732,19045703
+116351306,Scotland vs Hungary (2024-06-23),Yellowcard,2024-06-23 21:18:00.000,Hungary,Callum Styles,,,18,0,,,,10351,,18732,19045703
+116378574,Albania vs Spain (2024-06-24),Substitution,2024-06-24 22:12:00.000,Spain,Lamine Yamal,Ferran Torres,,72,0,,,,37656179,448389,18710,19032621
+116378521,Albania vs Spain (2024-06-24),Substitution,2024-06-24 22:02:00.000,Spain,Fermín López,Mikel Oyarzabal,,62,0,,,,37596363,186932,18710,19032621
+116378731,Albania vs Spain (2024-06-24),Yellowcard,2024-06-24 22:29:00.000,Albania,Medon Berisha,,,89,0,Substitution,2024-06-24 22:10:00.000,1140.0,37592696,,18641,19032621
+116378560,Albania vs Spain (2024-06-24),Substitution,2024-06-24 22:10:00.000,Albania,Medon Berisha,Qazim Laci,,70,0,,,,37592696,78462,18641,19032621
+116378512,Albania vs Spain (2024-06-24),Substitution,2024-06-24 21:59:00.000,Albania,Armando Broja,Rey Manaj,,59,0,,,,23697427,129812,18641,19032621
+116378666,Albania vs Spain (2024-06-24),Substitution,2024-06-24 22:21:00.000,Albania,Ernest Muci,Jasir Asani,,81,0,,,,10966299,142532,18641,19032621
+116378695,Albania vs Spain (2024-06-24),Substitution,2024-06-24 22:24:00.000,Spain,Álex Baena,Dani Olmo,,84,0,,,,7698436,74060,18710,19032621
+116378756,Albania vs Spain (2024-06-24),Yellowcard,2024-06-24 22:30:00.000,Spain,Dani Vivian,,,90,0,,,,3510288,,18710,19032621
+116378562,Albania vs Spain (2024-06-24),Substitution,2024-06-24 22:10:00.000,Albania,Arbër Hoxha,Nedim Bajrami,,70,0,,,,1486200,198736,18641,19032621
+116378188,Albania vs Spain (2024-06-24),Goal,2024-06-24 21:13:00.000,Spain,Ferran Torres,Dani Olmo,"0-1",13,0,,,,448389,74060,18710,19032621
+116378538,Albania vs Spain (2024-06-24),Yellowcard,2024-06-24 22:06:00.000,Albania,Nedim Bajrami,,,66,0,,,,198736,,18641,19032621
+116378570,Albania vs Spain (2024-06-24),Substitution,2024-06-24 22:12:00.000,Spain,Álvaro Morata,Joselu,,72,0,,,,129660,1468,18710,19032621
+116378450,Albania vs Spain (2024-06-24),Substitution,2024-06-24 21:46:00.000,Spain,Robin Le Normand,Aymeric Laporte,,46,0,,,,100580,186299,18710,19032621
+116410930,Czech Republic vs Turkey (2024-06-26),Yellowcard,2024-06-26 21:37:00.000,Turkey,Kenan Yıldız,,,37,0,,,,37598725,,18716,19032644
+116412001,Czech Republic vs Turkey (2024-06-26),Yellowcard,2024-06-26 22:38:00.000,Turkey,Arda Güler,,,90,8,,,,37547467,,18716,19032644
+116411485,Czech Republic vs Turkey (2024-06-26),Substitution,2024-06-26 22:21:00.000,Czech Republic,Matej Jurasek,D. Jurásek,,81,0,,,,37316360,37259977,18718,19032644
+116411620,Czech Republic vs Turkey (2024-06-26),Yellowcard,2024-06-26 22:25:00.000,Czech Republic,Lukas Cerv,,,85,0,,,,37316349,,18718,19032644
+116411218,Czech Republic vs Turkey (2024-06-26),Yellowcard,2024-06-26 21:49:00.000,Turkey,İsmail Yüksek,,,49,0,,,,22528506,,18716,19032644
+116411248,Czech Republic vs Turkey (2024-06-26),Substitution,2024-06-26 21:55:00.000,Czech Republic,Matej Kovar,J. Staněk,,55,0,,,,12759176,4569,18718,19032644
+116411554,Czech Republic vs Turkey (2024-06-26),Yellowcard,2024-06-26 22:24:00.000,Czech Republic,Vitezslav Jaros,,,84,0,,,,9606060,,18718,19032644
+116411886,Czech Republic vs Turkey (2024-06-26),Yellowcard,2024-06-26 22:35:00.000,Turkey,Orkun Kökçü,,,90,5,Substitution,2024-06-26 22:27:00.000,480.0,4545376,,18716,19032644
+116411646,Czech Republic vs Turkey (2024-06-26),Substitution,2024-06-26 22:27:00.000,Turkey,Orkun Kökçü,Hakan Çalhanoğlu,,87,0,,,,4545376,31825,18716,19032644
+116411478,Czech Republic vs Turkey (2024-06-26),Yellowcard,2024-06-26 22:20:00.000,Turkey,Mert Müldür,,,80,0,,,,2510388,,18716,19032644
+116411390,Czech Republic vs Turkey (2024-06-26),Substitution,2024-06-26 22:15:00.000,Turkey,Ondrej Lingr,Arda Güler,,75,0,,,,608247,37547467,18716,19032644
+116411386,Czech Republic vs Turkey (2024-06-26),Substitution,2024-06-26 22:15:00.000,Czech Republic,Kerem Aktürkoğlu,L. Provod,,75,0,,,,534383,83003,18718,19032644
+116411617,Czech Republic vs Turkey (2024-06-26),Yellowcard,2024-06-26 22:25:00.000,Turkey,Samet Akaydin,,,85,0,,,,390543,,18716,19032644
+116411347,Czech Republic vs Turkey (2024-06-26),Yellowcard,2024-06-26 22:08:00.000,Turkey,Uğurcan Çakır,,,68,0,,,,201739,,18716,19032644
+116411301,Czech Republic vs Turkey (2024-06-26),Substitution,2024-06-26 22:03:00.000,Turkey,Okay Yokuşlu,İsmail Yüksek,,63,0,,,,201060,22528506,18716,19032644
+116411316,Czech Republic vs Turkey (2024-06-26),Yellowcard,2024-06-26 22:04:00.000,Turkey,Mert Günok,,,64,0,,,,200715,,18716,19032644
+116411251,Czech Republic vs Turkey (2024-06-26),Substitution,2024-06-26 21:55:00.000,Czech Republic,Jan Kuchta,M. Chytil,,55,0,,,,80926,26313942,18718,19032644
+116411722,Czech Republic vs Turkey (2024-06-26),Yellowcard,2024-06-26 22:31:00.000,Czech Republic,Ladislav Krejci,,,90,1,,,,80902,,18718,19032644
+116412004,Czech Republic vs Turkey (2024-06-26),Redcard,2024-06-26 22:38:00.000,Czech Republic,Tomas Chory,,,90,8,Substitution,2024-06-26 21:55:00.000,2580.0,80707,,18718,19032644
+116411247,Czech Republic vs Turkey (2024-06-26),Substitution,2024-06-26 21:55:00.000,Czech Republic,Tomas Chory,A. Hložek,,55,0,,,,80707,8101006,18718,19032644
+116410925,Czech Republic vs Turkey (2024-06-26),Yellowcard,2024-06-26 21:34:00.000,Czech Republic,Patrik Schick,,,34,0,,,,80675,,18718,19032644
+116412003,Czech Republic vs Turkey (2024-06-26),Yellowcard,2024-06-26 22:38:00.000,Czech Republic,Tomas Soucek,,,90,8,Goal,2024-06-26 22:06:00.000,1920.0,80655,,18718,19032644
+116411328,Czech Republic vs Turkey (2024-06-26),Goal,2024-06-26 22:06:00.000,Czech Republic,Tomas Soucek,R. Hranáč,"1-1",66,0,,,,80655,24469159,18718,19032644
+116410780,Czech Republic vs Turkey (2024-06-26),Yellow/Red card,2024-06-26 21:20:00.000,Czech Republic,Antonín Barák,,,20,0,Yellowcard,2024-06-26 21:11:00.000,540.0,80331,,18718,19032644
+116410664,Czech Republic vs Turkey (2024-06-26),Yellowcard,2024-06-26 21:11:00.000,Czech Republic,Antonín Barák,,,11,0,,,,80331,,18718,19032644
+116411779,Czech Republic vs Turkey (2024-06-26),Goal,2024-06-26 22:34:00.000,Turkey,Cenk Tosun,Orkun Kökçü,"1-2",90,4,Substitution,2024-06-26 22:15:00.000,1140.0,45863,4545376,18716,19032644
+116411393,Czech Republic vs Turkey (2024-06-26),Substitution,2024-06-26 22:15:00.000,Turkey,Cenk Tosun,Kenan Yıldız,,75,0,,,,45863,37598725,18716,19032644
+116410895,Czech Republic vs Turkey (2024-06-26),Yellowcard,2024-06-26 21:31:00.000,Turkey,Salih Özcan,,,31,0,,,,32622,,18716,19032644
+116411850,Czech Republic vs Turkey (2024-06-26),Yellowcard,2024-06-26 22:35:00.000,Turkey,Kaan Ayhan,,,90,5,Substitution,2024-06-26 21:46:00.000,2940.0,31878,,18716,19032644
+116411196,Czech Republic vs Turkey (2024-06-26),Substitution,2024-06-26 21:46:00.000,Turkey,Kaan Ayhan,Salih Özcan,,46,0,,,,31878,32622,18716,19032644
+116411356,Czech Republic vs Turkey (2024-06-26),Yellowcard,2024-06-26 22:06:00.000,Turkey,Hakan Çalhanoğlu,,,66,0,Goal,2024-06-26 21:51:00.000,900.0,31825,,18716,19032644
+116411227,Czech Republic vs Turkey (2024-06-26),Goal,2024-06-26 21:51:00.000,Turkey,Hakan Çalhanoğlu,İsmail Yüksek,"0-1",51,0,,,,31825,22528506,18716,19032644
+116196659,Serbia vs England (2024-06-16),Yellowcard,2024-06-16 22:23:00.000,Serbia,Dragan Stojković,,,83,0,,,,,,18873,19032623
+116197088,Serbia vs England (2024-06-16),Substitution,2024-06-16 22:26:00.000,England,Kobbie Mainoo,Jude Bellingham,,86,0,,,,37540234,37255840,18645,19032623
+116193933,Serbia vs England (2024-06-16),Goal,2024-06-16 21:13:00.000,England,Jude Bellingham,Bukayo Saka,"0-1",13,0,,,,37255840,16827155,18645,19032623
+116196174,Serbia vs England (2024-06-16),Substitution,2024-06-16 22:14:00.000,Serbia,Veljko Birmancevic,Andrija Zivkovic,,74,0,,,,2510860,160928,18873,19032623
+116195863,Serbia vs England (2024-06-16),Substitution,2024-06-16 22:09:00.000,England,Conor Gallagher,T. Alexander-Arnold,,69,0,,,,1494245,1917,18645,19032623
+116195066,Serbia vs England (2024-06-16),Substitution,2024-06-16 21:46:00.000,Serbia,Ivan Ilić,Nemanja Gudelj,,46,0,,,,1359363,24071,18873,19032623
+116195561,Serbia vs England (2024-06-16),Substitution,2024-06-16 22:01:00.000,Serbia,Luka Jović,Saša Lukić,,61,0,,,,161284,130248,18873,19032623
+116194587,Serbia vs England (2024-06-16),Substitution,2024-06-16 21:43:00.000,Serbia,Filip Mladenovic,Filip Kostić,,43,0,,,,32482,24235,18873,19032623
+116194424,Serbia vs England (2024-06-16),Yellowcard,2024-06-16 21:39:00.000,Serbia,Nemanja Gudelj,,,39,0,,,,24071,,18873,19032623
+116196176,Serbia vs England (2024-06-16),Substitution,2024-06-16 22:16:00.000,England,Jarrod Bowen,Bukayo Saka,,76,0,,,,1592,16827155,18645,19032623
+116196175,Serbia vs England (2024-06-16),Yellowcard,2024-06-16 22:15:00.000,Serbia,Dusan Tadic,,,75,0,Substitution,2024-06-16 22:01:00.000,840.0,1351,,18873,19032623
+116195560,Serbia vs England (2024-06-16),Substitution,2024-06-16 22:01:00.000,Serbia,Dusan Tadic,Aleksandar Mitrovic,,61,0,,,,1351,1366,18873,19032623
+116392939,Denmark vs Serbia (2024-06-25),Substitution,2024-06-25 22:17:00.000,Denmark,Victor Kristiansen,M. Hjulmand,,77,0,,,,32796825,540189,18583,19032627
+116392797,Denmark vs Serbia (2024-06-25),Substitution,2024-06-25 21:46:00.000,Denmark,Andreas Skov Olsen,J. Wind,,46,0,,,,1685328,537914,18583,19032627
+116392490,Denmark vs Serbia (2024-06-25),Yellowcard,2024-06-25 21:30:00.000,Denmark,Morten Hjulmand,,,30,0,,,,540189,,18583,19032627
+116392472,Denmark vs Serbia (2024-06-25),Yellowcard,2024-06-25 21:27:00.000,Denmark,Jonas Wind,,,27,0,,,,537914,,18583,19032627
+116392328,Denmark vs Serbia (2024-06-25),Yellowcard,2024-06-25 21:04:00.000,Serbia,Nikola Milenković,,,4,0,,,,178032,,18873,19032627
+116392908,Denmark vs Serbia (2024-06-25),Substitution,2024-06-25 22:07:00.000,Serbia,Dušan Vlahović,I. Ilić,,67,0,,,,177988,1359363,18873,19032627
+116392795,Denmark vs Serbia (2024-06-25),Substitution,2024-06-25 21:46:00.000,Serbia,Luka Jović,N. Gudelj,,46,0,,,,161284,24071,18873,19032627
+116392993,Denmark vs Serbia (2024-06-25),Substitution,2024-06-25 22:27:00.000,Serbia,Sergej Milinković-Savić,S. Lukić,,87,0,,,,62511,130248,18873,19032627
+116392937,Denmark vs Serbia (2024-06-25),Substitution,2024-06-25 22:17:00.000,Denmark,Thomas Delaney,A. Bah,,77,0,,,,33677,85996,18583,19032627
+116393004,Denmark vs Serbia (2024-06-25),Substitution,2024-06-25 22:28:00.000,Denmark,Yussuf Poulsen,C. Eriksen,,88,0,,,,32587,992,18583,19032627
+116392926,Denmark vs Serbia (2024-06-25),Substitution,2024-06-25 22:13:00.000,Serbia,Filip Mladenovic,S. Mijailović,,73,0,,,,32482,172247,18873,19032627
+116392882,Denmark vs Serbia (2024-06-25),Substitution,2024-06-25 21:59:00.000,Denmark,Kasper Dolberg,R. Højlund,,59,0,,,,26033,37325012,18583,19032627
+116392971,Denmark vs Serbia (2024-06-25),Yellowcard,2024-06-25 22:23:00.000,Serbia,Aleksandar Mitrovic,,,83,0,,,,1366,,18873,19032627
+116392798,Denmark vs Serbia (2024-06-25),Substitution,2024-06-25 21:46:00.000,Serbia,Dusan Tadic,L. Samardžić,,46,0,,,,1351,23707373,18873,19032627
+116112635,Germany vs Scotland (2024-06-14),Goal,2024-06-14 21:10:00.000,Germany,Florian Wirtz,Joshua Kimmich,"1-0",10,0,,,,37429246,32362,18660,19032613
+116112705,Germany vs Scotland (2024-06-14),Goal,2024-06-14 21:19:00.000,Germany,Jamal Musiala,Kai Havertz,"2-0",19,0,,,,33186829,32612,18660,19032613
+116113076,Germany vs Scotland (2024-06-14),Substitution,2024-06-14 22:07:00.000,Scotland,Billy Gilmour,Callum McGregor,,67,0,,,,6599973,8585,18706,19032613
+116112862,Germany vs Scotland (2024-06-14),Redcard,2024-06-14 21:44:00.000,Scotland,Ryan Porteous,,,44,0,,,,176702,,18706,19032613
+116112999,Germany vs Scotland (2024-06-14),Yellowcard,2024-06-14 21:48:00.000,Scotland,Anthony Ralston,,,48,0,,,,173129,,18706,19032613
+116113184,Germany vs Scotland (2024-06-14),Substitution,2024-06-14 22:17:00.000,Scotland,Scott McKenna,Kieran Tierney,,77,0,,,,173047,172960,18706,19032613
+116113244,Germany vs Scotland (2024-06-14),Substitution,2024-06-14 22:22:00.000,Scotland,Lawrence Shankland,Ryan Christie,,82,0,,,,172938,172752,18706,19032613
+116113078,Germany vs Scotland (2024-06-14),Substitution,2024-06-14 22:07:00.000,Scotland,Kenny McLean,John McGinn,,67,0,,,,172385,172611,18706,19032613
+116112784,Germany vs Scotland (2024-06-14),Yellowcard,2024-06-14 21:31:00.000,Germany,Robert Andrich,,,31,0,,,,34880,,18660,19032613
+116112873,Germany vs Scotland (2024-06-14),Goal,2024-06-14 21:46:00.000,Germany,Kai Havertz,,"3-0",45,1,,,,32612,,18660,19032613
+116113299,Germany vs Scotland (2024-06-14),Goal,2024-06-14 22:27:00.000,Scotland,Antonio Rüdiger,Scott McKenna,"4-1",87,0,,,,31837,173047,18706,19032613
+116113030,Germany vs Scotland (2024-06-14),Yellowcard,2024-06-14 22:02:00.000,Germany,Jonathan Tah,,,62,0,,,,31836,,18660,19032613
+116113186,Germany vs Scotland (2024-06-14),VAR,2024-06-14 22:16:00.000,Germany,Niclas Füllkrug,,,76,0,Goal,2024-06-14 22:08:00.000,480.0,31532,,18660,19032613
+116113089,Germany vs Scotland (2024-06-14),Goal,2024-06-14 22:08:00.000,Germany,Niclas Füllkrug,,"4-0",68,0,Substitution,2024-06-14 22:03:00.000,300.0,31532,,18660,19032613
+116113033,Germany vs Scotland (2024-06-14),Substitution,2024-06-14 22:03:00.000,Germany,Niclas Füllkrug,Kai Havertz,,63,0,VAR,2024-06-14 21:25:00.000,2280.0,31532,32612,18660,19032613
+116112753,Germany vs Scotland (2024-06-14),VAR,2024-06-14 21:25:00.000,Germany,Niclas Füllkrug,,,25,0,,,,31532,,18660,19032613
+116112974,Germany vs Scotland (2024-06-14),Substitution,2024-06-14 21:46:00.000,Germany,Pascal Groß,Robert Andrich,,46,0,,,,31504,34880,18660,19032613
+116113138,Germany vs Scotland (2024-06-14),Substitution,2024-06-14 22:14:00.000,Germany,Thomas Müller,Jamal Musiala,,74,0,,,,30286,33186829,18660,19032613
+116112863,Germany vs Scotland (2024-06-14),VAR,2024-06-14 22:16:00.000,Germany,İlkay Gündoğan ,,,76,0,,,,4842,,18660,19032613
+116113047,Germany vs Scotland (2024-06-14),Substitution,2024-06-14 22:03:00.000,Germany,Leroy Sané,Florian Wirtz,,63,0,,,,4783,37429246,18660,19032613
+116113361,Germany vs Scotland (2024-06-14),Goal,2024-06-14 22:33:00.000,Germany,Emre Can,Thomas Müller,"5-1",90,3,Substitution,2024-06-14 22:20:00.000,780.0,1388,30286,18660,19032613
+116113232,Germany vs Scotland (2024-06-14),Substitution,2024-06-14 22:20:00.000,Germany,Emre Can,Toni Kroos,,80,0,,,,1388,30289,18660,19032613
+116112973,Germany vs Scotland (2024-06-14),Substitution,2024-06-14 21:46:00.000,Scotland,Grant Hanley,Ché Adams,,46,0,,,,807,3596,18706,19032613
+116314449,Belgium vs Romania (2024-06-22),Substitution,2024-06-22 22:17:00.000,Belgium,Zeno Debast,Arthur Theate,,77,0,,,,37459060,25922235,18743,19032637
+116314383,Belgium vs Romania (2024-06-22),Substitution,2024-06-22 22:12:00.000,Belgium,Orel Mangala,Youri Tielemans,,72,0,,,,523939,62342,18743,19032637
+116314305,Belgium vs Romania (2024-06-22),Substitution,2024-06-22 22:08:00.000,Romania,Darius Olaru,Marius Marin,,68,0,,,,165910,133835,18638,19032637
+116314720,Belgium vs Romania (2024-06-22),Substitution,2024-06-22 22:30:00.000,Romania,Deian Sorescu,Andrei Rațiu,,90,0,,,,165701,9308118,18638,19032637
+116314163,Belgium vs Romania (2024-06-22),Yellowcard,2024-06-22 21:59:00.000,Romania,Nicușor Bancu,,,59,0,,,,165093,,18638,19032637
+116314270,Belgium vs Romania (2024-06-22),Yellowcard,2024-06-22 22:05:00.000,Romania,Marius Marin,,,65,0,,,,133835,,18638,19032637
+116314304,Belgium vs Romania (2024-06-22),Substitution,2024-06-22 22:08:00.000,Romania,Ianis Hagi,Valentin Mihăilă,,68,0,,,,129857,6013442,18638,19032637
+116314379,Belgium vs Romania (2024-06-22),Substitution,2024-06-22 22:12:00.000,Belgium,Yannick Carrasco,Jérémy Doku,,72,0,,,,96092,23697990,18743,19032637
+116313041,Belgium vs Romania (2024-06-22),Yellowcard,2024-06-22 21:35:00.000,Belgium,Dodi Lukébakio,,,35,0,,,,62871,,18743,19032637
+116312484,Belgium vs Romania (2024-06-22),Goal,2024-06-22 21:02:00.000,Belgium,Youri Tielemans,Romelu Lukaku,"1-0",2,0,,,,62342,995,18743,19032637
+116314529,Belgium vs Romania (2024-06-22),Substitution,2024-06-22 22:21:00.000,Romania,Denis Alibec,Denis Drăguș,,81,0,,,,62024,165648,18638,19032637
+116314122,Belgium vs Romania (2024-06-22),Substitution,2024-06-22 21:56:00.000,Belgium,Leandro Trossard,Dodi Lukébakio,,56,0,,,,61780,62871,18743,19032637
+116314486,Belgium vs Romania (2024-06-22),Goal,2024-06-22 22:20:00.000,Belgium,Kevin De Bruyne,Koen Casteels,"2-0",80,0,,,,1371,31551,18743,19032637
+116314256,Belgium vs Romania (2024-06-22),VAR,2024-06-22 22:03:00.000,Belgium,Romelu Lukaku,,,63,0,,,,995,,18743,19032637
+116475660,Switzerland vs Italy (2024-06-29),Substitution,2024-06-29 19:14:00.000,Italy,Andrea Cambiaso,M. Darmian,,74,0,,,,37260234,933,18658,19032606
+116475498,Switzerland vs Italy (2024-06-29),Substitution,2024-06-29 19:11:00.000,Switzerland,Leonidas Stergiou,Rubén Vargas,,71,0,,,,24817462,1478864,18708,19032606
+116475155,Switzerland vs Italy (2024-06-29),Substitution,2024-06-29 19:04:00.000,Italy,Mateo Retegui,N. Barella,,64,0,,,,9302266,130117,18658,19032606
+116474771,Switzerland vs Italy (2024-06-29),Goal,2024-06-29 18:46:00.000,Switzerland,Rubén Vargas,Michel Aebischer,"2-0",46,0,,,,1478864,198220,18708,19032606
+116475797,Switzerland vs Italy (2024-06-29),Substitution,2024-06-29 19:17:00.000,Switzerland,Kwadwo Duah,Breel Embolo,,77,0,,,,198111,32538,18708,19032606
+116475859,Switzerland vs Italy (2024-06-29),Substitution,2024-06-29 19:17:00.000,Switzerland,Vincent Sierro,Dan Ndoye,,77,0,,,,198045,19978623,18708,19032606
+116476264,Switzerland vs Italy (2024-06-29),Substitution,2024-06-29 19:32:00.000,Switzerland,Renato Steffen,Michel Aebischer,,90,2,,,,197807,198220,18708,19032606
+116476096,Switzerland vs Italy (2024-06-29),Substitution,2024-06-29 19:26:00.000,Italy,Davide Frattesi,N. Fagioli,,86,0,,,,134015,4536538,18658,19032606
+116474973,Switzerland vs Italy (2024-06-29),Yellowcard,2024-06-29 18:57:00.000,Italy,Gianluca Mancini,,,57,0,,,,132259,,18658,19032606
+116468906,Switzerland vs Italy (2024-06-29),Goal,2024-06-29 18:37:00.000,Switzerland,Remo Freuler,Rubén Vargas,"1-0",37,0,,,,130145,1478864,18708,19032606
+116468771,Switzerland vs Italy (2024-06-29),Yellowcard,2024-06-29 18:35:00.000,Italy,Nicolò Barella,,,35,0,,,,130117,,18658,19032606
+116475661,Switzerland vs Italy (2024-06-29),Substitution,2024-06-29 19:14:00.000,Italy,Lorenzo Pellegrini,Bryan Cristante,,74,0,,,,129946,129467,18658,19032606
+116474756,Switzerland vs Italy (2024-06-29),Substitution,2024-06-29 18:46:00.000,Italy,Mattia Zaccagni,Stephan El Shaarawy,,46,0,,,,129677,96514,18658,19032606
+116469408,Switzerland vs Italy (2024-06-29),Yellowcard,2024-06-29 18:45:00.000,Italy,Stephan El Shaarawy,,,45,0,,,,96514,,18658,19032606
+116475497,Switzerland vs Italy (2024-06-29),Substitution,2024-06-29 19:11:00.000,Switzerland,Steven Zuber,Fabian Rieder,,71,0,,,,32116,24817439,18708,19032606
+116216088,Belgium vs Slovakia (2024-06-17),Substitution,2024-06-17 18:57:00.000,Belgium,Johan Bakayoko,Orel Mangala,,57,0,,,,37400407,523939,18743,19032634
+116217387,Belgium vs Slovakia (2024-06-17),Substitution,2024-06-17 19:34:00.000,Slovakia,Adam Obert,Ondrej Duda,,90,4,,,,24816773,33793,18648,19032634
+116216300,Belgium vs Slovakia (2024-06-17),Substitution,2024-06-17 19:10:00.000,Slovakia,Tomas Suslov,Lukas Haraslin,,70,0,,,,24816762,133633,18648,19032634
+116216299,Belgium vs Slovakia (2024-06-17),Substitution,2024-06-17 19:10:00.000,Slovakia,David Strelec,Robert Bozenik,,70,0,,,,9939024,182277,18648,19032634
+116216694,Belgium vs Slovakia (2024-06-17),Substitution,2024-06-17 19:21:00.000,Slovakia,David Duris,Ivan Schranz,,81,0,,,,4243098,81501,18648,19032634
+116216861,Belgium vs Slovakia (2024-06-17),Substitution,2024-06-17 19:24:00.000,Belgium,Loïs Openda,Jérémy Doku,,84,0,,,,539993,23697990,18743,19032634
+116213987,Belgium vs Slovakia (2024-06-17),Yellowcard,2024-06-17 18:29:00.000,Belgium,Orel Mangala,,,29,0,,,,523939,,18743,19032634
+116214091,Belgium vs Slovakia (2024-06-17),Yellowcard,2024-06-17 18:41:00.000,Slovakia,Ivan Schranz,,,41,0,Goal,2024-06-17 18:07:00.000,2040.0,81501,,18648,19032634
+116213868,Belgium vs Slovakia (2024-06-17),Goal,2024-06-17 18:07:00.000,Slovakia,Ivan Schranz,Juraj Kucka,"0-1",7,0,,,,81501,79268,18648,19032634
+116216862,Belgium vs Slovakia (2024-06-17),Yellowcard,2024-06-17 19:25:00.000,Belgium,Dodi Lukébakio,,,85,0,Substitution,2024-06-17 19:24:00.000,60.0,62871,,18743,19032634
+116216807,Belgium vs Slovakia (2024-06-17),Substitution,2024-06-17 19:24:00.000,Belgium,Dodi Lukébakio,Yannick Carrasco,,84,0,,,,62871,96092,18743,19032634
+116216460,Belgium vs Slovakia (2024-06-17),Yellowcard,2024-06-17 19:16:00.000,Belgium,Youri Tielemans,,,76,0,Substitution,2024-06-17 19:14:00.000,120.0,62342,,18743,19032634
+116216428,Belgium vs Slovakia (2024-06-17),Substitution,2024-06-17 19:14:00.000,Belgium,Youri Tielemans,Leandro Trossard,,74,0,,,,62342,61780,18743,19032634
+116217057,Belgium vs Slovakia (2024-06-17),VAR,2024-06-17 19:26:00.000,Belgium,Romelu Lukaku,,,86,0,VAR,2024-06-17 18:56:00.000,1800.0,995,,18743,19032634
+116216078,Belgium vs Slovakia (2024-06-17),VAR,2024-06-17 18:56:00.000,Belgium,Romelu Lukaku,,,56,0,,,,995,,18743,19032634
+116392788,England vs Slovenia (2024-06-25),Substitution,2024-06-25 21:46:00.000,England,Kobbie Mainoo,Conor Gallagher,,46,0,,,,37540234,1494245,18645,19032626
+116392917,England vs Slovenia (2024-06-25),Substitution,2024-06-25 22:11:00.000,England,Cole Palmer,Bukayo Saka,,71,0,,,,28912747,16827155,18645,19032626
+116393005,England vs Slovenia (2024-06-25),Substitution,2024-06-25 22:29:00.000,England,Anthony Gordon,Phil Foden,,89,0,,,,9611543,336133,18645,19032626
+116392909,England vs Slovenia (2024-06-25),Yellowcard,2024-06-25 22:08:00.000,England,Marc Guéhi,,,68,0,,,,4536500,,18645,19032626
+116392923,England vs Slovenia (2024-06-25),Yellowcard,2024-06-25 22:12:00.000,Slovenia,Jaka Bijol,,,72,0,,,,1548632,,18630,19032626
+116392980,England vs Slovenia (2024-06-25),Substitution,2024-06-25 22:26:00.000,Slovenia,Zan Celar,A. Šporar,,86,0,,,,459196,182905,18630,19032626
+116392936,England vs Slovenia (2024-06-25),Yellowcard,2024-06-25 22:17:00.000,England,Phil Foden,,,77,0,,,,336133,,18645,19032626
+116393014,England vs Slovenia (2024-06-25),Substitution,2024-06-25 22:31:00.000,Slovenia,Jure Balkovec,E. Janža,,90,1,,,,183013,81827,18630,19032626
+116392930,England vs Slovenia (2024-06-25),Substitution,2024-06-25 22:15:00.000,Slovenia,Josip Ilicic,B. Šeško,,75,0,,,,128899,24818280,18630,19032626
+116392448,England vs Slovenia (2024-06-25),Yellowcard,2024-06-25 21:22:00.000,Slovenia,Erik Janza,,,22,0,,,,81827,,18630,19032626
+116392984,England vs Slovenia (2024-06-25),Substitution,2024-06-25 22:26:00.000,Slovenia,Jon Gorenc Stankovic,J. Mlakar,,86,0,,,,3339,133994,18630,19032626
+116392972,England vs Slovenia (2024-06-25),Substitution,2024-06-25 22:24:00.000,England,Trent Alexander-Arnold,Kieran Trippier,,84,0,,,,1917,1016,18645,19032626
+116392410,England vs Slovenia (2024-06-25),Yellowcard,2024-06-25 21:17:00.000,England,Kieran Trippier,,,17,0,,,,1016,,18645,19032626
+116554003,Romania vs Netherlands (2024-07-02),Substitution,2024-07-02 19:09:00.000,Netherlands,Micky van de Ven,Nathan Aké,,69,0,,,,37296248,1869,18694,19032611
+116550634,Romania vs Netherlands (2024-07-02),Substitution,2024-07-02 18:38:00.000,Romania,Bogdan Racovițan,Vasile Mogoș,,38,0,,,,31616427,133170,18638,19032611
+116554038,Romania vs Netherlands (2024-07-02),Substitution,2024-07-02 19:12:00.000,Romania,Valentin Mihăilă,Denis Drăguș,,72,0,,,,6013442,165648,18638,19032611
+116554287,Romania vs Netherlands (2024-07-02),Yellowcard,2024-07-02 19:34:00.000,Netherlands,Donyell Malen,,,90,4,Goal,2024-07-02 19:33:00.000,60.0,537758,,18694,19032611
+116554274,Romania vs Netherlands (2024-07-02),Goal,2024-07-02 19:33:00.000,Netherlands,Donyell Malen,Xavi Simons,"0-3",90,3,Goal,2024-07-02 19:23:00.000,600.0,537758,37317392,18694,19032611
+116554151,Romania vs Netherlands (2024-07-02),Goal,2024-07-02 19:23:00.000,Netherlands,Donyell Malen,Cody Gakpo,"0-2",83,0,Substitution,2024-07-02 18:46:00.000,2220.0,537758,30062,18694,19032611
+116553762,Romania vs Netherlands (2024-07-02),Substitution,2024-07-02 18:46:00.000,Netherlands,Donyell Malen,Steven Bergwijn,,46,0,,,,537758,25776,18694,19032611
+116554241,Romania vs Netherlands (2024-07-02),Substitution,2024-07-02 19:28:00.000,Romania,Darius Olaru,Nicolae Stanciu,,88,0,,,,165910,62905,18638,19032611
+116554037,Romania vs Netherlands (2024-07-02),Substitution,2024-07-02 19:12:00.000,Romania,Alexandru Cicâldău,Marius Marin,,72,0,,,,165458,133835,18638,19032611
+116553973,Romania vs Netherlands (2024-07-02),Yellowcard,2024-07-02 19:07:00.000,Romania,Marius Marin,,,67,0,,,,133835,,18638,19032611
+116554134,Romania vs Netherlands (2024-07-02),Yellowcard,2024-07-02 19:21:00.000,Romania,Nicolae Stanciu,,,81,0,,,,62905,,18638,19032611
+116554036,Romania vs Netherlands (2024-07-02),Substitution,2024-07-02 19:12:00.000,Romania,Denis Alibec,Ianis Hagi,,72,0,,,,62024,129857,18638,19032611
+116553921,Romania vs Netherlands (2024-07-02),VAR,2024-07-02 19:03:00.000,Netherlands,Cody Gakpo,,,63,0,Goal,2024-07-02 18:20:00.000,2580.0,30062,,18694,19032611
+116550527,Romania vs Netherlands (2024-07-02),Goal,2024-07-02 18:20:00.000,Netherlands,Cody Gakpo,Xavi Simons,"0-1",20,0,,,,30062,37317392,18694,19032611
+116553993,Romania vs Netherlands (2024-07-02),Substitution,2024-07-02 19:09:00.000,Netherlands,Joey Veerman,Jerdy Schouten,,69,0,,,,29394,26786,18694,19032611
+116554100,Romania vs Netherlands (2024-07-02),Yellowcard,2024-07-02 19:18:00.000,Netherlands,Denzel Dumfries,,,78,0,,,,26027,,18694,19032611
+116554198,Romania vs Netherlands (2024-07-02),Substitution,2024-07-02 19:24:00.000,Netherlands,Wout Weghorst,Cody Gakpo,,84,0,,,,25317,30062,18694,19032611
+116554264,Romania vs Netherlands (2024-07-02),Substitution,2024-07-02 19:32:00.000,Netherlands,Daley Blind,Memphis Depay,,90,2,,,,970,929,18694,19032611
+116144202,Spain vs Croatia (2024-06-15),Substitution,2024-06-15 19:05:00.000,Croatia,Luka Sucic,Mateo Kovacic,,65,0,,,,22528446,73147,18588,19032616
+116144619,Spain vs Croatia (2024-06-15),Substitution,2024-06-15 19:26:00.000,Spain,Martín Zubimendi,Rodri,,86,0,,,,530762,186910,18710,19032616
+116144618,Spain vs Croatia (2024-06-15),Substitution,2024-06-15 19:26:00.000,Spain,Ferran Torres,Lamine Yamal,,86,0,,,,448389,37656179,18710,19032616
+116144232,Spain vs Croatia (2024-06-15),Substitution,2024-06-15 19:08:00.000,Spain,Mikel Oyarzabal,Nico Williams,,68,0,,,,186932,37297544,18710,19032616
+116144420,Spain vs Croatia (2024-06-15),Yellowcard,2024-06-15 19:18:00.000,Spain,Rodri,,,78,0,,,,186910,,18710,19032616
+116138363,Spain vs Croatia (2024-06-15),Goal,2024-06-15 18:32:00.000,Spain,Fabián Ruiz,Pedri,"2-0",32,0,,,,186735,37288001,18710,19032616
+116144491,Spain vs Croatia (2024-06-15),VAR,2024-06-15 19:20:00.000,Croatia,Bruno Petkovic,,,80,0,Missed Penalty,2024-06-15 19:20:00.000,0.0,131838,,18588,19032616
+116144436,Spain vs Croatia (2024-06-15),Missed Penalty,2024-06-15 19:20:00.000,Croatia,Bruno Petkovic,Bruno Petkovic,,80,0,Substitution,2024-06-15 19:12:00.000,480.0,131838,131838,18588,19032616
+116144317,Spain vs Croatia (2024-06-15),Substitution,2024-06-15 19:12:00.000,Croatia,Bruno Petkovic,Andrej Kramaric,,72,0,,,,131838,1232,18588,19032616
+116138294,Spain vs Croatia (2024-06-15),Goal,2024-06-15 18:29:00.000,Spain,Álvaro Morata,Fabián Ruiz,"1-0",29,0,,,,129660,186735,18710,19032616
+116144107,Spain vs Croatia (2024-06-15),Substitution,2024-06-15 18:59:00.000,Spain,Dani Olmo,Pedri,,59,0,,,,74060,37288001,18710,19032616
+116144178,Spain vs Croatia (2024-06-15),Substitution,2024-06-15 19:05:00.000,Croatia,Mario Pasalic,Luka Modric,,65,0,,,,73603,268,18588,19032616
+116144231,Spain vs Croatia (2024-06-15),Substitution,2024-06-15 19:07:00.000,Spain,Mikel Merino,Álvaro Morata,,67,0,,,,32710,129660,18710,19032616
+116138848,Spain vs Croatia (2024-06-15),Goal,2024-06-15 18:47:00.000,Spain,Daniel Carvajal,Lamine Yamal,"3-0",45,2,,,,31647,37656179,18710,19032616
+116144021,Spain vs Croatia (2024-06-15),Substitution,2024-06-15 18:56:00.000,Croatia,Ivan Perisic,Ante Budimir,,56,0,,,,31002,34700,18588,19032616
+116353451,Switzerland vs Germany (2024-06-23),Substitution,2024-06-23 22:05:00.000,Switzerland,Zeki Amdouni,Dan Ndoye,,65,0,,,,37261110,19978623,18708,19032615
+116353454,Switzerland vs Germany (2024-06-23),Substitution,2024-06-23 22:05:00.000,Germany,Maximilian Beier,Robert Andrich,,65,0,,,,23277923,34880,18660,19032615
+116351609,Switzerland vs Germany (2024-06-23),Goal,2024-06-23 21:28:00.000,Switzerland,Dan Ndoye,Remo Freuler,"1-0",28,0,Yellowcard,2024-06-23 21:25:00.000,180.0,19978623,130145,18708,19032615
+116351510,Switzerland vs Germany (2024-06-23),Yellowcard,2024-06-23 21:25:00.000,Switzerland,Dan Ndoye,,,25,0,,,,19978623,,18708,19032615
+116353309,Switzerland vs Germany (2024-06-23),Substitution,2024-06-23 22:01:00.000,Germany,Nico Schlotterbeck,Jonathan Tah,,61,0,,,,3862352,31836,18660,19032615
+116353483,Switzerland vs Germany (2024-06-23),Substitution,2024-06-23 22:05:00.000,Switzerland,Rubén Vargas,Fabian Rieder,,65,0,,,,1478864,24817439,18708,19032615
+116353457,Switzerland vs Germany (2024-06-23),Substitution,2024-06-23 22:05:00.000,Switzerland,Kwadwo Duah,Breel Embolo,,65,0,,,,198111,32538,18708,19032615
+116354059,Switzerland vs Germany (2024-06-23),Yellowcard,2024-06-23 22:21:00.000,Switzerland,Silvan Widmer,,,81,0,,,,129609,,18708,19032615
+116353308,Switzerland vs Germany (2024-06-23),Substitution,2024-06-23 22:01:00.000,Germany,David Raum,Maximilian Mittelstädt,,61,0,,,,36119,32384,18660,19032615
+116351310,Switzerland vs Germany (2024-06-23),VAR,2024-06-23 21:17:00.000,Germany,Robert Andrich,,,17,0,,,,34880,,18660,19032615
+116351883,Switzerland vs Germany (2024-06-23),Yellowcard,2024-06-23 21:38:00.000,Germany,Jonathan Tah,,,38,0,,,,31836,,18660,19032615
+116354642,Switzerland vs Germany (2024-06-23),Goal,2024-06-23 22:32:00.000,Germany,Niclas Füllkrug,David Raum,"1-1",90,2,Substitution,2024-06-23 22:16:00.000,960.0,31532,36119,18660,19032615
+116353837,Switzerland vs Germany (2024-06-23),Substitution,2024-06-23 22:16:00.000,Germany,Niclas Füllkrug,Jamal Musiala,,76,0,,,,31532,33186829,18660,19032615
+116353856,Switzerland vs Germany (2024-06-23),Substitution,2024-06-23 22:16:00.000,Germany,Leroy Sané,Florian Wirtz,,76,0,,,,4783,37429246,18660,19032615
+116353504,Switzerland vs Germany (2024-06-23),Yellowcard,2024-06-23 22:07:00.000,Switzerland,Granit Xhaka,,,67,0,,,,1887,,18708,19032615
+116411551,Georgia vs Portugal (2024-06-26),Yellowcard,2024-06-26 22:25:00.000,Georgia,Anzor Mekvabishvili,,,85,0,Substitution,2024-06-26 22:21:00.000,240.0,25922119,,18692,19032645
+116411505,Georgia vs Portugal (2024-06-26),Substitution,2024-06-26 22:21:00.000,Georgia,Anzor Mekvabishvili,K. Kvaratskhelia,,81,0,,,,25922119,1479337,18692,19032645
+116411319,Georgia vs Portugal (2024-06-26),Substitution,2024-06-26 22:06:00.000,Portugal,Gonçalo Ramos,Cristiano Ronaldo,,66,0,,,,23278610,580,18701,19032645
+116411387,Georgia vs Portugal (2024-06-26),Substitution,2024-06-26 22:15:00.000,Portugal,Matheus Nunes,João Neves,,75,0,,,,21781428,37592729,18701,19032645
+116411261,Georgia vs Portugal (2024-06-26),Goal,2024-06-26 21:57:00.000,Georgia,Georges Mikautadze,,"2-0",57,0,,,,13963088,,18692,19032645
+116410601,Georgia vs Portugal (2024-06-26),Goal,2024-06-26 21:02:00.000,Georgia,Khvicha Kvaratskhelia,G. Mikautadze,"1-0",2,0,,,,1479337,13963088,18692,19032645
+116411495,Georgia vs Portugal (2024-06-26),Substitution,2024-06-26 22:21:00.000,Georgia,Zuriko Davitashvili,G. Chakvetadze,,81,0,,,,539555,106821,18692,19032645
+116411303,Georgia vs Portugal (2024-06-26),Substitution,2024-06-26 22:03:00.000,Georgia,Georgiy Tsitaishvili,L. Lochoshvili,,63,0,,,,537257,104100,18692,19032645
+116411011,Georgia vs Portugal (2024-06-26),Yellowcard,2024-06-26 21:44:00.000,Portugal,Pedro Neto,,,44,0,,,,496775,,18701,19032645
+116411400,Georgia vs Portugal (2024-06-26),Substitution,2024-06-26 22:16:00.000,Georgia,Solomon Kvirkvelia,G. Gvelesiani,,76,0,,,,169788,103247,18692,19032645
+116411322,Georgia vs Portugal (2024-06-26),Substitution,2024-06-26 22:06:00.000,Portugal,Nélson Semedo,António Silva,,66,0,,,,160110,37354828,18701,19032645
+116411382,Georgia vs Portugal (2024-06-26),Substitution,2024-06-26 22:15:00.000,Portugal,Diogo Jota,Pedro Neto,,75,0,,,,159917,496775,18701,19032645
+116411238,Georgia vs Portugal (2024-06-26),Yellowcard,2024-06-26 21:53:00.000,Portugal,Rúben Neves,,,53,0,Substitution,2024-06-26 21:46:00.000,420.0,159699,,18701,19032645
+116411194,Georgia vs Portugal (2024-06-26),Substitution,2024-06-26 21:46:00.000,Portugal,Rúben Neves,João Palhinha,,46,0,,,,159699,160072,18701,19032645
+116411258,Georgia vs Portugal (2024-06-26),VAR,2024-06-26 21:55:00.000,Georgia,Luka Lochoshvili,,,55,0,,,,104100,,18692,19032645
+116410863,Georgia vs Portugal (2024-06-26),Yellowcard,2024-06-26 21:28:00.000,Portugal,Cristiano Ronaldo,,,28,0,,,,580,,18701,19032645
+116270735,Denmark vs England (2024-06-20),Substitution,2024-06-20 18:57:00.000,Denmark,Mikkel Damsgaard,Jonas Wind,,57,0,,,,8449373,537914,18583,19032624
+116271193,Denmark vs England (2024-06-20),Substitution,2024-06-20 19:22:00.000,Denmark,Andreas Skov Olsen,Morten Hjulmand,,82,0,,,,1685328,540189,18583,19032624
+116270816,Denmark vs England (2024-06-20),Yellowcard,2024-06-20 19:01:00.000,England,C. Gallagher,,,61,0,Substitution,2024-06-20 18:54:00.000,420.0,1494245,,18645,19032624
+116270693,Denmark vs England (2024-06-20),Substitution,2024-06-20 18:54:00.000,England,C. Gallagher,Trent Alexander-Arnold,,54,0,,,,1494245,1917,18645,19032624
+116269890,Denmark vs England (2024-06-20),Goal,2024-06-20 18:34:00.000,Denmark,Morten Hjulmand,Victor Kristiansen,"1-1",34,0,,,,540189,32796825,18583,19032624
+116270736,Denmark vs England (2024-06-20),Substitution,2024-06-20 18:57:00.000,Denmark,Alexander Bah,Victor Kristiansen,,57,0,,,,85996,32796825,18583,19032624
+116270978,Denmark vs England (2024-06-20),Yellowcard,2024-06-20 19:13:00.000,Denmark,Joakim Maehle,,,73,0,,,,84604,,18583,19032624
+116270873,Denmark vs England (2024-06-20),Substitution,2024-06-20 19:07:00.000,Denmark,Yussuf Poulsen,Rasmus Højlund,,67,0,,,,32587,37325012,18583,19032624
+116271322,Denmark vs England (2024-06-20),Yellowcard,2024-06-20 19:27:00.000,Denmark,Christian Nørgaard,,,87,0,Substitution,2024-06-20 19:22:00.000,300.0,31609,,18583,19032624
+116271190,Denmark vs England (2024-06-20),Substitution,2024-06-20 19:22:00.000,Denmark,Christian Nørgaard,Christian Eriksen,,82,0,,,,31609,992,18583,19032624
+116269824,Denmark vs England (2024-06-20),Yellowcard,2024-06-20 18:27:00.000,Denmark,Jannik Vestergaard,,,27,0,,,,31129,,18583,19032624
+116270910,Denmark vs England (2024-06-20),Substitution,2024-06-20 19:09:00.000,England,Ollie Watkins,Bukayo Saka,,69,0,,,,12145,16827155,18645,19032624
+116270909,Denmark vs England (2024-06-20),Substitution,2024-06-20 19:09:00.000,England,Eberechi Eze,Harry Kane,,69,0,,,,7643,997,18645,19032624
+116270903,Denmark vs England (2024-06-20),Substitution,2024-06-20 19:09:00.000,England,Jarrod Bowen,Phil Foden,,69,0,,,,1592,336133,18645,19032624
+116269757,Denmark vs England (2024-06-20),Goal,2024-06-20 18:18:00.000,England,Harry Kane,,"0-1",18,0,,,,997,,18645,19032624
+116408900,Slovakia vs Romania (2024-06-26),Yellowcard,2024-06-26 18:55:00.000,Romania,Edward Iordănescu,,,55,0,,,,,,18638,19032638
+116409165,Slovakia vs Romania (2024-06-26),Substitution,2024-06-26 19:10:00.000,Slovakia,Tomas Suslov,L. Haraslín,,70,0,,,,24816762,133633,18648,19032638
+116409446,Slovakia vs Romania (2024-06-26),Substitution,2024-06-26 19:18:00.000,Slovakia,David Duris,I. Schranz,,78,0,,,,4243098,81501,18648,19032638
+116409157,Slovakia vs Romania (2024-06-26),Substitution,2024-06-26 19:10:00.000,Slovakia,Robert Bozenik,D. Strelec,,70,0,,,,182277,9939024,18648,19032638
+116409712,Slovakia vs Romania (2024-06-26),Substitution,2024-06-26 19:32:00.000,Slovakia,Matus Bero,O. Duda,,90,2,,,,180916,33793,18648,19032638
+116406572,Slovakia vs Romania (2024-06-26),Yellowcard,2024-06-26 18:46:00.000,Romania,Andrei Burcă,,,45,1,,,,165777,,18638,19032638
+116408933,Slovakia vs Romania (2024-06-26),Substitution,2024-06-26 18:58:00.000,Romania,Deian Sorescu,Florinel Coman,,58,0,,,,165701,165479,18638,19032638
+116409093,Slovakia vs Romania (2024-06-26),Substitution,2024-06-26 19:06:00.000,Romania,Dennis Man,Ianis Hagi,,66,0,,,,165622,129857,18638,19032638
+116406637,Slovakia vs Romania (2024-06-26),Yellowcard,2024-06-26 18:49:00.000,Romania,Nicușor Bancu,,,45,4,,,,165093,,18638,19032638
+116409626,Slovakia vs Romania (2024-06-26),Yellowcard,2024-06-26 19:28:00.000,Romania,George Pușcaș,,,88,0,Substitution,2024-06-26 19:06:00.000,1320.0,130192,,18638,19032638
+116409098,Slovakia vs Romania (2024-06-26),Substitution,2024-06-26 19:06:00.000,Romania,George Pușcaș,Denis Drăguș,,66,0,,,,130192,165648,18638,19032638
+116406429,Slovakia vs Romania (2024-06-26),VAR,2024-06-26 18:36:00.000,Romania,Ianis Hagi,,,36,0,,,,129857,,18638,19032638
+116409717,Slovakia vs Romania (2024-06-26),Substitution,2024-06-26 19:32:00.000,Slovakia,Norbert Gyomber,P. Pekarík,,90,2,,,,129686,30844,18648,19032638
+116409599,Slovakia vs Romania (2024-06-26),Substitution,2024-06-26 19:26:00.000,Romania,Adrian Rus,Răzvan Marin,,86,0,,,,116888,64202,18638,19032638
+116406418,Slovakia vs Romania (2024-06-26),Goal,2024-06-26 18:37:00.000,Romania,Răzvan Marin,,"1-1",37,0,,,,64202,,18638,19032638
+116430982,Slovakia vs Romania (2024-06-26),Yellowcard,2024-06-26 19:31:00.000,Slovakia,O. Duda,,,90,1,Yellowcard,2024-06-26 19:31:00.000,0.0,33793,,18648,19032638
+116409748,Slovakia vs Romania (2024-06-26),Yellowcard,2024-06-26 19:31:00.000,Slovakia,Ondrej Duda,,,90,1,Goal,2024-06-26 18:24:00.000,4020.0,33793,,18648,19032638
+116406259,Slovakia vs Romania (2024-06-26),Goal,2024-06-26 18:24:00.000,Slovakia,Ondrej Duda,J. Kucka,"1-0",24,0,,,,33793,79268,18648,19032638
+116248388,Germany vs Hungary (2024-06-19),Yellowcard,2024-06-19 19:33:00.000,Hungary,Marco Rossi,,,90,3,,,,,,18732,19032614
+116245126,Germany vs Hungary (2024-06-19),Goal,2024-06-19 18:22:00.000,Germany,Jamal Musiala,İlkay Gündoğan,"1-0",22,0,,,,33186829,4842,18660,19032614
+116248164,Germany vs Hungary (2024-06-19),Substitution,2024-06-19 19:27:00.000,Hungary,Kevin Csoboth,Roland Sallai,,87,0,,,,11705271,114021,18732,19032614
+116247669,Germany vs Hungary (2024-06-19),Substitution,2024-06-19 19:12:00.000,Germany,Chris Führich,Jamal Musiala,,72,0,,,,2158512,33186829,18660,19032614
+116248356,Germany vs Hungary (2024-06-19),Yellowcard,2024-06-19 19:33:00.000,Hungary,D. Szoboszlai,,,90,3,,,,785998,,18732,19032614
+116248165,Germany vs Hungary (2024-06-19),Substitution,2024-06-19 19:27:00.000,Hungary,Dániel Gazdag,Barnabás Varga,,87,0,,,,114179,52903,18732,19032614
+116247783,Germany vs Hungary (2024-06-19),Substitution,2024-06-19 19:15:00.000,Hungary,Martin Ádám,Milos Kerkez,,75,0,,,,114118,37381778,18732,19032614
+116247784,Germany vs Hungary (2024-06-19),Substitution,2024-06-19 19:15:00.000,Hungary,Zsolt Nagy,Bendegúz Bolla,,75,0,,,,114032,3169774,18732,19032614
+116246970,Germany vs Hungary (2024-06-19),VAR,2024-06-19 18:47:00.000,Hungary,Roland Sallai,,,45,2,,,,114021,,18732,19032614
+116245166,Germany vs Hungary (2024-06-19),Yellowcard,2024-06-19 18:22:00.000,Hungary,Barnabás Varga,,,22,0,,,,52903,,18732,19032614
+116248107,Germany vs Hungary (2024-06-19),Substitution,2024-06-19 19:24:00.000,Germany,Deniz Undav,İlkay Gündoğan,,84,0,,,,41077,4842,18660,19032614
+116247524,Germany vs Hungary (2024-06-19),Substitution,2024-06-19 19:04:00.000,Hungary,L. Kleinheisler,Ádám Nagy,,64,0,,,,32460,114226,18732,19032614
+116248239,Germany vs Hungary (2024-06-19),Yellowcard,2024-06-19 19:29:00.000,Germany,Maximilian Mittelstädt,,,89,0,,,,32384,,18660,19032614
+116245200,Germany vs Hungary (2024-06-19),Yellowcard,2024-06-19 18:27:00.000,Germany,Antonio Rüdiger,,,27,0,,,,31837,,18660,19032614
+116247431,Germany vs Hungary (2024-06-19),Substitution,2024-06-19 18:58:00.000,Germany,Niclas Füllkrug,Kai Havertz,,58,0,,,,31532,32612,18660,19032614
+116247566,Germany vs Hungary (2024-06-19),Goal,2024-06-19 19:07:00.000,Germany,İlkay Gündoğan,Maximilian Mittelstädt,"2-0",67,0,,,,4842,32384,18660,19032614
+116247432,Germany vs Hungary (2024-06-19),Substitution,2024-06-19 18:58:00.000,Germany,Leroy Sané,Florian Wirtz,,58,0,,,,4783,37429246,18660,19032614
+116247664,Germany vs Hungary (2024-06-19),Substitution,2024-06-19 19:12:00.000,Germany,Emre Can,Robert Andrich,,72,0,,,,1388,34880,18660,19032614
+116136025,Hungary vs Switzerland (2024-06-15),Yellowcard,2024-06-15 16:28:00.000,Switzerland,Murat Yakin,,,88,0,,,,,,18708,19045701
+116135291,Hungary vs Switzerland (2024-06-15),Substitution,2024-06-15 16:08:00.000,Switzerland,Zeki Amdouni,Kwadwo Duah,,68,0,,,,37261110,198111,18708,19045701
+116135302,Hungary vs Switzerland (2024-06-15),Substitution,2024-06-15 16:08:00.000,Switzerland,Leonidas Stergiou,Silvan Widmer,,68,0,,,,24817462,129609,18708,19045701
+116135987,Hungary vs Switzerland (2024-06-15),Substitution,2024-06-15 16:26:00.000,Switzerland,Fabian Rieder,Dan Ndoye,,86,0,,,,24817439,19978623,18708,19045701
+116135717,Hungary vs Switzerland (2024-06-15),Substitution,2024-06-15 16:19:00.000,Hungary,Márton Dárdai,Milos Kerkez,,79,0,,,,23707369,37381778,18732,19045701
+116136026,Hungary vs Switzerland (2024-06-15),Yellowcard,2024-06-15 16:28:00.000,Hungary,Bendegúz Bolla,,,88,0,Substitution,2024-06-15 15:46:00.000,2520.0,3169774,,18732,19045701
+116134669,Hungary vs Switzerland (2024-06-15),Substitution,2024-06-15 15:46:00.000,Hungary,Bendegúz Bolla,Ádám Lang,,46,0,,,,3169774,96929,18732,19045701
+116134051,Hungary vs Switzerland (2024-06-15),Goal,2024-06-15 15:45:00.000,Switzerland,Michel Aebischer,Remo Freuler,"0-2",45,0,,,,198220,130145,18708,19045701
+116132485,Hungary vs Switzerland (2024-06-15),VAR,2024-06-15 15:13:00.000,Switzerland,Kwadwo Duah,,,13,0,Goal,2024-06-15 15:12:00.000,60.0,198111,,18708,19045701
+116132459,Hungary vs Switzerland (2024-06-15),Goal,2024-06-15 15:12:00.000,Switzerland,Kwadwo Duah,Michel Aebischer,"0-1",12,0,,,,198111,198220,18708,19045701
+116135986,Hungary vs Switzerland (2024-06-15),Substitution,2024-06-15 16:26:00.000,Switzerland,Vincent Sierro,Remo Freuler,,86,0,,,,198045,130145,18708,19045701
+116135033,Hungary vs Switzerland (2024-06-15),Yellowcard,2024-06-15 15:59:00.000,Switzerland,Remo Freuler,,,59,0,,,,130145,,18708,19045701
+116132091,Hungary vs Switzerland (2024-06-15),Yellowcard,2024-06-15 15:05:00.000,Switzerland,Silvan Widmer,,,5,0,,,,129609,,18708,19045701
+116135716,Hungary vs Switzerland (2024-06-15),Substitution,2024-06-15 16:19:00.000,Hungary,Martin Ádám,Attila Szalai,,79,0,,,,114118,53557,18732,19045701
+116135332,Hungary vs Switzerland (2024-06-15),Yellowcard,2024-06-15 16:09:00.000,Hungary,Attila Szalai,,,69,0,,,,53557,,18732,19045701
+116135210,Hungary vs Switzerland (2024-06-15),Goal,2024-06-15 16:06:00.000,Hungary,Barnabás Varga,D. Szoboszlai,"1-2",66,0,,,,52903,785998,18732,19045701
+116136215,Hungary vs Switzerland (2024-06-15),Goal,2024-06-15 16:33:00.000,Switzerland,Breel Embolo,,"1-3",90,3,Substitution,2024-06-15 16:14:00.000,1140.0,32538,,18708,19045701
+116135556,Hungary vs Switzerland (2024-06-15),Substitution,2024-06-15 16:14:00.000,Switzerland,Breel Embolo,Rubén Vargas,,74,0,,,,32538,1478864,18708,19045701
+116135269,Hungary vs Switzerland (2024-06-15),Substitution,2024-06-15 16:07:00.000,Hungary,László Kleinheisler,Ádám Nagy,,67,0,,,,32460,114226,18732,19045701
+116304078,Georgia vs Czech Republic (2024-06-22),Substitution,2024-06-22 15:55:00.000,Czech Republic,Matej Jurasek,Vaclav Cerny,,55,0,,,,37316360,25709,18718,19032642
+116303856,Georgia vs Czech Republic (2024-06-22),Yellowcard,2024-06-22 15:47:00.000,Czech Republic,David Jurásek,,,47,0,,,,37259977,,18718,19032642
+116304429,Georgia vs Czech Republic (2024-06-22),Substitution,2024-06-22 16:08:00.000,Czech Republic,Mojmír Chytil,Patrik Schick,,68,0,,,,26313942,80675,18718,19032642
+116305086,Georgia vs Czech Republic (2024-06-22),Yellowcard,2024-06-22 16:23:00.000,Georgia,Anzor Mekvabishvili,,,83,0,,,,25922119,,18692,19032642
+116303411,Georgia vs Czech Republic (2024-06-22),Goal,2024-06-22 15:49:00.000,Georgia,Georges Mikautadze,,"1-0",45,4,,,,13963088,,18692,19032642
+116302863,Georgia vs Czech Republic (2024-06-22),VAR,2024-06-22 15:23:00.000,Czech Republic,Adam Hlozek,,,23,0,,,,8101006,,18718,19032642
+116303413,Georgia vs Czech Republic (2024-06-22),VAR,2024-06-22 15:45:00.000,Georgia,Khvicha Kvaratskhelia,,,45,0,,,,1479337,,18692,19032642
+116304077,Georgia vs Czech Republic (2024-06-22),Substitution,2024-06-22 15:55:00.000,Czech Republic,Ondrej Lingr,Adam Hlozek,,55,0,,,,608247,8101006,18718,19032642
+116305756,Georgia vs Czech Republic (2024-06-22),Yellowcard,2024-06-22 16:35:00.000,Georgia,Giorgi Kochorashvili,,,90,5,,,,106911,,18692,19032642
+116304271,Georgia vs Czech Republic (2024-06-22),Substitution,2024-06-22 16:02:00.000,Georgia,Giorgi Chakvetadze,Zuriko Davitashvili,,62,0,,,,106821,539555,18692,19032642
+116304276,Georgia vs Czech Republic (2024-06-22),Substitution,2024-06-22 16:02:00.000,Georgia,Luka Lochoshvili,Georgiy Tsitaishvili,,62,0,,,,104100,537257,18692,19032642
+116305076,Georgia vs Czech Republic (2024-06-22),Substitution,2024-06-22 16:22:00.000,Georgia,Saba Lobjanidze,Khvicha Kvaratskhelia,,82,0,,,,103660,1479337,18692,19032642
+116305044,Georgia vs Czech Republic (2024-06-22),Substitution,2024-06-22 16:22:00.000,Georgia,Giorgi Gvelesiani,Solomon Kvirkvelia,,82,0,Yellowcard,2024-06-22 16:22:00.000,0.0,103247,169788,18692,19032642
+116305128,Georgia vs Czech Republic (2024-06-22),Yellowcard,2024-06-22 16:22:00.000,Georgia,Giorgi Gvelesiani,,,82,0,,,,103247,,18692,19032642
+116303195,Georgia vs Czech Republic (2024-06-22),Yellowcard,2024-06-22 15:40:00.000,Czech Republic,Lukas Provod,,,40,0,,,,83003,,18718,19032642
+116305027,Georgia vs Czech Republic (2024-06-22),Substitution,2024-06-22 16:21:00.000,Czech Republic,Petr Sevcik,David Jurásek,,81,0,,,,80879,37259977,18718,19032642
+116304163,Georgia vs Czech Republic (2024-06-22),Goal,2024-06-22 15:59:00.000,Czech Republic,Patrik Schick,Ondrej Lingr,"1-1",59,0,,,,80675,608247,18718,19032642
+116304972,Georgia vs Czech Republic (2024-06-22),Yellowcard,2024-06-22 16:21:00.000,Czech Republic,Tomas Soucek,,,81,0,,,,80655,,18718,19032642
+116305013,Georgia vs Czech Republic (2024-06-22),Substitution,2024-06-22 16:21:00.000,Czech Republic,Antonín Barák,Lukas Provod,,81,0,,,,80331,83003,18718,19032642
+116302753,Georgia vs Czech Republic (2024-06-22),Yellowcard,2024-06-22 15:18:00.000,Czech Republic,Vladimír Coufal,,,18,0,,,,80304,,18718,19032642
+116304007,Georgia vs Czech Republic (2024-06-22),Yellowcard,2024-06-22 15:53:00.000,Czech Republic,Tomas Holes,,,53,0,,,,79972,,18718,19032642
+116305389,Georgia vs Czech Republic (2024-06-22),Substitution,2024-06-22 16:28:00.000,Georgia,Giorgi Kvilitaia,Georges Mikautadze,,88,0,,,,52880,13963088,18692,19032642
+116303118,Georgia vs Czech Republic (2024-06-22),Yellowcard,2024-06-22 15:36:00.000,Georgia,Guram Kashia,,,36,0,,,,24150,,18692,19032642
+116286851,Netherlands vs France (2024-06-21),VAR,2024-06-21 22:09:00.000,Netherlands,Xavi Simons,,,69,0,,,,37317392,,18694,19032631
+116286831,Netherlands vs France (2024-06-21),Substitution,2024-06-21 22:13:00.000,Netherlands,Lutsharel Geertruida,Jeremie Frimpong,,73,0,,,,4598752,8403182,18694,19032631
+116286848,Netherlands vs France (2024-06-21),Substitution,2024-06-21 22:15:00.000,France,Kingsley Coman,Ousmane Dembélé,,75,0,,,,32659,32403,18647,19032631
+116286835,Netherlands vs France (2024-06-21),Substitution,2024-06-21 22:13:00.000,Netherlands,Joey Veerman,Xavi Simons,,73,0,,,,29394,37317392,18694,19032631
+116286477,Netherlands vs France (2024-06-21),Yellowcard,2024-06-21 21:31:00.000,Netherlands,Jerdy Schouten,,,31,0,,,,26786,,18694,19032631
+116286881,Netherlands vs France (2024-06-21),Substitution,2024-06-21 22:19:00.000,Netherlands,Wout Weghorst,Memphis Depay,,79,0,,,,25317,929,18694,19032631
+116286836,Netherlands vs France (2024-06-21),Substitution,2024-06-21 22:13:00.000,Netherlands,Georginio Wijnaldum,Jerdy Schouten,,73,0,,,,1365,26786,18694,19032631
+116286849,Netherlands vs France (2024-06-21),Substitution,2024-06-21 22:15:00.000,France,Olivier Giroud,Marcus Thuram,,75,0,,,,798,99000,18647,19032631
+116555102,Austria vs Turkey (2024-07-02),Substitution,2024-07-02 21:46:00.000,Austria,Alexander Prass,Phillipp Mwene,,46,0,,,,31626002,35141,18643,19032612
+116554900,Austria vs Turkey (2024-07-02),Yellowcard,2024-07-02 21:42:00.000,Turkey,İsmail Yüksek,,,42,0,,,,22528506,,18716,19032612
+116554734,Austria vs Turkey (2024-07-02),Yellowcard,2024-07-02 21:11:00.000,Turkey,Orkun Kökçü,,,11,0,,,,4545376,,18716,19032612
+116555444,Austria vs Turkey (2024-07-02),Substitution,2024-07-02 22:18:00.000,Turkey,Kerem Aktürkoğlu,Arda Güler,,78,0,,,,534383,37547467,18716,19032612
+116554874,Austria vs Turkey (2024-07-02),Yellowcard,2024-07-02 21:38:00.000,Austria,Romano Schmid,,,38,0,,,,459660,,18643,19032612
+116555506,Austria vs Turkey (2024-07-02),Substitution,2024-07-02 22:23:00.000,Turkey,İrfan Can Kahveci,Orkun Kökçü,,83,0,,,,201444,4545376,18716,19032612
+116555443,Austria vs Turkey (2024-07-02),Substitution,2024-07-02 22:18:00.000,Turkey,Okay Yokuşlu,Kenan Yıldız,,78,0,,,,201060,37598725,18716,19032612
+116555168,Austria vs Turkey (2024-07-02),Yellowcard,2024-07-02 21:52:00.000,Austria,Philipp Lienhart,,,52,0,,,,186848,,18643,19032612
+116555238,Austria vs Turkey (2024-07-02),Goal,2024-07-02 21:59:00.000,Turkey,Merih Demiral,Arda Güler,"0-2",59,0,Goal,2024-07-02 21:01:00.000,3480.0,164069,37547467,18716,19032612
+116554692,Austria vs Turkey (2024-07-02),Goal,2024-07-02 21:01:00.000,Turkey,Merih Demiral,,"0-1",1,0,,,,164069,,18716,19032612
+116555307,Austria vs Turkey (2024-07-02),Substitution,2024-07-02 22:04:00.000,Austria,Maximilian Wöber,Philipp Lienhart,,64,0,,,,52850,186848,18643,19032612
+116555223,Austria vs Turkey (2024-07-02),Substitution,2024-07-02 21:58:00.000,Turkey,Salih Özcan,İsmail Yüksek,,58,0,,,,32622,22528506,18716,19032612
+116555299,Austria vs Turkey (2024-07-02),Substitution,2024-07-02 22:04:00.000,Austria,Florian Grillitsch,Konrad Laimer,,64,0,,,,32378,52585,18643,19032612
+116555327,Austria vs Turkey (2024-07-02),Goal,2024-07-02 22:06:00.000,Austria,Michael Gregoritsch,Stefan Posch,"1-2",66,0,Substitution,2024-07-02 21:46:00.000,1200.0,32361,33770,18643,19032612
+116555101,Austria vs Turkey (2024-07-02),Substitution,2024-07-02 21:46:00.000,Austria,Michael Gregoritsch,Romano Schmid,,46,0,,,,32361,459660,18643,19032612
+116184667,Poland vs Netherlands (2024-06-16),Substitution,2024-06-16 16:27:00.000,Netherlands,Micky van de Ven,Nathan Aké,,87,0,,,,37296248,1869,18694,19032628
+116184391,Poland vs Netherlands (2024-06-16),Substitution,2024-06-16 16:21:00.000,Netherlands,Jeremie Frimpong,C. Gakpo,,81,0,,,,8403182,30062,18694,19032628
+116183146,Poland vs Netherlands (2024-06-16),Substitution,2024-06-16 15:46:00.000,Poland,Jakub Moder,Sebastian Szymanski,,46,0,,,,1444078,156180,18699,19032628
+116183718,Poland vs Netherlands (2024-06-16),Substitution,2024-06-16 16:02:00.000,Netherlands,Donyell Malen,Xavi Simons,,62,0,,,,537758,37317392,18694,19032628
+116183511,Poland vs Netherlands (2024-06-16),Substitution,2024-06-16 15:55:00.000,Poland,Bartosz Slisz,Taras Romanczuk,,55,0,,,,506092,155299,18699,19032628
+116184282,Poland vs Netherlands (2024-06-16),Substitution,2024-06-16 16:18:00.000,Poland,Jakub Piotrowski,Piotr Zieliński,,78,0,,,,155889,129072,18699,19032628
+116182305,Poland vs Netherlands (2024-06-16),Goal,2024-06-16 15:16:00.000,Poland,Adam Buksa,Piotr Zieliński,"1-0",16,0,,,,155460,129072,18699,19032628
+116183512,Poland vs Netherlands (2024-06-16),Substitution,2024-06-16 15:55:00.000,Poland,Karol Świderski,Kacper Urbanski,,55,0,,,,155310,37382883,18699,19032628
+116184639,Poland vs Netherlands (2024-06-16),Substitution,2024-06-16 16:26:00.000,Poland,Bartosz Bereszyński,Bartosz Salamon,,86,0,,,,133972,129551,18699,19032628
+116182567,Poland vs Netherlands (2024-06-16),Goal,2024-06-16 15:29:00.000,Netherlands,Cody Gakpo,Nathan Aké,"1-1",29,0,,,,30062,1869,18694,19032628
+116182304,Poland vs Netherlands (2024-06-16),Yellowcard,2024-06-16 15:15:00.000,Netherlands,Joey Veerman,,,15,0,,,,29394,,18694,19032628
+116184468,Poland vs Netherlands (2024-06-16),Goal,2024-06-16 16:23:00.000,Netherlands,Wout Weghorst,Nathan Aké,"1-2",83,0,Substitution,2024-06-16 16:21:00.000,120.0,25317,1869,18694,19032628
+116184392,Poland vs Netherlands (2024-06-16),Substitution,2024-06-16 16:21:00.000,Netherlands,Wout Weghorst,Memphis Depay,,81,0,,,,25317,929,18694,19032628
+116183764,Poland vs Netherlands (2024-06-16),Substitution,2024-06-16 16:02:00.000,Netherlands,Georginio Wijnaldum,Joey Veerman,,62,0,,,,1365,29394,18694,19032628
+116633375,England vs Switzerland (2024-07-06),Substitution,2024-07-06 19:58:00.000,Switzerland,Zeki Amdouni,Remo Freuler,,118,0,Penalty Shootout Goal,2024-07-06 18:08:00.000,6600.0,37261110,130145,18708,19032604
+116633704,England vs Switzerland (2024-07-06),Penalty Shootout Goal,2024-07-06 18:08:00.000,Switzerland,Zeki Amdouni,,"4-3",8,0,,,,37261110,,18708,19032604
+116633545,England vs Switzerland (2024-07-06),Penalty Shootout Goal,2024-07-06 18:03:00.000,England,Jude Bellingham,,"2-0",3,0,,,,37255840,,18645,19032604
+116632382,England vs Switzerland (2024-07-06),Substitution,2024-07-06 19:18:00.000,England,Cole Palmer,Ezri Konsa,,78,0,Penalty Shootout Goal,2024-07-06 18:01:00.000,4620.0,28912747,7124,18645,19032604
+116633486,England vs Switzerland (2024-07-06),Penalty Shootout Goal,2024-07-06 18:01:00.000,England,Cole Palmer,,"1-0",1,0,,,,28912747,,18645,19032604
+116632419,England vs Switzerland (2024-07-06),Goal,2024-07-06 19:20:00.000,England,Bukayo Saka,Declan Rice,"1-1",80,0,Penalty Shootout Goal,2024-07-06 18:05:00.000,4500.0,16827155,5273,18645,19032604
+116633596,England vs Switzerland (2024-07-06),Penalty Shootout Goal,2024-07-06 18:05:00.000,England,Bukayo Saka,,"3-1",5,0,,,,16827155,,18645,19032604
+116633511,England vs Switzerland (2024-07-06),Penalty Shootout Missed,2024-07-06 18:02:00.000,Switzerland,Manuel Akanji,,"1-0",2,0,,,,198062,,18708,19032604
+116632870,England vs Switzerland (2024-07-06),Substitution,2024-07-06 19:38:00.000,Switzerland,Denis Zakaria,Dan Ndoye,,98,0,,,,198051,19978623,18708,19032604
+116633374,England vs Switzerland (2024-07-06),Substitution,2024-07-06 19:58:00.000,Switzerland,Vincent Sierro,Michel Aebischer,,118,0,,,,198045,198220,18708,19032604
+116632500,England vs Switzerland (2024-07-06),Yellowcard,2024-07-06 19:25:00.000,Switzerland,Silvan Widmer,,,85,0,Substitution,2024-07-06 19:03:00.000,1320.0,129609,,18708,19032604
+116632185,England vs Switzerland (2024-07-06),Substitution,2024-07-06 19:03:00.000,Switzerland,Silvan Widmer,Fabian Rieder,,63,0,,,,129609,24817439,18708,19032604
+116632334,England vs Switzerland (2024-07-06),Goal,2024-07-06 19:15:00.000,Switzerland,Breel Embolo,Dan Ndoye,"0-1",75,0,,,,32538,19978623,18708,19032604
+116631369,England vs Switzerland (2024-07-06),Yellowcard,2024-07-06 18:32:00.000,Switzerland,Fabian Schär,,,32,0,Penalty Shootout Goal,2024-07-06 18:04:00.000,1680.0,32372,,18708,19032604
+116633573,England vs Switzerland (2024-07-06),Penalty Shootout Goal,2024-07-06 18:04:00.000,Switzerland,Fabian Schär,,"2-1",4,0,,,,32372,,18708,19032604
+116632186,England vs Switzerland (2024-07-06),Substitution,2024-07-06 19:03:00.000,Switzerland,Steven Zuber,Rubén Vargas,,63,0,,,,32116,1478864,18708,19032604
+116632378,England vs Switzerland (2024-07-06),Substitution,2024-07-06 19:18:00.000,England,Eberechi Eze,Kieran Trippier,,78,0,,,,7643,1016,18645,19032604
+116633214,England vs Switzerland (2024-07-06),Substitution,2024-07-06 19:49:00.000,England,Ivan Toney,Harry Kane,,109,0,Penalty Shootout Goal,2024-07-06 18:07:00.000,6120.0,4341,997,18645,19032604
+116633661,England vs Switzerland (2024-07-06),Penalty Shootout Goal,2024-07-06 18:07:00.000,England,Ivan Toney,,"4-2",7,0,,,,4341,,18645,19032604
+116633310,England vs Switzerland (2024-07-06),Substitution,2024-07-06 19:55:00.000,England,Trent Alexander-Arnold,Phil Foden,,115,0,Penalty Shootout Goal,2024-07-06 18:09:00.000,6360.0,1917,336133,18645,19032604
+116633740,England vs Switzerland (2024-07-06),Penalty Shootout Goal,2024-07-06 18:09:00.000,England,Trent Alexander-Arnold,,"5-3",9,0,,,,1917,,18645,19032604
+116633204,England vs Switzerland (2024-07-06),Substitution,2024-07-06 19:49:00.000,Switzerland,Xherdan Shaqiri,Breel Embolo,,109,0,Penalty Shootout Goal,2024-07-06 18:06:00.000,6180.0,1714,32538,18708,19032604
+116633625,England vs Switzerland (2024-07-06),Penalty Shootout Goal,2024-07-06 18:06:00.000,Switzerland,Xherdan Shaqiri,,"3-2",6,0,,,,1714,,18708,19032604
+116632241,England vs Switzerland (2024-07-06),Yellowcard,2024-07-06 19:07:00.000,England,Harry Kane,,,67,0,,,,997,,18645,19032604
+116632388,England vs Switzerland (2024-07-06),Substitution,2024-07-06 19:18:00.000,England,Luke Shaw,Kobbie Mainoo,,78,0,,,,955,37540234,18645,19032604
