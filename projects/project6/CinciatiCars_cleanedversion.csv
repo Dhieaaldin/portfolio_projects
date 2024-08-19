@@ -1,0 +1,422 @@
+,Model,Location,Miles,Prices,Year,Scraped_On,Dealership
+0, Honda civic LX Sedan 4D,"Newport, KY",82000.0,"$13,900",2016,2024-07-01,False
+1, Volkswagen jetta 1.8T SEL Sedan 4D,"Cincinnati, OH",67000.0,"$4,600",2015,2024-07-01,True
+2, Toyota corolla LE Sedan 4D,"Fort Mitchell, KY",87000.0,"$13,000",2020,2024-07-01,False
+3, Hyundai sonata SE Sedan 4D,"Dayton, OH",110000.0,"$7,499",2016,2024-07-01,False
+4, Hyundai elantra SE Sedan 4D,"Louisville, KY",114000.0,"$6,500",2017,2024-07-01,True
+5, Hyundai accent SE Sedan 4D,"Cincinnati, OH",100000.0,"$3,975",2017,2024-07-01,False
+6, Hyundai elantra SE Sedan 4D,"Dayton, OH",79000.0,"$8,460",2019,2024-07-01,False
+7, Hyundai elantra SE Sedan 4D,"West Chester, OH",13000.0,"$5,999",2016,2024-07-01,False
+8, Hyundai elantra Limited Sedan 4D,"Cincinnati, OH",142000.0,"$7,900",2020,2024-07-01,False
+9, Hyundai sonata SE Sedan 4D,"Cincinnati, OH",123000.0,"$7,500",2016,2024-07-01,False
+10, Nissan altima 2.5 SL Sedan 4D,"Hebron, KY",71000.0,"$8,800",2015,2024-07-01,False
+11, Hyundai elantra 2017,"Fort Thomas, KY",60000.0,$400,2017,2024-07-01,False
+12, Mazda mazda6 i Sport Sedan 4D,"Fort Mitchell, KY",118000.0,"$5,900",2013,2024-07-01,False
+13, Volkswagen passat 1.8T S Sedan 4D,"Columbus, OH",137000.0,"$5,500",2016,2024-07-01,True
+14, Volkswagen jetta 1.8T Sport Sedan 4D,"Fort Mitchell, KY",138000.0,"$4,500",2015,2024-07-01,False
+15, Toyota camry LE Sedan 4D,"Covington, KY",131000.0,"$5,800",2007,2024-07-01,False
+16, Hyundai sonata 2.4l i4 fwd,"Cincinnati, OH",137000.0,"$7,995",2016,2024-07-01,False
+17, Honda civic EX Sedan 4D,"Cincinnati, OH",92000.0,"$10,800",2015,2024-07-01,False
+18, Hyundai sonata Limited Sedan 4D,"Covington, KY",106000.0,"$6,500",2016,2024-07-01,False
+19, Toyota corolla,"Cincinnati, OH",104000.0,"$11,500",2015,2024-07-01,False
+20, Toyota camry,"Alexandria, KY",132000.0,"$10,988",2012,2024-07-01,False
+21, Honda civic DX Sedan 4D,"Cincinnati, OH",80000.0,"$8,400",2012,2024-07-01,False
+22, Nissan sentra S Sedan 4D,"Dayton, KY",144000.0,"$5,000",2016,2024-07-01,False
+23, Kia optima EX Sedan 4D,"Alexandria, KY",170000.0,"$7,900",2015,2024-07-01,False
+24, Hyundai elantra Coupe 2D,"Columbus, OH",134000.0,"$4,500",2014,2024-07-01,False
+25, Volkswagen passat Wolfsburg Edition Sedan 4D,"Cincinnati, OH",112000.0,"$3,495",2013,2024-07-01,False
+26, Kia rio EX Sedan 4D,"Covington, KY",143000.0,"$3,500",2015,2024-07-01,False
+27, Honda civic,"Covington, KY",130000.0,"$6,800",2012,2024-07-01,False
+28, Nissan altima 2.5 S Sedan 4D,"Cincinnati, OH",113000.0,"$6,300",2013,2024-07-01,False
+29, Nissan versa SV Sedan 4D,"Cincinnati, OH",143000.0,"$4,550",2015,2024-07-01,False
+30, Nissan altima 2.5 S Sedan 4D,"Mason, OH",140000.0,"$6,199",2016,2024-07-01,False
+31, Hyundai sonata Limited Sedan 4D,"Florence, KY",83000.0,"$4,800",2011,2024-07-01,False
+32, Hyundai elantra SE Sedan 4D,"Cincinnati, OH",150000.0,"$3,999",2010,2024-07-01,False
+33, Mazda mazda3 s Grand Touring Sedan 4D,"Cincinnati, OH",145000.0,"$6,000",2012,2024-07-01,False
+34, Honda accord ex-l,"Covington, KY",155000.0,"$6,900",2009,2024-07-01,False
+35, Honda accord ex-l v6,"Lexington, KY",45000.0,"$8,850",2010,2024-07-01,False
+36, Nissan leaf S-24 Hatchback 4D,"Fort Thomas, KY",26000.0,"$6,000",2016,2024-07-01,False
+37, Mitsubishi mirage g4 ES Sedan 4D,"Cincinnati, OH",113000.0,"$4,000",2017,2024-07-01,False
+38, Scion Hatchback Coupe 2D,"Covington, KY",113000.0,"$7,200",2014,2024-07-01,False
+39, Honda accord se,"Covington, KY",159000.0,"$5,950",2011,2024-07-01,False
+40, Nissan altima 2.5 S Sedan 4D,"Cincinnati, OH",75000.0,"$16,000",2020,2024-07-01,False
+41, Toyota camry   !!!down payment!!!,"Cincinnati, OH",131000.0,"$3,500",2017,2024-07-01,False
+42, Nissan altima 2.5 Sedan 4D,"Fort Thomas, KY",159000.0,"$5,000",2012,2024-07-01,False
+43, Hyundai sonata Limited Sedan 4D,"Cincinnati, OH",147000.0,"$4,200",2011,2024-07-01,False
+44, Honda accord EX-L Sedan 4D,"Cincinnati, OH",140000.0,"$5,990",2011,2024-07-01,False
+45, Nissan altima 2.5l l4 fwd,"Cincinnati, OH",82000.0,"$11,993",2018,2024-07-01,False
+46, Hyundai elantra,"Cincinnati, OH",136000.0,"$1,500",2016,2024-07-01,False
+47, Toyota prius ii,"Covington, KY",182000.0,"$6,950",2012,2024-07-01,False
+48, Kia forte EX Sedan 4D,"Cincinnati, OH",142000.0,"$4,900",2014,2024-07-01,False
+49, Chevrolet cruze LS Sedan 4D,"Florence, KY",137000.0,"$4,000",2013,2024-07-01,False
+50, Hyundai elantra,"Cincinnati, OH",77000.0,"$1,000",2017,2024-07-01,False
+51, Chevrolet cruze LT Sedan 4D,"Cincinnati, OH",95000.0,"$7,200",2017,2024-07-01,False
+52, Honda civic,"Lebanon, OH",109000.0,"$6,450",2007,2024-07-01,False
+53, Toyota camry SE Sedan 4D,"Florence, KY",168000.0,"$5,500",2007,2024-07-01,False
+54, Honda accord EX,"Cincinnati, OH",130000.0,"$12,875",2019,2024-07-01,False
+55, Honda accord Sport Sedan 4D,"Fairfield, OH",147000.0,"$9,500",2017,2024-07-01,False
+56, Toyota camry SE Sedan 4D,"Latonia, KY",148000.0,"$6,000",2009,2024-07-01,False
+57, Toyota camry Sedan 4D,"Mason, OH",180000.0,"$4,100",2009,2024-07-01,False
+58, Toyota camry LE Sedan 4D,"Cincinnati, OH",160000.0,"$5,000",2010,2024-07-01,False
+59, Hyundai elantra GT Hatchback 4D,"Cincinnati, OH",180000.0,"$3,999",2014,2024-07-01,True
+60, Volkswagen 2.0 convertable,"Cincinnati, OH",103000.0,"$12,995",2013,2024-07-01,False
+61, Honda civic Sport,"Cincinnati, OH",10000.0,"$1,234",2024,2024-07-01,False
+62, Mazda mazda3 s Touring Sedan 4D,"Newport, KY",181000.0,"$3,600",2007,2024-07-01,False
+63, Nissan altima 3.5 SR Sedan 4D,"Cincinnati, OH",125000.0,"$5,400",2012,2024-07-01,False
+64, Kia rio EX Sedan 4D,"West Chester, OH",144000.0,"$3,500",2015,2024-07-01,False
+65, Toyota camry XLE Sedan 4D,"Fort Mitchell, KY",204000.0,"$2,500",2004,2024-07-01,False
+66, Nissan altima !!!down payment!!!,"Cincinnati, OH",105000.0,"$4,000",2019,2024-07-01,False
+67, Toyota corolla,"Cincinnati, OH",90000.0,"$6,800",2006,2024-07-01,False
+68, Hyundai sonata SE Sedan 4D,"Bellevue, KY",86000.0,"$1,800",2015,2024-07-01,False
+69, Volkswagen new beetle SE Convertible 2D,"Cincinnati, OH",141000.0,"$9,000",2008,2024-07-01,False
+70, Hyundai elantra SE Sedan 4D,"Cincinnati, OH",66000.0,"$7,800",2015,2024-07-01,False
+71, Hyundai sonata SE Sedan 4D,"Monroe, OH",110000.0,"$6,800",2015,2024-07-01,False
+72, Hyundai elantra SE Sedan 4D,"Cincinnati, OH",105000.0,"$5,500",2014,2024-07-01,False
+73, Hyundai elantra GLS Sedan 4D,"Cincinnati, OH",113000.0,"$4,999",2013,2024-07-01,False
+74, Hyundai elantra SEL Sedan 4D,"Milford, OH",118000.0,"$9,900",2019,2024-07-01,False
+75, Mazda mazda6 Touring,"Cincinnati, OH",103000.0,"$9,000",2014,2024-07-01,False
+76, Hyundai elantra,"Florence, KY",58000.0,"$10,000",2017,2024-07-01,False
+77, Hyundai elantra,"Cincinnati, OH",94000.0,"$6,000",2013,2024-07-01,False
+78, Hyundai elantra SE Sedan 4D,"Cincinnati, OH",172000.0,"$5,995",2017,2024-07-01,True
+79, Mazda mazda3 i Grand Touring Sedan 4D,"Cincinnati, OH",99000.0,"$5,700",2012,2024-07-01,False
+80, Mazda mazda3 i Sport Hatchback 4D,"Cincinnati, OH",98000.0,"$7,800",2016,2024-07-01,False
+81, Honda civic LX Sedan 4D,"Mason, OH",80000.0,"$12,000",2015,2024-07-01,False
+82, Kia forte LXS Sedan 4D,"Covington, KY",130000.0,"$8,900",2019,2024-07-01,False
+83, Hyundai elantra Limited Sedan 4D,"Cincinnati, OH",132000.0,"$5,299",2013,2024-07-01,False
+84, Nissan sentra S Sedan 4D,"Cincinnati, OH",132000.0,"$6,000",2017,2024-07-01,False
+85, Nissan sentra SV Sedan 4D,"Cincinnati, OH",94000.0,"$5,500",2016,2024-07-01,False
+86, Hyundai accent,"Cincinnati, OH",106000.0,"$5,250",2014,2024-07-01,False
+87, Hyundai elantra SE Sedan 4D,"Springfield, OH",92000.0,"$5,500",2016,2024-07-01,False
+88, Nissan sentra SV Sedan 4D,"Shelbyville, KY",72000.0,"$6,900",2013,2024-07-01,False
+89, Honda civic LX Sedan 4D,"Fairfield, OH",53000.0,"$9,500",2015,2024-07-01,False
+90, Hyundai elantra Limited Sedan 4D,"Cincinnati, OH",123000.0,"$4,290",2013,2024-07-01,False
+91, Toyota camry SE Sedan 4D,"Cincinnati, OH",117000.0,"$8,950",2015,2024-07-01,False
+92, Hyundai elantra SEL Sedan 4D,"Cincinnati, OH",53000.0,"$18,000",2021,2024-07-01,False
+93, Hyundai elantra Limited Sedan 4D,"Cincinnati, OH",153000.0,"$4,995",2013,2024-07-01,False
+94, Hyundai sonata,"Lexington, KY",93000.0,"$6,995",2014,2024-07-01,True
+95, Toyota camry SE Sedan 4D,"Cincinnati, OH",122000.0,"$2,000",2016,2024-07-01,False
+96, Nissan versa SL Sedan 4D,"Walton, KY",89000.0,"$6,200",2015,2024-07-01,False
+97, Kia optima LX Sedan 4D,"Dayton, OH",75000.0,"$7,400",2017,2024-07-01,False
+98, Hyundai elantra GLS Sedan 4D,"Covington, KY",171000.0,"$3,500",2013,2024-07-01,False
+99, Kia optima SX Sedan 4D,"Cincinnati, OH",81000.0,"$7,000",2012,2024-07-01,False
+100, Hyundai sonata hybrid 2.4 l4 fwd,"Cincinnati, OH",107000.0,"$8,993",2013,2024-07-01,False
+101, Toyota camry SE Sedan 4D,"Shelbyville, KY",148000.0,"$7,900",2010,2024-07-01,False
+102, Kia optima FE,"Dayton, OH",109000.0,"$7,000",2019,2024-07-01,False
+103, Kia forte LX Sedan 4D,"Cincinnati, OH",101000.0,"$4,500",2016,2024-07-01,True
+104, Hyundai sonata GLS Sedan 4D,"Cincinnati, OH",133000.0,"$4,680",2011,2024-07-01,False
+105, Honda accord,"Lebanon, OH",100000.0,"$8,450",2012,2024-07-01,False
+106, Hyundai elantra,"Cincinnati, OH",136000.0,"$1,500",2016,2024-07-01,False
+107, Toyota camry XLE Sedan 4D,"Middletown, OH",72000.0,"$4,900",2004,2024-07-01,False
+108, Ford fusion SE Sedan 4D,"Covington, KY",140000.0,"$5,600",2013,2024-07-01,False
+109, Honda accord EX Coupe 2D,"Cincinnati, OH",78000.0,"$13,000",2017,2024-07-01,False
+110, Kia optima EX Sedan 4D,"Alexandria, KY",174000.0,"$3,750",2012,2024-07-01,False
+111, Kia optima EX Sedan 4D,"Cincinnati, OH",174000.0,"$7,500",2015,2024-07-01,False
+112, Hyundai elantra GLS Sedan 4D,"Cincinnati, OH",150000.0,"$2,595",2014,2024-07-01,False
+113, Kia optima SX Sedan 4D,"Cincinnati, OH",141000.0,"$5,999",2012,2024-07-01,False
+114, Nissan sentra S Sedan 4D,"West Harrison, IN",127000.0,"$5,700",2012,2024-07-01,False
+115, Nissan altima 2.5 SV Sedan 4D,"Cincinnati, OH",154000.0,"$5,850",2015,2024-07-01,True
+116, Scion ia Sedan 4D,"Hope, IN",89000.0,"$1,800",2016,2024-07-01,False
+117, Chevrolet spark 2LT Hatchback 4D,"Alexandria, KY",93000.0,"$6,500",2016,2024-07-01,False
+118, Nissan altima 2.5 SL Sedan 4D,"Cincinnati, OH",138000.0,"$4,850",2011,2024-07-01,False
+119, Ford fusion SE Sedan 4D,"Cincinnati, OH",74000.0,"$5,995",2010,2024-07-01,True
+120, Nissan sentra SL,"Cincinnati, OH",170000.0,"$3,330",2015,2024-07-01,False
+121, Ford fusion SEL Sedan 4D,"Cincinnati, OH",119000.0,"$4,995",2012,2024-07-01,False
+122, Ford fusion SE Sedan 4D,"West Chester, OH",149000.0,"$5,500",2015,2024-07-01,False
+123, Chevrolet sonic LT Sedan 4D,"Middletown, OH",88000.0,"$4,950",2015,2024-07-01,False
+124, Volkswagen jetta 2.0L Base Sedan 4D,"Cincinnati, OH",137000.0,"$1,234",2014,2024-07-01,False
+125, Jetta volkswagen sport,"Cincinnati, OH",159000.0,"$4,500",2011,2024-07-01,False
+126, Kia optima LX Sedan 4D,"Lexington, KY",155000.0,"$5,500",2014,2024-07-01,False
+127, Hyundai sonata,"Cincinnati, OH",81000.0,"$1,500",2015,2024-07-01,False
+128, Honda accord LX Sedan 4D,"Cincinnati, OH",26000.0,"$17,950",2020,2024-07-01,False
+129, Volkswagen jetta TDI SportWagen Sport Wagon 4D,"Fort Mitchell, KY",120000.0,"$5,800",2011,2024-07-01,False
+130, Nissan versa S Sedan 4D,"Fort Mitchell, KY",159000.0,"$2,700",2010,2024-07-01,False
+131, Ford focus SE Sedan 4D,"Fairfield, OH",72000.0,"$4,850",2013,2024-07-01,False
+132, Audi a8 Quattro Sedan 4D,"Covington, KY",95000.0,"$7,900",2008,2024-07-01,False
+133, Toyota prius,"Erlanger, KY",159000.0,"$5,900",2010,2024-07-01,False
+134, Mazda mazda2 Touring Hatchback 4D,"Fairfield, OH",153000.0,"$4,050",2011,2024-07-01,False
+135, Volkswagen cc Sport Plus Sedan 4D,"Dry Ridge, KY",189000.0,"$3,800",2013,2024-07-01,False
+136, Lexus ES 350 Sedan 4D,"Maineville, OH",266000.0,"$10,000",2016,2024-07-01,False
+137, Chrysler 200C Sedan 4D,"Lexington, KY",28000.0,"$14,000",2015,2024-07-01,False
+138, Acura tl Special Edition Sedan 4D,"Cincinnati, OH",145000.0,"$5,500",2013,2024-07-01,False
+139, Volkswagen jetta Wolfsburg Edition Sedan 4D,"Alexandria, KY",113000.0,"$2,600",2008,2024-07-01,False
+140, Chevrolet cruze limited 1LT Sedan 4D,"Dayton, OH",55000.0,"$6,200",2016,2024-07-01,False
+141, Volkswagen new beetle 2.5 Convertible 2D,"Cincinnati, OH",162000.0,"$4,000",2006,2024-07-01,False
+142, Nissan altima sr (down-payment),"Cincinnati, OH",300.0,"$2,000",2024,2024-07-01,False
+143, Hyundai sonata Sedan 4D,"Trenton, OH",120000.0,"$5,500",2016,2024-07-01,False
+144, Kia forte LXS Sedan 4D,"Lexington, KY",86000.0,"$9,000",2019,2024-07-01,False
+145, Nissan sentra S Sedan 4D,"Frankfort, KY",178000.0,"$6,000",2019,2024-07-01,False
+146, Honda accord,"Erlanger, KY",116000.0,"$7,000",2012,2024-07-01,False
+147, Nissan versa SV Sedan 4D,"Cincinnati, OH",100000.0,"$5,299",2016,2024-07-01,False
+148, Toyota camry,"Cincinnati, OH",110000.0,"$6,900",2009,2024-07-01,False
+149, Mazda mazda3,"Hamilton, OH",92000.0,"$7,999",2017,2024-07-01,False
+150, Hyundai sonata GLS Sedan 4D,"Cincinnati, OH",143000.0,"$4,500",2013,2024-07-01,False
+151, Mazda mazda3 i Touring Sedan 4D,"Cincinnati, OH",20000.0,"$3,300",2010,2024-07-01,False
+152, Nissan altima 2.5 SL Sedan 4D,"Cincinnati, OH",113000.0,"$6,500",2013,2024-07-01,False
+153, Nissan altima 2.5 S Sedan 4D,"Hamilton, OH",144000.0,"$4,800",2015,2024-07-01,False
+154, Nissan versa sedan,"Shelbyville, KY",96000.0,"$7,500",2017,2024-07-01,False
+155, Toyota camry L Sedan 4D,"Fairfield, OH",43000.0,"$18,995",2019,2024-07-01,False
+156, Ford fusion SE Sedan 4D,"Dayton, OH",73000.0,"$8,900",2016,2024-07-01,False
+157, Ford fusion SE Sedan 4D,"Florence, KY",102000.0,"$5,500",2013,2024-07-01,False
+158, Chevrolet cruze LS Sedan 4D,"Florence, KY",140000.0,"$6,000",2012,2024-07-01,False
+159, Ford fusion S Sedan 4D,"Lexington, KY",84000.0,"$8,000",2017,2024-07-01,False
+160, Toyota camry XSE Sedan 4D,"Monroe, OH",198000.0,"$7,500",2015,2024-07-01,False
+161, Ford fusion SE Sedan 4D,"Cincinnati, OH",120000.0,"$6,750",2017,2024-07-01,False
+162, Nissan altima 3.5 SR Sedan 4D,"Cincinnati, OH",76000.0,"$8,500",2016,2024-07-01,False
+163, Hyundai sonata GLS Sedan 4D,"Cincinnati, OH",152000.0,"$3,500",2011,2024-07-01,False
+164, Nissan maxima SR (2017.5) Sedan 4D,"Cincinnati, OH",87000.0,"$9,800",2017,2024-07-01,False
+165, Nissan rogue S Sport Utility 4D,"Cincinnati, OH",65000.0,"$9,000",2016,2024-07-01,False
+166, Honda fit LX Hatchback 4D,"Cincinnati, OH",82000.0,"$8,999",2017,2024-07-01,False
+167, Honda accord sport 2.4l l4 fwd,"Cincinnati, OH",93000.0,"$13,993",2017,2024-07-01,False
+168, Nissan altima 2.5 S Sedan 4D,"Florence, KY",133000.0,"$3,500",2011,2024-07-01,False
+169, Nissan rogue SV Sport Utility 4D,"Cincinnati, OH",55000.0,"$8,800",2015,2024-07-01,False
+170, Ford focus titanium,"Campbellsburg, KY",117000.0,"$6,500",2016,2024-07-01,False
+171, Toyota matrix S Sport Wagon 4D,"Florence, KY",147000.0,"$6,100",2009,2024-07-01,False
+172, Acura tlx 3.5 Sedan 4D,"Cincinnati, OH",97000.0,"$10,250",2015,2024-07-01,False
+173, Hyundai accent se 6a,"Hamilton, OH",47000.0,"$14,900",2021,2024-07-01,False
+174, Kia optima SX Sedan 4D,"Cincinnati, OH",147000.0,"$5,299",2012,2024-07-01,False
+175, Kia optima EX Sedan 4D,"Cincinnati, OH",174000.0,"$6,900",2015,2024-07-01,False
+176, Ford fiesta SE Hatchback 4D,"Fort Mitchell, KY",110000.0,"$5,000",2011,2024-07-01,False
+177, Honda hr-v LX Sport Utility 4D,"Cincinnati, OH",105000.0,"$11,500",2016,2024-07-01,False
+178, Honda fit Hatchback 4D,"Cincinnati, OH",87000.0,"$5,900",2012,2024-07-01,False
+179, Mazda mazda3 s Sport Sedan 4D,"Fort Thomas, KY",301000.0,"$1,500",2008,2024-07-01,False
+180, Lexus IS 250 Sport Sedan 4D,"Newport, KY",163000.0,"$4,000",2009,2024-07-01,False
+181, Chevrolet malibu,"Cincinnati, OH",118000.0,"$9,995",2016,2024-07-01,False
+182, Chevrolet equinox LT Sport Utility 4D,"Latonia, KY",17000.0,"$5,600",2012,2024-07-01,False
+183, Mazda mazda3 i Touring Value Sedan 4D,"Cincinnati, OH",155000.0,"$3,000",2009,2024-07-01,False
+184, Ford escape SE Sport Utility 4D,"Cincinnati, OH",83000.0,"$6,900",2017,2024-07-01,False
+185, Chevrolet cruze LT Sedan 4D,"Cincinnati, OH",102000.0,"$4,900",2014,2024-07-01,True
+186, Nissan rogue S Sport Utility 4D,"Lawrenceburg, IN",90000.0,"$5,500",2011,2024-07-01,False
+187, Ford fusion SEL Sedan 4D,"Dayton, OH",115000.0,"$5,995",2010,2024-07-01,False
+188, Nissan altima,"Cincinnati, OH",175000.0,"$2,000",2016,2024-07-01,False
+189," Honda civic $1,500 down","Hamilton, OH",130000.0,"$1,500",2015,2024-07-01,False
+190, Chevrolet cruze limited 2LT Sedan 4D,"Dry Ridge, KY",161000.0,"$7,500",2016,2024-07-01,False
+191, Ford fiesta S Sedan 4D,"Dayton, OH",124000.0,"$3,700",2013,2024-07-01,False
+192, Nissan versa sv (down-payment),"Cincinnati, OH",83000.0,"$1,500",2019,2024-07-01,False
+193, Kia optima EX Sedan 4D,"Cincinnati, OH",146000.0,"$4,000",2011,2024-07-01,False
+194, Volkswagen passat Komfort Sedan 4D,"Latonia, KY",77000.0,"$2,000",2009,2024-07-01,False
+195, Dodge dart SXT Sedan 4D,"West Chester, OH",138000.0,"$5,500",2013,2024-07-01,False
+196, Honda accord EX Sedan 4D,"La Grange, KY",180000.0,"$5,900",2011,2024-07-01,False
+197, Hyundai sonata,"Butler, KY",146000.0,"$3,000",2004,2024-07-01,False
+198, Kia Soul,"Cincinnati, OH",80000.0,"$7,999",2019,2024-07-01,True
+199, Infiniti q50,"Independence, KY",62000.0,"$15,992",2016,2024-07-01,False
+200, Chrysler 200 Touring Sedan 4D,"Cincinnati, OH",130000.0,"$3,300",2013,2024-07-01,False
+201, Honda civic Sport Sedan 4D,"Mason, OH",20000.0,"$18,000",2022,2024-07-01,False
+202, Chrysler 200 Limited Sedan 4D,"Cincinnati, OH",112000.0,"$5,495",2015,2024-07-01,True
+203, Jaguar s-type Sedan 4D,"Hamilton, OH",83000.0,"$8,650",2008,2024-07-01,False
+204, Nissan altima 2.5 S Coupe 2D,"Cincinnati, OH",160000.0,"$3,900",2013,2024-07-01,False
+205, Toyota highlander,"Cincinnati, OH",150000.0,"$8,000",2011,2024-07-01,False
+206, Toyota rav4 Sport SUV 4D,"Milford, OH",119000.0,"$7,900",2012,2024-07-01,False
+207, Toyota highlander Limited Sport Utility 4D,"Newport, KY",155000.0,"$14,900",2014,2024-07-01,False
+208, Honda cr-v EX-L Sport Utility 4D,"Cincinnati, OH",212000.0,"$6,995",2013,2024-07-01,False
+209, Toyota venza Wagon 4D,"Cincinnati, OH",158000.0,"$7,000",2011,2024-07-01,False
+210, BMW 5 series 535i Sedan 4D,"Cincinnati, OH",135000.0,"$7,999",2012,2024-07-01,False
+211, Mazda mazda5 Sport Minivan 4D,"Shelbyville, KY",57000.0,"$7,500",2010,2024-07-01,False
+212, Kia forte S Sedan 4D,"Hamilton, OH",113000.0,$500,2017,2024-07-01,False
+213, Honda cr-z EX Coupe 2D,"Springfield, OH",144000.0,"$8,450",2012,2024-07-01,False
+214, Chevrolet sonic,"Cincinnati, OH",97000.0,"$3,000",2015,2024-07-01,False
+215, Nissan altima 2.5 S Sedan 4D,"Fort Mitchell, KY",166000.0,"$3,300",2010,2024-07-01,False
+216, Ford focus SE Sedan 4D,"Cincinnati, OH",123000.0,"$2,995",2012,2024-07-01,False
+217, Hyundai genesis 4.6 Sedan 4D,"Cincinnati, OH",160000.0,"$4,950",2011,2024-07-01,False
+218, Nissan sentra,"Louisville, KY",175000.0,"$2,000",2017,2024-07-01,False
+219, Jeep grand cherokee,"Cincinnati, OH",128000.0,"$3,000",2016,2024-07-01,False
+220, Volkswagen cc Sport Sedan 4D,"Cincinnati, OH",131000.0,"$4,500",2009,2024-07-01,False
+221, Hyundai elantra SE Sedan 4D,"Cincinnati, OH",80000.0,"$7,000",2015,2024-07-01,False
+222, Hyundai elantra SEL Sedan 4D,"Cincinnati, OH",88000.0,"$9,900",2019,2024-07-01,False
+223, Honda civic LX Sedan 4D,"Independence, KY",110000.0,"$8,000",2012,2024-07-01,False
+224, Honda civic LX Sedan 4D,"Morrow, OH",109000.0,"$6,400",2012,2024-07-01,False
+225, Toyota corolla,"West Chester, OH",89000.0,"$10,495",2016,2024-07-01,False
+226, Kia optima LX Sedan 4D,"Miamisburg, OH",85000.0,"$5,600",2014,2024-07-01,False
+227, Hyundai sonata SE Sedan 4D,"Cincinnati, OH",90000.0,"$7,500",2016,2024-07-01,False
+228, Volkswagen jetta 1.4T R-Line Sedan 4D,"Florence, KY",38000.0,"$16,799",2020,2024-07-01,False
+229, Nissan sentra SR Sedan 4D,"Florence, KY",98000.0,"$4,600",2016,2024-07-01,False
+230, Ford focus SE,"Nicholasville, KY",55000.0,"$6,999",2017,2024-07-01,False
+231, Honda accord LX Sedan 4D,"Simpsonville, KY",103000.0,"$11,950",2015,2024-07-01,False
+232, Nissan altima 3.5 SL Sedan 4D,"Maysville, KY",91000.0,"$7,500",2013,2024-07-01,False
+233, Toyota camry LE Sedan 4D,"Florence, KY",98000.0,"$8,399",2003,2024-07-01,False
+234, Kia optima SX Sedan 4D,"Cincinnati, OH",119000.0,"$9,000",2011,2024-07-01,False
+235, Kia optima EX Hybrid Sedan 4D,"Okeana, OH",124000.0,"$8,000",2013,2024-07-01,False
+236, Honda civic LX Sedan 4D,"Fairfield, OH",153000.0,"$5,000",2011,2024-07-01,False
+237, Honda insight ex 1.3 l4 fwd,"Cincinnati, OH",83000.0,"$8,993",2010,2024-07-01,False
+238, Audi a4 2.0T Premium Sedan 4D,"Cleves, OH",110000.0,"$6,500",2010,2024-07-01,False
+239, Ford fusion SE Sedan 4D,"Ripley, OH",106000.0,"$6,000",2013,2024-07-01,False
+240, Ford fiesta SE Sedan 4D,"Dayton, OH",89000.0,"$4,250",2014,2024-07-01,False
+241, Volkswagen new beetle S Convertible 2D,"Cincinnati, OH",128000.0,"$2,600",2008,2024-07-01,False
+242, Chevrolet cruze LS Hatchback 4D,"Cincinnati, OH",109000.0,"$6,400",2019,2024-07-01,False
+243, Ford focus SE Sedan 4D,"Cincinnati, OH",161000.0,"$5,500",2016,2024-07-01,False
+244, Ford fusion SE Hybrid Sedan 4D,"Cincinnati, OH",100000.0,"$8,000",2017,2024-07-01,False
+245, Toyota camry LE Sedan 4D,"Cincinnati, OH",235000.0,"$3,500",2010,2024-07-01,False
+246, Ford fusion SE Sedan 4D,"Cincinnati, OH",96000.0,"$10,500",2017,2024-07-01,False
+247, Subaru impreza 2.5i Sport Wagon 4D,"Alexandria, KY",108000.0,"$4,999",2006,2024-07-01,False
+248, Toyota camry LE,"Cincinnati, OH",194000.0,"$3,400",2007,2024-07-01,True
+249, Ford fusion SE Sedan 4D,"Florence, KY",106000.0,"$3,500",2010,2024-07-01,False
+250, Nissan altima 2.5 S Sedan 4D,"Covington, KY",152000.0,"$3,600",2010,2024-07-01,False
+251, Toyota camry XLE Sedan 4D,"Cincinnati, OH",192000.0,"$3,900",2007,2024-07-01,False
+252, Chevrolet cruze LT Sedan 4D,"South Lebanon, OH",110000.0,"$4,900",2013,2024-07-01,False
+253, Subaru outback 2.5i Premium Wagon 4D,"Mason, OH",139000.0,"$5,800",2011,2024-07-01,False
+254, Nissan altima 2.5 S Coupe 2D,"Amelia, OH",152000.0,"$5,400",2009,2024-07-01,False
+255, Chevrolet cruze LS Sedan 4D,"Cincinnati, OH",106000.0,"$4,500",2018,2024-07-01,False
+256, Volkswagen tiguan 2.0,"Cincinnati, OH",136000.0,"$4,300",2009,2024-07-01,False
+257, Hyundai elantra SE Sedan 4D,"Falmouth, KY",192000.0,"$3,000",2008,2024-07-01,False
+258, Toyota prius Standard Hatchback 4D,"Fort Mitchell, KY",223000.0,"$4,300",2008,2024-07-01,False
+259, Kia optima EX Sedan 4D,"Blanchester, OH",151000.0,"$4,800",2010,2024-07-01,False
+260, Honda cr-v EX Sport Utility 4D,"Cincinnati, OH",150000.0,"$7,800",2011,2024-07-01,False
+261, Honda civic EX Hatchback 4D,"Cincinnati, OH",132000.0,"$16,000",2017,2024-07-01,False
+262, Nissan versa SL Sedan 4D,"Cincinnati, OH",160000.0,"$3,500",2013,2024-07-01,False
+263, Nissan sentra SR,"New Vienna, OH",2900.0,"$22,400",2024,2024-07-01,False
+264, Hyundai elantra Blue Sedan 4D,"Cincinnati, OH",201000.0,"$2,995",2010,2024-07-01,False
+265, Nissan versa SL Sedan 4D,"Cincinnati, OH",160000.0,"$3,500",2013,2024-07-01,False
+266, Toyota camry LE Sedan 4D,"Fort Mitchell, KY",190000.0,"$2,500",2009,2024-07-01,False
+267, Ford focus SES Coupe 2D,"Cincinnati, OH",100000.0,"$4,300",2010,2024-07-01,False
+268, Ford fusion S Sedan 4D,"Cincinnati, OH",118000.0,"$3,999",2010,2024-07-01,False
+269, Hyundai tiburon GT Coupe 2D,"Latonia, KY",185000.0,"$1,400",2003,2024-07-01,False
+270, BMW 3 series 323i Convertible 2D,"Fort Thomas, KY",169000.0,"$5,000",1999,2024-07-01,False
+271, Kia amanti Sedan 4D,"Cincinnati, OH",87000.0,"$4,995",2006,2024-07-01,True
+272, Nissan versa S Hatchback 4D,"Cincinnati, OH",190000.0,"$2,500",2012,2024-07-01,False
+273, Hyundai sonata Limited Sedan 4D,"Dayton, OH",150000.0,"$2,995",2009,2024-07-01,True
+274, Pontiac g6 Sedan 4D,"Independence, KY",130000.0,"$4,350",2009,2024-07-01,False
+275, Saturn s-series SL1 Sedan 4D,"Latonia, KY",138000.0,$990,1998,2024-07-01,False
+276, Pontiac firebird Formula Coupe 2D,"Latonia, KY",584.0,"$15,000",1979,2024-07-01,False
+277, Honda city CZ-i,"Cincinnati, OH",130000.0,"$10,000",1992,2024-07-01,False
+278, Saturn aura xe,"Cincinnati, OH",169000.0,"$3,795",2007,2024-07-01,False
+279, Dodge journey SXT,"Cincinnati, OH",85000.0,"$1,000",2018,2024-07-01,False
+280, Nissan maxima SE Sedan 4D,"Cincinnati, OH",196000.0,"$2,300",2008,2024-07-01,False
+281, Buick regal LS Sedan 4D,"Covington, KY",170000.0,$950,2000,2024-07-01,False
+282, Chevrolet cruze LT Sedan 4D,"Fort Mitchell, KY",130000.0,"$1,000",2013,2024-07-01,False
+283, Bentley flying spur v12 engine Willing to part out,"Cincinnati, OH",65000.0,"$10,000",2006,2024-07-01,False
+284, Dodge caliber SRT4 Sport Wagon 4D,"Cincinnati, OH",117000.0,"$6,885",2008,2024-07-01,False
+285, Nissan pathfinder SE Sport Utility 4D,"Latonia, KY",123000.0,$495,1998,2024-07-01,False
+286, Ford fusion,"Cincinnati, OH",222000.0,"$1,400",2014,2024-07-01,False
+287, Pontiac firebird,"Covington, KY",68000.0,"$16,500",1968,2024-07-01,False
+288, Honda accord EX Coupe 2D,"Fort Mitchell, KY",182000.0,"$2,800",2000,2024-07-01,False
+289, Pontiac grand am SE Sedan 4D,"Covington, KY",123000.0,"$1,000",2005,2024-07-01,False
+290, Kia optima LX Sedan 4D,"Bethel, OH",160000.0,"$4,000",2007,2024-07-01,False
+291, Chevrolet cobalt SS Sedan 4D,"Aberdeen, OH",170000.0,"$1,200",2007,2024-07-01,False
+292, Ford mustang Deluxe Convertible 2D,"Cincinnati, OH",200000.0,"$1,500",2007,2024-07-01,False
+293, Alfa Romeo spider,"Melbourne, KY",88000.0,"$1,500",1986,2024-07-01,False
+294, Chevrolet cobalt Coupe 2D,"Bellevue, KY",151000.0,"$1,500",2005,2024-07-01,False
+295, Ram 1500 crew cab Laramie Pickup 4D 5 1/2 ft,"Covington, KY",122000.0,"$2,500",2012,2024-07-01,False
+296, Kia optima EX Sedan 4D,"Cincinnati, OH",212000.0,"$3,999",2012,2024-07-01,False
+297, Kia optima EX Sedan 4D,"Lawrenceburg, IN",185000.0,"$3,000",2010,2024-07-01,False
+298, Infiniti g35,"Enon, OH",123000.0,"$6,700",2006,2024-07-01,False
+299, Chevrolet impala LS Sedan 4D,"Latonia, KY",170000.0,"$1,300",2003,2024-07-01,False
+300, Mercedes-Benz r-class R 350 Sport Wagon 4D,"Cincinnati, OH",178000.0,"$2,500",2007,2024-07-01,False
+301, BMW 3 series 328xi Sedan 4D,"North Vernon, IN",132000.0,$1,2007,2024-07-01,False
+302, Oldsmobile aurora ￼,"Latonia, KY",162000.0,$500,2000,2024-07-01,False
+303, Hyundai santa fe sport Sport Utility 4D,"Covington, KY",100000.0,$850,2003,2024-07-01,False
+304, Audi a3 2.0T Wagon 4D,"Fort Thomas, KY",203000.0,"$2,400",2006,2024-07-01,False
+305, Nissan altima 2.5 Sedan 4D,"Lexington, KY",160000.0,"$3,495",2010,2024-07-01,False
+306, Toyota supra,"Latonia, KY",157000.0,"$1,500",1989,2024-07-01,False
+307, Hyundai sonata SE Sedan 4D,"Cincinnati, OH",195000.0,"$2,200",2008,2024-07-01,False
+308, Chevrolet venture passenger Extended Minivan 4D,"North Vernon, IN",169000.0,$800,2001,2024-07-01,False
+309, BMW m3 Convertible 2D,"Cincinnati, OH",139000.0,"$23,500",1998,2024-07-01,False
+310, Bailey sprint car,"Cincinnati, OH",,"$8,000",2006,2024-07-01,False
+311, Ford escape,"Covington, KY",14000.0,"$1,700",2003,2024-07-01,False
+312, Chrysler pt cruiser Touring Sport Wagon 4D,"Latonia, KY",85000.0,"$1,750",2003,2024-07-01,False
+313, Chevrolet cruze 1LT Sedan 4D,"Brooksville, KY",174000.0,$800,2014,2024-07-01,False
+314, Porsche,"Independence, KY",40000.0,"$6,500",1975,2024-07-01,False
+315, Chevrolet equinox LS Sport Utility 4D,"Cincinnati, OH",89000.0,"$1,000",2015,2024-07-01,False
+316, Nissan murano SL Sport Utility 4D,"Cincinnati, OH",191000.0,"$2,800",2007,2024-07-01,False
+317, Nissan sentra,"Brooksville, KY",137000.0,$700,2011,2024-07-01,False
+318, Honda civic LX Sedan 4D,"Newport, KY",200000.0,$800,1998,2024-07-01,False
+319, Ford escape XLT Sport Utility 4D,"Newport, KY",165000.0,"$1,500",2002,2024-07-01,False
+320, Acura,"Newport, KY",193000.0,$500,2003,2024-07-01,False
+321, Chrysler sebring Touring Sedan 4D,"Latonia, KY",180000.0,$400,2006,2024-07-01,False
+322, Chevrolet equinox,"Cincinnati, OH",154000.0,"$3,150",2004,2024-07-01,False
+323, Buick lesabre,"Cincinnati, OH",1000.0,Free,1987,2024-07-01,False
+324, Mercedes-Benz e-550 parts cars parts only Parts only i repeat parts only,"Cincinnati, OH",190000.0,$400,2010,2024-07-01,False
+325, BMW 3 series 325xi Sedan 4D,"Alexandria, KY",165000.0,"$1,300",2004,2024-07-01,False
+326, Infiniti qx60 3.5 Sport Utility 4D,"Cincinnati, OH",150000.0,"$3,000",2014,2024-07-01,False
+327, Ford five hundred SEL Sedan 4D,"Newport, KY",228000.0,"$1,500",2005,2024-07-01,False
+328, Nissan maxima GLE Sedan 4D,"Cincinnati, OH",176000.0,$650,1996,2024-07-01,False
+329, Chevrolet s10 regular cab Short Bed,"Covington, KY",213000.0,"$2,000",2000,2024-07-01,False
+330, Toyota matrix XR Sport Wagon 4D,"Hamilton, OH",237000.0,"$1,300",2006,2024-07-01,False
+331, Ford focus ZX4 SE Sedan 4D,"Bellevue, KY",244000.0,"$1,260",2005,2024-07-01,False
+332, Chevrolet s-10 Pickup 2D 6 ft,"Marysville, IN",123000.0,$600,1988,2024-07-01,False
+333, Honda accord EX Sedan 4D,"Cincinnati, OH",240000.0,"$2,000",1995,2024-07-01,False
+334, Kia sportage LX Sport Utility 4D,"Latonia, KY",168000.0,"$2,700",2007,2024-07-01,False
+335, Mercury sable Premier Sedan 4D,"Camden, OH",99000.0,"$7,000",2008,2024-07-01,False
+336, Ford taurus SE Sedan 4D,"Dayton, OH",77000.0,"$4,600",2000,2024-07-01,False
+337, Chevrolet malibu,"Latonia, KY",192000.0,"$1,000",2010,2024-07-01,False
+338, Dodge dart Aero Sedan 4D,"Brooksville, KY",132000.0,"$1,000",2013,2024-07-01,False
+339, GMC sierra (classic) 2500 crew cab Suburban,"Silver Grove, KY",169000.0,"$4,500",1986,2024-07-01,False
+340, Chevrolet s10 regular cab Short Bed,"Covington, KY",123000.0,"$11,000",2000,2024-07-01,False
+341, Ford f150 (heritage) regular cab F-100 Sport Custom,"La Grange, KY",80000.0,"$4,500",1970,2024-07-01,False
+342, Nissan altima 2.5 Sedan 4D,"Hamilton, OH",226000.0,"$1,700",2010,2024-07-01,False
+343, Ford ranger super cab XLT Pickup 2D 6 ft,"Covington, KY",195000.0,$500,2006,2024-07-01,False
+344, Honda pilot EX Sport Utility 4D,"Newport, KY",280000.0,"$1,950",2006,2024-07-01,False
+345, Jeep grand cherokee,"Newport, KY",213000.0,"$1,600",2006,2024-07-01,False
+346, Chevrolet traverse LS Sport Utility 4D,"Alexandria, KY",140000.0,"$1,300",2010,2024-07-01,False
+347, Mitsubishi lancer O-Z Rally Edition Sedan 4D,"Cincinnati, OH",229000.0,"$2,400",2003,2024-07-01,False
+348, Ford explorer Eddie Bauer Sport Utility 4D,"Covington, KY",246000.0,"$1,400",2000,2024-07-01,False
+349, Ford focus SE Wagon 4D,"Cincinnati, OH",189000.0,"$3,000",2007,2024-07-01,False
+350, Chevrolet s10 extended cab 355 v8-Restomod-Cash/Trade,"Cincinnati, OH",1400.0,$155,1993,2024-07-01,False
+351, Ford explorer,"Latonia, KY",150000.0,"$1,000",2006,2024-07-01,False
+352, Ford explorer Sport Utility 4D,"Covington, KY",177000.0,"$1,500",1997,2024-07-01,False
+353, Ford escape,"Covington, KY",150000.0,"$1,400",2002,2024-07-01,False
+354, Chevrolet tahoe Sport Utility 4D,"Alexandria, KY",325000.0,"$2,500",2001,2024-07-01,False
+355, Chevrolet silverado 1500 extended cab Long Bed,"Cincinnati, OH",192000.0,"$3,000",2000,2024-07-01,False
+356, Ford mustang GT Convertible 2D,"Cincinnati, OH",148000.0,"$2,500",1995,2024-07-01,False
+357, Chevrolet impala LS Sedan 4D,"Cincinnati, OH",188000.0,"$1,000",2011,2024-07-01,False
+358, Chevrolet silverado 1500 regular cab LS Pickup 2D 6 1/2 ft,"Fort Thomas, KY",176000.0,"$1,900",2004,2024-07-01,False
+359, Chevrolet impala,"Cincinnati, OH",170000.0,"$1,000",2002,2024-07-01,False
+360, Cadillac STS-V Sedan 4D,"Cincinnati, OH",175000.0,"$2,500",2009,2024-07-01,False
+361, Chevrolet avalanche 1500 LT Sport Utility Pickup 4D 5 1/4 ft,"Cincinnati, OH",210000.0,"$3,300",2005,2024-07-01,False
+362, Chevrolet hhr LS Sport Wagon 4D,"Cincinnati, OH",191000.0,"$1,200",2007,2024-07-01,False
+363, Honda accord LX Sedan 4D,"Covington, KY",104000.0,"$2,500",1996,2024-07-01,False
+364, Oldsmobile cutlass,"Cincinnati, OH",123000.0,"$11,000",1964,2024-07-01,False
+365, Nissan altima 2.5 S Sedan 4D,"Alexandria, KY",1200.0,"$2,000",2008,2024-07-01,False
+366, Volkswagen passat 2.5L SE Sedan 4D,"Cincinnati, OH",43000.0,"$6,800",2013,2024-07-01,False
+367, Nissan altima 2.5 S Sedan 4D,"Cincinnati, OH",50000.0,"$8,878",2018,2024-07-01,False
+368, Chevrolet malibu LS Sedan 4D,"Cincinnati, OH",127000.0,"$7,500",2016,2024-07-01,False
+369, Chrysler 200S Sedan 4D,"Cincinnati, OH",58000.0,"$11,999",2016,2024-07-01,False
+370, Ford taurus sel,"Cincinnati, OH",127000.0,"$7,100",2015,2024-07-01,False
+371, Hyundai accent se 6a,"Hamilton, OH",47000.0,"$14,900",2021,2024-07-01,False
+372, Infiniti q50 3.7 Premium Sedan 4D,"Cincinnati, OH",152000.0,"$8,700",2015,2024-07-01,False
+373, Kia forte EX Sedan 4D,"Dayton, OH",48000.0,"$7,000",2010,2024-07-01,False
+374, Acura mdx SH-AWD Sport Utility 4D,"Cincinnati, OH",72000.0,"$12,500",2015,2024-07-01,False
+375, Ford taurus sel awd 3.5l v6,"Cincinnati, OH",99000.0,"$11,993",2015,2024-07-01,False
+376, Audi q3 Premium Plus Sport Utility 4D,"Cincinnati, OH",136000.0,"$9,200",2018,2024-07-01,False
+377, Honda civic,"Cincinnati, OH",108000.0,"$9,995",2015,2024-07-01,False
+378, Nissan altima 2.5 SV Sedan 4D,"Dayton, OH",150000.0,"$5,000",2015,2024-07-01,False
+379, Nissan rogue S Sport Utility 4D,"Dayton, OH",103000.0,"$6,750",2016,2024-07-01,False
+380, Chevrolet malibu LT Sedan 4D,"Monroe, OH",59000.0,"$10,500",2017,2024-07-01,False
+381, Chevrolet impala LT Sedan 4D,"Cincinnati, OH",68000.0,"$8,800",2018,2024-07-01,False
+382, Kia N/A,"Cincinnati, OH",60000.0,"$6,500",2021,2024-07-01,False
+383, Hyundai elantra GLS Sedan 4D,"Cincinnati, OH",104000.0,"$2,500",2004,2024-07-01,False
+384, Mazda 3 s hatchback,"Florence, KY",165000.0,"$3,900",2005,2024-07-01,False
+385, Kia optima LX Sedan 4D,"Hamilton, OH",107000.0,"$8,500",2013,2024-07-01,False
+386, Honda accord EX Sedan 4D,"Cincinnati, OH",160000.0,"$5,500",2010,2024-07-01,False
+387, Ford taurus SE Sedan 4D,"Cincinnati, OH",137000.0,"$4,500",2013,2024-07-01,False
+388, Honda insight EX Sedan 4D,"Cincinnati, OH",88000.0,"$2,600",2019,2024-07-01,False
+389, Honda accord EX Sedan 4D,"Cincinnati, OH",134000.0,"$4,850",2006,2024-07-01,False
+390, Chevrolet malibu LS Sedan 4D,"Cincinnati, OH",185000.0,"$5,800",2016,2024-07-01,False
+391, Nissan altima 3.5 SE Sedan 4D,"Loveland, OH",126000.0,"$4,400",2009,2024-07-01,False
+392, Chevrolet equinox,"Cincinnati, OH",92000.0,"$6,000",2018,2024-07-01,False
+393, Hyundai genesis coupe 2.0T Coupe 2D,"Scottsburg, IN",120000.0,"$7,500",2011,2024-07-01,False
+395, Audi a5 3.2 Quattro Coupe 2D,"Fort Mitchell, KY",107000.0,"$5,250",2009,2024-07-01,False
+396, Kia soul + Wagon 4D,"Amelia, OH",246000.0,"$1,600",2012,2024-07-01,False
+397, Nissan maxima S Sedan 4D,"Erlanger, KY",250000.0,"$3,000",2014,2024-07-01,False
+398, Mazda mx-5 miata Convertible 2D,"Cincinnati, OH",150000.0,"$4,000",1995,2024-07-01,False
+399, Ford focus S Sedan 4D,"Latonia, KY",172000.0,"$2,000",2014,2024-07-01,False
+400, Subaru svx Sport Coupe 2D,"Latonia, KY",105000.0,$800,1992,2024-07-01,False
+401, Honda civic DX Coupe 2D,"Crestwood, KY",93000.0,"$4,000",2002,2024-07-01,False
+402, Toyota c-hr LE Sport Utility 4D,"Cincinnati, OH",82000.0,$500,2021,2024-07-01,False
+403, Volkswagen eos lux,"Dayton, OH",117000.0,"$2,295",2007,2024-07-01,False
+404, Ford fiesta SE Sedan 4D,"Batavia, OH",270000.0,"$1,234",2011,2024-07-01,False
+405, MINI Cooper S Hatchback 2D,"Cincinnati, OH",108000.0,"$7,995",2013,2024-07-01,True
+406, Hyundai azera GLS Sedan 4D,"Prospect, KY",121000.0,"$3,000",2009,2024-07-01,False
+407, Mercedes-Benz c-class C 300 4MATIC Luxury Sedan 4D,"Cincinnati, OH",142000.0,"$6,400",2012,2024-07-01,False
+408, Kia soul + Wagon 4D,"Cincinnati, OH",156000.0,"$5,400",2014,2024-07-01,False
+409, Nissan maxima,"Cincinnati, OH",90000.0,"$16,493",2019,2024-07-01,False
+410, Ford f150 regular cab Long Bed,"Cincinnati, OH",177000.0,"$5,500",1995,2024-07-01,False
+411, BMW 328i convertible,"Springfield, OH",81000.0,"$7,500",2008,2024-07-01,False
+412, Chevrolet cruze LT Sedan 4D,"Walton, KY",173000.0,"$4,500",2011,2024-07-01,False
+413, Audi q7 3.0T Premium Plus Sport Utility 4D,"Covington, KY",117000.0,"$2,500",2015,2024-07-01,False
+414, Nissan altima,"Cincinnati, OH",,"$4,995",2008,2024-07-01,False
+415, Acura tl SH-AWD Sedan 4D,"Cincinnati, OH",143000.0,"$6,800",2013,2024-07-01,False
+416, Ford explorer,"Lexington, KY",165000.0,"$9,800",2016,2024-07-01,False
+417, BMW x3 xDrive28i Sport Utility 4D,"Cincinnati, OH",108000.0,"$11,995",2016,2024-07-01,False
+418, Ford focus SE Sedan 4D,"Amelia, OH",150000.0,"$3,300",2015,2024-07-01,False
+419, Honda civic LX Sedan 4D,"Cincinnati, OH",190000.0,"$3,650",2005,2024-07-01,False
+420, Ford fusion SE Sedan 4D,"Waverly, OH",122000.0,"$4,750",2010,2024-07-01,False
+421, Honda accord DX Sedan 4D,"Walton, KY",138000.0,"$1,600",1983,2024-07-01,False
