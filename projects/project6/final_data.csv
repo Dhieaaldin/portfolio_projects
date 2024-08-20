@@ -1,0 +1,422 @@
+,Unnamed: 0,Model,Location,Miles,Prices,Year,Dealership,Manufacturer,Model_name,Mileage_Category
+0,0,Honda civic LX Sedan 4D,"Newport, KY",82000.0,13900,2016,False,Honda,civic LX Sedan 4D,50k-100k
+1,1,Volkswagen jetta 1.8T SEL Sedan 4D,"Cincinnati, OH",67000.0,4600,2015,True,Volkswagen,jetta 1.8T SEL Sedan 4D,50k-100k
+2,2,Toyota corolla LE Sedan 4D,"Fort Mitchell, KY",87000.0,13000,2020,False,Toyota,corolla LE Sedan 4D,50k-100k
+3,3,Hyundai sonata SE Sedan 4D,"Dayton, OH",110000.0,7499,2016,False,Hyundai,sonata SE Sedan 4D,100k-150k
+4,4,Hyundai elantra SE Sedan 4D,"Louisville, KY",114000.0,6500,2017,True,Hyundai,elantra SE Sedan 4D,100k-150k
+5,5,Hyundai accent SE Sedan 4D,"Cincinnati, OH",100000.0,3975,2017,False,Hyundai,accent SE Sedan 4D,50k-100k
+6,6,Hyundai elantra SE Sedan 4D,"Dayton, OH",79000.0,8460,2019,False,Hyundai,elantra SE Sedan 4D,50k-100k
+7,7,Hyundai elantra SE Sedan 4D,"West Chester, OH",13000.0,5999,2016,False,Hyundai,elantra SE Sedan 4D,Under 50k
+8,8,Hyundai elantra Limited Sedan 4D,"Cincinnati, OH",142000.0,7900,2020,False,Hyundai,elantra Limited Sedan 4D,100k-150k
+9,9,Hyundai sonata SE Sedan 4D,"Cincinnati, OH",123000.0,7500,2016,False,Hyundai,sonata SE Sedan 4D,100k-150k
+10,10,Nissan altima 2.5 SL Sedan 4D,"Hebron, KY",71000.0,8800,2015,False,Nissan,altima 2.5 SL Sedan 4D,50k-100k
+11,11,Hyundai elantra 2017,"Fort Thomas, KY",60000.0,400,2017,False,Hyundai,elantra 2017,50k-100k
+12,12,Mazda mazda6 i Sport Sedan 4D,"Fort Mitchell, KY",118000.0,5900,2013,False,Mazda,mazda6 i Sport Sedan 4D,100k-150k
+13,13,Volkswagen passat 1.8T S Sedan 4D,"Columbus, OH",137000.0,5500,2016,True,Volkswagen,passat 1.8T S Sedan 4D,100k-150k
+14,14,Volkswagen jetta 1.8T Sport Sedan 4D,"Fort Mitchell, KY",138000.0,4500,2015,False,Volkswagen,jetta 1.8T Sport Sedan 4D,100k-150k
+15,15,Toyota camry LE Sedan 4D,"Covington, KY",131000.0,5800,2007,False,Toyota,camry LE Sedan 4D,100k-150k
+16,16,Hyundai sonata 2.4l i4 fwd,"Cincinnati, OH",137000.0,7995,2016,False,Hyundai,sonata 2.4l i4 fwd,100k-150k
+17,17,Honda civic EX Sedan 4D,"Cincinnati, OH",92000.0,10800,2015,False,Honda,civic EX Sedan 4D,50k-100k
+18,18,Hyundai sonata Limited Sedan 4D,"Covington, KY",106000.0,6500,2016,False,Hyundai,sonata Limited Sedan 4D,100k-150k
+19,19,Toyota corolla,"Cincinnati, OH",104000.0,11500,2015,False,Toyota,corolla,100k-150k
+20,20,Toyota camry,"Alexandria, KY",132000.0,10988,2012,False,Toyota,camry,100k-150k
+21,21,Honda civic DX Sedan 4D,"Cincinnati, OH",80000.0,8400,2012,False,Honda,civic DX Sedan 4D,50k-100k
+22,22,Nissan sentra S Sedan 4D,"Dayton, KY",144000.0,5000,2016,False,Nissan,sentra S Sedan 4D,100k-150k
+23,23,Kia optima EX Sedan 4D,"Alexandria, KY",170000.0,7900,2015,False,Kia,optima EX Sedan 4D,Over 150k
+24,24,Hyundai elantra Coupe 2D,"Columbus, OH",134000.0,4500,2014,False,Hyundai,elantra Coupe 2D,100k-150k
+25,25,Volkswagen passat Wolfsburg Edition Sedan 4D,"Cincinnati, OH",112000.0,3495,2013,False,Volkswagen,passat Wolfsburg Edition Sedan 4D,100k-150k
+26,26,Kia rio EX Sedan 4D,"Covington, KY",143000.0,3500,2015,False,Kia,rio EX Sedan 4D,100k-150k
+27,27,Honda civic,"Covington, KY",130000.0,6800,2012,False,Honda,civic,100k-150k
+28,28,Nissan altima 2.5 S Sedan 4D,"Cincinnati, OH",113000.0,6300,2013,False,Nissan,altima 2.5 S Sedan 4D,100k-150k
+29,29,Nissan versa SV Sedan 4D,"Cincinnati, OH",143000.0,4550,2015,False,Nissan,versa SV Sedan 4D,100k-150k
+30,30,Nissan altima 2.5 S Sedan 4D,"Mason, OH",140000.0,6199,2016,False,Nissan,altima 2.5 S Sedan 4D,100k-150k
+31,31,Hyundai sonata Limited Sedan 4D,"Florence, KY",83000.0,4800,2011,False,Hyundai,sonata Limited Sedan 4D,50k-100k
+32,32,Hyundai elantra SE Sedan 4D,"Cincinnati, OH",150000.0,3999,2010,False,Hyundai,elantra SE Sedan 4D,100k-150k
+33,33,Mazda mazda3 s Grand Touring Sedan 4D,"Cincinnati, OH",145000.0,6000,2012,False,Mazda,mazda3 s Grand Touring Sedan 4D,100k-150k
+34,34,Honda accord ex-l,"Covington, KY",155000.0,6900,2009,False,Honda,accord ex-l,Over 150k
+35,35,Honda accord ex-l v6,"Lexington, KY",45000.0,8850,2010,False,Honda,accord ex-l v6,Under 50k
+36,36,Nissan leaf S-24 Hatchback 4D,"Fort Thomas, KY",26000.0,6000,2016,False,Nissan,leaf S-24 Hatchback 4D,Under 50k
+37,37,Mitsubishi mirage g4 ES Sedan 4D,"Cincinnati, OH",113000.0,4000,2017,False,Mitsubishi,mirage g4 ES Sedan 4D,100k-150k
+38,38,Scion Hatchback Coupe 2D,"Covington, KY",113000.0,7200,2014,False,Scion,Hatchback Coupe 2D,100k-150k
+39,39,Honda accord se,"Covington, KY",159000.0,5950,2011,False,Honda,accord se,Over 150k
+40,40,Nissan altima 2.5 S Sedan 4D,"Cincinnati, OH",75000.0,16000,2020,False,Nissan,altima 2.5 S Sedan 4D,50k-100k
+41,41,Toyota camry   !!!down payment!!!,"Cincinnati, OH",131000.0,3500,2017,False,Toyota,camry   !!!down payment!!!,100k-150k
+42,42,Nissan altima 2.5 Sedan 4D,"Fort Thomas, KY",159000.0,5000,2012,False,Nissan,altima 2.5 Sedan 4D,Over 150k
+43,43,Hyundai sonata Limited Sedan 4D,"Cincinnati, OH",147000.0,4200,2011,False,Hyundai,sonata Limited Sedan 4D,100k-150k
+44,44,Honda accord EX-L Sedan 4D,"Cincinnati, OH",140000.0,5990,2011,False,Honda,accord EX-L Sedan 4D,100k-150k
+45,45,Nissan altima 2.5l l4 fwd,"Cincinnati, OH",82000.0,11993,2018,False,Nissan,altima 2.5l l4 fwd,50k-100k
+46,46,Hyundai elantra,"Cincinnati, OH",136000.0,1500,2016,False,Hyundai,elantra,100k-150k
+47,47,Toyota prius ii,"Covington, KY",182000.0,6950,2012,False,Toyota,prius ii,Over 150k
+48,48,Kia forte EX Sedan 4D,"Cincinnati, OH",142000.0,4900,2014,False,Kia,forte EX Sedan 4D,100k-150k
+49,49,Chevrolet cruze LS Sedan 4D,"Florence, KY",137000.0,4000,2013,False,Chevrolet,cruze LS Sedan 4D,100k-150k
+50,50,Hyundai elantra,"Cincinnati, OH",77000.0,1000,2017,False,Hyundai,elantra,50k-100k
+51,51,Chevrolet cruze LT Sedan 4D,"Cincinnati, OH",95000.0,7200,2017,False,Chevrolet,cruze LT Sedan 4D,50k-100k
+52,52,Honda civic,"Lebanon, OH",109000.0,6450,2007,False,Honda,civic,100k-150k
+53,53,Toyota camry SE Sedan 4D,"Florence, KY",168000.0,5500,2007,False,Toyota,camry SE Sedan 4D,Over 150k
+54,54,Honda accord EX,"Cincinnati, OH",130000.0,12875,2019,False,Honda,accord EX,100k-150k
+55,55,Honda accord Sport Sedan 4D,"Fairfield, OH",147000.0,9500,2017,False,Honda,accord Sport Sedan 4D,100k-150k
+56,56,Toyota camry SE Sedan 4D,"Latonia, KY",148000.0,6000,2009,False,Toyota,camry SE Sedan 4D,100k-150k
+57,57,Toyota camry Sedan 4D,"Mason, OH",180000.0,4100,2009,False,Toyota,camry Sedan 4D,Over 150k
+58,58,Toyota camry LE Sedan 4D,"Cincinnati, OH",160000.0,5000,2010,False,Toyota,camry LE Sedan 4D,Over 150k
+59,59,Hyundai elantra GT Hatchback 4D,"Cincinnati, OH",180000.0,3999,2014,True,Hyundai,elantra GT Hatchback 4D,Over 150k
+60,60,Volkswagen 2.0 convertable,"Cincinnati, OH",103000.0,12995,2013,False,Volkswagen,2.0 convertable,100k-150k
+61,61,Honda civic Sport,"Cincinnati, OH",10000.0,1234,2024,False,Honda,civic Sport,Under 50k
+62,62,Mazda mazda3 s Touring Sedan 4D,"Newport, KY",181000.0,3600,2007,False,Mazda,mazda3 s Touring Sedan 4D,Over 150k
+63,63,Nissan altima 3.5 SR Sedan 4D,"Cincinnati, OH",125000.0,5400,2012,False,Nissan,altima 3.5 SR Sedan 4D,100k-150k
+64,64,Kia rio EX Sedan 4D,"West Chester, OH",144000.0,3500,2015,False,Kia,rio EX Sedan 4D,100k-150k
+65,65,Toyota camry XLE Sedan 4D,"Fort Mitchell, KY",204000.0,2500,2004,False,Toyota,camry XLE Sedan 4D,Over 150k
+66,66,Nissan altima !!!down payment!!!,"Cincinnati, OH",105000.0,4000,2019,False,Nissan,altima !!!down payment!!!,100k-150k
+67,67,Toyota corolla,"Cincinnati, OH",90000.0,6800,2006,False,Toyota,corolla,50k-100k
+68,68,Hyundai sonata SE Sedan 4D,"Bellevue, KY",86000.0,1800,2015,False,Hyundai,sonata SE Sedan 4D,50k-100k
+69,69,Volkswagen new beetle SE Convertible 2D,"Cincinnati, OH",141000.0,9000,2008,False,Volkswagen,new beetle SE Convertible 2D,100k-150k
+70,70,Hyundai elantra SE Sedan 4D,"Cincinnati, OH",66000.0,7800,2015,False,Hyundai,elantra SE Sedan 4D,50k-100k
+71,71,Hyundai sonata SE Sedan 4D,"Monroe, OH",110000.0,6800,2015,False,Hyundai,sonata SE Sedan 4D,100k-150k
+72,72,Hyundai elantra SE Sedan 4D,"Cincinnati, OH",105000.0,5500,2014,False,Hyundai,elantra SE Sedan 4D,100k-150k
+73,73,Hyundai elantra GLS Sedan 4D,"Cincinnati, OH",113000.0,4999,2013,False,Hyundai,elantra GLS Sedan 4D,100k-150k
+74,74,Hyundai elantra SEL Sedan 4D,"Milford, OH",118000.0,9900,2019,False,Hyundai,elantra SEL Sedan 4D,100k-150k
+75,75,Mazda mazda6 Touring,"Cincinnati, OH",103000.0,9000,2014,False,Mazda,mazda6 Touring,100k-150k
+76,76,Hyundai elantra,"Florence, KY",58000.0,10000,2017,False,Hyundai,elantra,50k-100k
+77,77,Hyundai elantra,"Cincinnati, OH",94000.0,6000,2013,False,Hyundai,elantra,50k-100k
+78,78,Hyundai elantra SE Sedan 4D,"Cincinnati, OH",172000.0,5995,2017,True,Hyundai,elantra SE Sedan 4D,Over 150k
+79,79,Mazda mazda3 i Grand Touring Sedan 4D,"Cincinnati, OH",99000.0,5700,2012,False,Mazda,mazda3 i Grand Touring Sedan 4D,50k-100k
+80,80,Mazda mazda3 i Sport Hatchback 4D,"Cincinnati, OH",98000.0,7800,2016,False,Mazda,mazda3 i Sport Hatchback 4D,50k-100k
+81,81,Honda civic LX Sedan 4D,"Mason, OH",80000.0,12000,2015,False,Honda,civic LX Sedan 4D,50k-100k
+82,82,Kia forte LXS Sedan 4D,"Covington, KY",130000.0,8900,2019,False,Kia,forte LXS Sedan 4D,100k-150k
+83,83,Hyundai elantra Limited Sedan 4D,"Cincinnati, OH",132000.0,5299,2013,False,Hyundai,elantra Limited Sedan 4D,100k-150k
+84,84,Nissan sentra S Sedan 4D,"Cincinnati, OH",132000.0,6000,2017,False,Nissan,sentra S Sedan 4D,100k-150k
+85,85,Nissan sentra SV Sedan 4D,"Cincinnati, OH",94000.0,5500,2016,False,Nissan,sentra SV Sedan 4D,50k-100k
+86,86,Hyundai accent,"Cincinnati, OH",106000.0,5250,2014,False,Hyundai,accent,100k-150k
+87,87,Hyundai elantra SE Sedan 4D,"Springfield, OH",92000.0,5500,2016,False,Hyundai,elantra SE Sedan 4D,50k-100k
+88,88,Nissan sentra SV Sedan 4D,"Shelbyville, KY",72000.0,6900,2013,False,Nissan,sentra SV Sedan 4D,50k-100k
+89,89,Honda civic LX Sedan 4D,"Fairfield, OH",53000.0,9500,2015,False,Honda,civic LX Sedan 4D,50k-100k
+90,90,Hyundai elantra Limited Sedan 4D,"Cincinnati, OH",123000.0,4290,2013,False,Hyundai,elantra Limited Sedan 4D,100k-150k
+91,91,Toyota camry SE Sedan 4D,"Cincinnati, OH",117000.0,8950,2015,False,Toyota,camry SE Sedan 4D,100k-150k
+92,92,Hyundai elantra SEL Sedan 4D,"Cincinnati, OH",53000.0,18000,2021,False,Hyundai,elantra SEL Sedan 4D,50k-100k
+93,93,Hyundai elantra Limited Sedan 4D,"Cincinnati, OH",153000.0,4995,2013,False,Hyundai,elantra Limited Sedan 4D,Over 150k
+94,94,Hyundai sonata,"Lexington, KY",93000.0,6995,2014,True,Hyundai,sonata,50k-100k
+95,95,Toyota camry SE Sedan 4D,"Cincinnati, OH",122000.0,2000,2016,False,Toyota,camry SE Sedan 4D,100k-150k
+96,96,Nissan versa SL Sedan 4D,"Walton, KY",89000.0,6200,2015,False,Nissan,versa SL Sedan 4D,50k-100k
+97,97,Kia optima LX Sedan 4D,"Dayton, OH",75000.0,7400,2017,False,Kia,optima LX Sedan 4D,50k-100k
+98,98,Hyundai elantra GLS Sedan 4D,"Covington, KY",171000.0,3500,2013,False,Hyundai,elantra GLS Sedan 4D,Over 150k
+99,99,Kia optima SX Sedan 4D,"Cincinnati, OH",81000.0,7000,2012,False,Kia,optima SX Sedan 4D,50k-100k
+100,100,Hyundai sonata hybrid 2.4 l4 fwd,"Cincinnati, OH",107000.0,8993,2013,False,Hyundai,sonata hybrid 2.4 l4 fwd,100k-150k
+101,101,Toyota camry SE Sedan 4D,"Shelbyville, KY",148000.0,7900,2010,False,Toyota,camry SE Sedan 4D,100k-150k
+102,102,Kia optima FE,"Dayton, OH",109000.0,7000,2019,False,Kia,optima FE,100k-150k
+103,103,Kia forte LX Sedan 4D,"Cincinnati, OH",101000.0,4500,2016,True,Kia,forte LX Sedan 4D,100k-150k
+104,104,Hyundai sonata GLS Sedan 4D,"Cincinnati, OH",133000.0,4680,2011,False,Hyundai,sonata GLS Sedan 4D,100k-150k
+105,105,Honda accord,"Lebanon, OH",100000.0,8450,2012,False,Honda,accord,50k-100k
+106,106,Hyundai elantra,"Cincinnati, OH",136000.0,1500,2016,False,Hyundai,elantra,100k-150k
+107,107,Toyota camry XLE Sedan 4D,"Middletown, OH",72000.0,4900,2004,False,Toyota,camry XLE Sedan 4D,50k-100k
+108,108,Ford fusion SE Sedan 4D,"Covington, KY",140000.0,5600,2013,False,Ford,fusion SE Sedan 4D,100k-150k
+109,109,Honda accord EX Coupe 2D,"Cincinnati, OH",78000.0,13000,2017,False,Honda,accord EX Coupe 2D,50k-100k
+110,110,Kia optima EX Sedan 4D,"Alexandria, KY",174000.0,3750,2012,False,Kia,optima EX Sedan 4D,Over 150k
+111,111,Kia optima EX Sedan 4D,"Cincinnati, OH",174000.0,7500,2015,False,Kia,optima EX Sedan 4D,Over 150k
+112,112,Hyundai elantra GLS Sedan 4D,"Cincinnati, OH",150000.0,2595,2014,False,Hyundai,elantra GLS Sedan 4D,100k-150k
+113,113,Kia optima SX Sedan 4D,"Cincinnati, OH",141000.0,5999,2012,False,Kia,optima SX Sedan 4D,100k-150k
+114,114,Nissan sentra S Sedan 4D,"West Harrison, IN",127000.0,5700,2012,False,Nissan,sentra S Sedan 4D,100k-150k
+115,115,Nissan altima 2.5 SV Sedan 4D,"Cincinnati, OH",154000.0,5850,2015,True,Nissan,altima 2.5 SV Sedan 4D,Over 150k
+116,116,Scion ia Sedan 4D,"Hope, IN",89000.0,1800,2016,False,Scion,ia Sedan 4D,50k-100k
+117,117,Chevrolet spark 2LT Hatchback 4D,"Alexandria, KY",93000.0,6500,2016,False,Chevrolet,spark 2LT Hatchback 4D,50k-100k
+118,118,Nissan altima 2.5 SL Sedan 4D,"Cincinnati, OH",138000.0,4850,2011,False,Nissan,altima 2.5 SL Sedan 4D,100k-150k
+119,119,Ford fusion SE Sedan 4D,"Cincinnati, OH",74000.0,5995,2010,True,Ford,fusion SE Sedan 4D,50k-100k
+120,120,Nissan sentra SL,"Cincinnati, OH",170000.0,3330,2015,False,Nissan,sentra SL,Over 150k
+121,121,Ford fusion SEL Sedan 4D,"Cincinnati, OH",119000.0,4995,2012,False,Ford,fusion SEL Sedan 4D,100k-150k
+122,122,Ford fusion SE Sedan 4D,"West Chester, OH",149000.0,5500,2015,False,Ford,fusion SE Sedan 4D,100k-150k
+123,123,Chevrolet sonic LT Sedan 4D,"Middletown, OH",88000.0,4950,2015,False,Chevrolet,sonic LT Sedan 4D,50k-100k
+124,124,Volkswagen jetta 2.0L Base Sedan 4D,"Cincinnati, OH",137000.0,1234,2014,False,Volkswagen,jetta 2.0L Base Sedan 4D,100k-150k
+125,125,Jetta volkswagen sport,"Cincinnati, OH",159000.0,4500,2011,False,Volkswagen,volkswagen sport,Over 150k
+126,126,Kia optima LX Sedan 4D,"Lexington, KY",155000.0,5500,2014,False,Kia,optima LX Sedan 4D,Over 150k
+127,127,Hyundai sonata,"Cincinnati, OH",81000.0,1500,2015,False,Hyundai,sonata,50k-100k
+128,128,Honda accord LX Sedan 4D,"Cincinnati, OH",26000.0,17950,2020,False,Honda,accord LX Sedan 4D,Under 50k
+129,129,Volkswagen jetta TDI SportWagen Sport Wagon 4D,"Fort Mitchell, KY",120000.0,5800,2011,False,Volkswagen,jetta TDI SportWagen Sport Wagon 4D,100k-150k
+130,130,Nissan versa S Sedan 4D,"Fort Mitchell, KY",159000.0,2700,2010,False,Nissan,versa S Sedan 4D,Over 150k
+131,131,Ford focus SE Sedan 4D,"Fairfield, OH",72000.0,4850,2013,False,Ford,focus SE Sedan 4D,50k-100k
+132,132,Audi a8 Quattro Sedan 4D,"Covington, KY",95000.0,7900,2008,False,Audi,a8 Quattro Sedan 4D,50k-100k
+133,133,Toyota prius,"Erlanger, KY",159000.0,5900,2010,False,Toyota,prius,Over 150k
+134,134,Mazda mazda2 Touring Hatchback 4D,"Fairfield, OH",153000.0,4050,2011,False,Mazda,mazda2 Touring Hatchback 4D,Over 150k
+135,135,Volkswagen cc Sport Plus Sedan 4D,"Dry Ridge, KY",189000.0,3800,2013,False,Volkswagen,cc Sport Plus Sedan 4D,Over 150k
+136,136,Lexus ES 350 Sedan 4D,"Maineville, OH",266000.0,10000,2016,False,Lexus,ES 350 Sedan 4D,Over 150k
+137,137,Chrysler 200C Sedan 4D,"Lexington, KY",28000.0,14000,2015,False,Chrysler,200C Sedan 4D,Under 50k
+138,138,Acura tl Special Edition Sedan 4D,"Cincinnati, OH",145000.0,5500,2013,False,Acura,tl Special Edition Sedan 4D,100k-150k
+139,139,Volkswagen jetta Wolfsburg Edition Sedan 4D,"Alexandria, KY",113000.0,2600,2008,False,Volkswagen,jetta Wolfsburg Edition Sedan 4D,100k-150k
+140,140,Chevrolet cruze limited 1LT Sedan 4D,"Dayton, OH",55000.0,6200,2016,False,Chevrolet,cruze limited 1LT Sedan 4D,50k-100k
+141,141,Volkswagen new beetle 2.5 Convertible 2D,"Cincinnati, OH",162000.0,4000,2006,False,Volkswagen,new beetle 2.5 Convertible 2D,Over 150k
+142,142,Nissan altima sr (down-payment),"Cincinnati, OH",300.0,2000,2024,False,Nissan,altima sr (down-payment),Under 50k
+143,143,Hyundai sonata Sedan 4D,"Trenton, OH",120000.0,5500,2016,False,Hyundai,sonata Sedan 4D,100k-150k
+144,144,Kia forte LXS Sedan 4D,"Lexington, KY",86000.0,9000,2019,False,Kia,forte LXS Sedan 4D,50k-100k
+145,145,Nissan sentra S Sedan 4D,"Frankfort, KY",178000.0,6000,2019,False,Nissan,sentra S Sedan 4D,Over 150k
+146,146,Honda accord,"Erlanger, KY",116000.0,7000,2012,False,Honda,accord,100k-150k
+147,147,Nissan versa SV Sedan 4D,"Cincinnati, OH",100000.0,5299,2016,False,Nissan,versa SV Sedan 4D,50k-100k
+148,148,Toyota camry,"Cincinnati, OH",110000.0,6900,2009,False,Toyota,camry,100k-150k
+149,149,Mazda mazda3,"Hamilton, OH",92000.0,7999,2017,False,Mazda,mazda3,50k-100k
+150,150,Hyundai sonata GLS Sedan 4D,"Cincinnati, OH",143000.0,4500,2013,False,Hyundai,sonata GLS Sedan 4D,100k-150k
+151,151,Mazda mazda3 i Touring Sedan 4D,"Cincinnati, OH",20000.0,3300,2010,False,Mazda,mazda3 i Touring Sedan 4D,Under 50k
+152,152,Nissan altima 2.5 SL Sedan 4D,"Cincinnati, OH",113000.0,6500,2013,False,Nissan,altima 2.5 SL Sedan 4D,100k-150k
+153,153,Nissan altima 2.5 S Sedan 4D,"Hamilton, OH",144000.0,4800,2015,False,Nissan,altima 2.5 S Sedan 4D,100k-150k
+154,154,Nissan versa sedan,"Shelbyville, KY",96000.0,7500,2017,False,Nissan,versa sedan,50k-100k
+155,155,Toyota camry L Sedan 4D,"Fairfield, OH",43000.0,18995,2019,False,Toyota,camry L Sedan 4D,Under 50k
+156,156,Ford fusion SE Sedan 4D,"Dayton, OH",73000.0,8900,2016,False,Ford,fusion SE Sedan 4D,50k-100k
+157,157,Ford fusion SE Sedan 4D,"Florence, KY",102000.0,5500,2013,False,Ford,fusion SE Sedan 4D,100k-150k
+158,158,Chevrolet cruze LS Sedan 4D,"Florence, KY",140000.0,6000,2012,False,Chevrolet,cruze LS Sedan 4D,100k-150k
+159,159,Ford fusion S Sedan 4D,"Lexington, KY",84000.0,8000,2017,False,Ford,fusion S Sedan 4D,50k-100k
+160,160,Toyota camry XSE Sedan 4D,"Monroe, OH",198000.0,7500,2015,False,Toyota,camry XSE Sedan 4D,Over 150k
+161,161,Ford fusion SE Sedan 4D,"Cincinnati, OH",120000.0,6750,2017,False,Ford,fusion SE Sedan 4D,100k-150k
+162,162,Nissan altima 3.5 SR Sedan 4D,"Cincinnati, OH",76000.0,8500,2016,False,Nissan,altima 3.5 SR Sedan 4D,50k-100k
+163,163,Hyundai sonata GLS Sedan 4D,"Cincinnati, OH",152000.0,3500,2011,False,Hyundai,sonata GLS Sedan 4D,Over 150k
+164,164,Nissan maxima SR (2017.5) Sedan 4D,"Cincinnati, OH",87000.0,9800,2017,False,Nissan,maxima SR (2017.5) Sedan 4D,50k-100k
+165,165,Nissan rogue S Sport Utility 4D,"Cincinnati, OH",65000.0,9000,2016,False,Nissan,rogue S Sport Utility 4D,50k-100k
+166,166,Honda fit LX Hatchback 4D,"Cincinnati, OH",82000.0,8999,2017,False,Honda,fit LX Hatchback 4D,50k-100k
+167,167,Honda accord sport 2.4l l4 fwd,"Cincinnati, OH",93000.0,13993,2017,False,Honda,accord sport 2.4l l4 fwd,50k-100k
+168,168,Nissan altima 2.5 S Sedan 4D,"Florence, KY",133000.0,3500,2011,False,Nissan,altima 2.5 S Sedan 4D,100k-150k
+169,169,Nissan rogue SV Sport Utility 4D,"Cincinnati, OH",55000.0,8800,2015,False,Nissan,rogue SV Sport Utility 4D,50k-100k
+170,170,Ford focus titanium,"Campbellsburg, KY",117000.0,6500,2016,False,Ford,focus titanium,100k-150k
+171,171,Toyota matrix S Sport Wagon 4D,"Florence, KY",147000.0,6100,2009,False,Toyota,matrix S Sport Wagon 4D,100k-150k
+172,172,Acura tlx 3.5 Sedan 4D,"Cincinnati, OH",97000.0,10250,2015,False,Acura,tlx 3.5 Sedan 4D,50k-100k
+173,173,Hyundai accent se 6a,"Hamilton, OH",47000.0,14900,2021,False,Hyundai,accent se 6a,Under 50k
+174,174,Kia optima SX Sedan 4D,"Cincinnati, OH",147000.0,5299,2012,False,Kia,optima SX Sedan 4D,100k-150k
+175,175,Kia optima EX Sedan 4D,"Cincinnati, OH",174000.0,6900,2015,False,Kia,optima EX Sedan 4D,Over 150k
+176,176,Ford fiesta SE Hatchback 4D,"Fort Mitchell, KY",110000.0,5000,2011,False,Ford,fiesta SE Hatchback 4D,100k-150k
+177,177,Honda hr-v LX Sport Utility 4D,"Cincinnati, OH",105000.0,11500,2016,False,Honda,hr-v LX Sport Utility 4D,100k-150k
+178,178,Honda fit Hatchback 4D,"Cincinnati, OH",87000.0,5900,2012,False,Honda,fit Hatchback 4D,50k-100k
+179,179,Mazda mazda3 s Sport Sedan 4D,"Fort Thomas, KY",301000.0,1500,2008,False,Mazda,mazda3 s Sport Sedan 4D,Over 150k
+180,180,Lexus IS 250 Sport Sedan 4D,"Newport, KY",163000.0,4000,2009,False,Lexus,IS 250 Sport Sedan 4D,Over 150k
+181,181,Chevrolet malibu,"Cincinnati, OH",118000.0,9995,2016,False,Chevrolet,malibu,100k-150k
+182,182,Chevrolet equinox LT Sport Utility 4D,"Latonia, KY",17000.0,5600,2012,False,Chevrolet,equinox LT Sport Utility 4D,Under 50k
+183,183,Mazda mazda3 i Touring Value Sedan 4D,"Cincinnati, OH",155000.0,3000,2009,False,Mazda,mazda3 i Touring Value Sedan 4D,Over 150k
+184,184,Ford escape SE Sport Utility 4D,"Cincinnati, OH",83000.0,6900,2017,False,Ford,escape SE Sport Utility 4D,50k-100k
+185,185,Chevrolet cruze LT Sedan 4D,"Cincinnati, OH",102000.0,4900,2014,True,Chevrolet,cruze LT Sedan 4D,100k-150k
+186,186,Nissan rogue S Sport Utility 4D,"Lawrenceburg, IN",90000.0,5500,2011,False,Nissan,rogue S Sport Utility 4D,50k-100k
+187,187,Ford fusion SEL Sedan 4D,"Dayton, OH",115000.0,5995,2010,False,Ford,fusion SEL Sedan 4D,100k-150k
+188,188,Nissan altima,"Cincinnati, OH",175000.0,2000,2016,False,Nissan,altima,Over 150k
+189,189,"Honda civic $1,500 down","Hamilton, OH",130000.0,1500,2015,False,Honda,"civic $1,500 down",100k-150k
+190,190,Chevrolet cruze limited 2LT Sedan 4D,"Dry Ridge, KY",161000.0,7500,2016,False,Chevrolet,cruze limited 2LT Sedan 4D,Over 150k
+191,191,Ford fiesta S Sedan 4D,"Dayton, OH",124000.0,3700,2013,False,Ford,fiesta S Sedan 4D,100k-150k
+192,192,Nissan versa sv (down-payment),"Cincinnati, OH",83000.0,1500,2019,False,Nissan,versa sv (down-payment),50k-100k
+193,193,Kia optima EX Sedan 4D,"Cincinnati, OH",146000.0,4000,2011,False,Kia,optima EX Sedan 4D,100k-150k
+194,194,Volkswagen passat Komfort Sedan 4D,"Latonia, KY",77000.0,2000,2009,False,Volkswagen,passat Komfort Sedan 4D,50k-100k
+195,195,Dodge dart SXT Sedan 4D,"West Chester, OH",138000.0,5500,2013,False,Dodge,dart SXT Sedan 4D,100k-150k
+196,196,Honda accord EX Sedan 4D,"La Grange, KY",180000.0,5900,2011,False,Honda,accord EX Sedan 4D,Over 150k
+197,197,Hyundai sonata,"Butler, KY",146000.0,3000,2004,False,Hyundai,sonata,100k-150k
+198,198,Kia Soul,"Cincinnati, OH",80000.0,7999,2019,True,Kia,Soul,50k-100k
+199,199,Infiniti q50,"Independence, KY",62000.0,15992,2016,False,Infiniti,q50,50k-100k
+200,200,Chrysler 200 Touring Sedan 4D,"Cincinnati, OH",130000.0,3300,2013,False,Chrysler,200 Touring Sedan 4D,100k-150k
+201,201,Honda civic Sport Sedan 4D,"Mason, OH",20000.0,18000,2022,False,Honda,civic Sport Sedan 4D,Under 50k
+202,202,Chrysler 200 Limited Sedan 4D,"Cincinnati, OH",112000.0,5495,2015,True,Chrysler,200 Limited Sedan 4D,100k-150k
+203,203,Jaguar s-type Sedan 4D,"Hamilton, OH",83000.0,8650,2008,False,Jaguar,s-type Sedan 4D,50k-100k
+204,204,Nissan altima 2.5 S Coupe 2D,"Cincinnati, OH",160000.0,3900,2013,False,Nissan,altima 2.5 S Coupe 2D,Over 150k
+205,205,Toyota highlander,"Cincinnati, OH",150000.0,8000,2011,False,Toyota,highlander,100k-150k
+206,206,Toyota rav4 Sport SUV 4D,"Milford, OH",119000.0,7900,2012,False,Toyota,rav4 Sport SUV 4D,100k-150k
+207,207,Toyota highlander Limited Sport Utility 4D,"Newport, KY",155000.0,14900,2014,False,Toyota,highlander Limited Sport Utility 4D,Over 150k
+208,208,Honda cr-v EX-L Sport Utility 4D,"Cincinnati, OH",212000.0,6995,2013,False,Honda,cr-v EX-L Sport Utility 4D,Over 150k
+209,209,Toyota venza Wagon 4D,"Cincinnati, OH",158000.0,7000,2011,False,Toyota,venza Wagon 4D,Over 150k
+210,210,BMW 5 series 535i Sedan 4D,"Cincinnati, OH",135000.0,7999,2012,False,BMW,5 series 535i Sedan 4D,100k-150k
+211,211,Mazda mazda5 Sport Minivan 4D,"Shelbyville, KY",57000.0,7500,2010,False,Mazda,mazda5 Sport Minivan 4D,50k-100k
+212,212,Kia forte S Sedan 4D,"Hamilton, OH",113000.0,500,2017,False,Kia,forte S Sedan 4D,100k-150k
+213,213,Honda cr-z EX Coupe 2D,"Springfield, OH",144000.0,8450,2012,False,Honda,cr-z EX Coupe 2D,100k-150k
+214,214,Chevrolet sonic,"Cincinnati, OH",97000.0,3000,2015,False,Chevrolet,sonic,50k-100k
+215,215,Nissan altima 2.5 S Sedan 4D,"Fort Mitchell, KY",166000.0,3300,2010,False,Nissan,altima 2.5 S Sedan 4D,Over 150k
+216,216,Ford focus SE Sedan 4D,"Cincinnati, OH",123000.0,2995,2012,False,Ford,focus SE Sedan 4D,100k-150k
+217,217,Hyundai genesis 4.6 Sedan 4D,"Cincinnati, OH",160000.0,4950,2011,False,Hyundai,genesis 4.6 Sedan 4D,Over 150k
+218,218,Nissan sentra,"Louisville, KY",175000.0,2000,2017,False,Nissan,sentra,Over 150k
+219,219,Jeep grand cherokee,"Cincinnati, OH",128000.0,3000,2016,False,Jeep,grand cherokee,100k-150k
+220,220,Volkswagen cc Sport Sedan 4D,"Cincinnati, OH",131000.0,4500,2009,False,Volkswagen,cc Sport Sedan 4D,100k-150k
+221,221,Hyundai elantra SE Sedan 4D,"Cincinnati, OH",80000.0,7000,2015,False,Hyundai,elantra SE Sedan 4D,50k-100k
+222,222,Hyundai elantra SEL Sedan 4D,"Cincinnati, OH",88000.0,9900,2019,False,Hyundai,elantra SEL Sedan 4D,50k-100k
+223,223,Honda civic LX Sedan 4D,"Independence, KY",110000.0,8000,2012,False,Honda,civic LX Sedan 4D,100k-150k
+224,224,Honda civic LX Sedan 4D,"Morrow, OH",109000.0,6400,2012,False,Honda,civic LX Sedan 4D,100k-150k
+225,225,Toyota corolla,"West Chester, OH",89000.0,10495,2016,False,Toyota,corolla,50k-100k
+226,226,Kia optima LX Sedan 4D,"Miamisburg, OH",85000.0,5600,2014,False,Kia,optima LX Sedan 4D,50k-100k
+227,227,Hyundai sonata SE Sedan 4D,"Cincinnati, OH",90000.0,7500,2016,False,Hyundai,sonata SE Sedan 4D,50k-100k
+228,228,Volkswagen jetta 1.4T R-Line Sedan 4D,"Florence, KY",38000.0,16799,2020,False,Volkswagen,jetta 1.4T R-Line Sedan 4D,Under 50k
+229,229,Nissan sentra SR Sedan 4D,"Florence, KY",98000.0,4600,2016,False,Nissan,sentra SR Sedan 4D,50k-100k
+230,230,Ford focus SE,"Nicholasville, KY",55000.0,6999,2017,False,Ford,focus SE,50k-100k
+231,231,Honda accord LX Sedan 4D,"Simpsonville, KY",103000.0,11950,2015,False,Honda,accord LX Sedan 4D,100k-150k
+232,232,Nissan altima 3.5 SL Sedan 4D,"Maysville, KY",91000.0,7500,2013,False,Nissan,altima 3.5 SL Sedan 4D,50k-100k
+233,233,Toyota camry LE Sedan 4D,"Florence, KY",98000.0,8399,2003,False,Toyota,camry LE Sedan 4D,50k-100k
+234,234,Kia optima SX Sedan 4D,"Cincinnati, OH",119000.0,9000,2011,False,Kia,optima SX Sedan 4D,100k-150k
+235,235,Kia optima EX Hybrid Sedan 4D,"Okeana, OH",124000.0,8000,2013,False,Kia,optima EX Hybrid Sedan 4D,100k-150k
+236,236,Honda civic LX Sedan 4D,"Fairfield, OH",153000.0,5000,2011,False,Honda,civic LX Sedan 4D,Over 150k
+237,237,Honda insight ex 1.3 l4 fwd,"Cincinnati, OH",83000.0,8993,2010,False,Honda,insight ex 1.3 l4 fwd,50k-100k
+238,238,Audi a4 2.0T Premium Sedan 4D,"Cleves, OH",110000.0,6500,2010,False,Audi,a4 2.0T Premium Sedan 4D,100k-150k
+239,239,Ford fusion SE Sedan 4D,"Ripley, OH",106000.0,6000,2013,False,Ford,fusion SE Sedan 4D,100k-150k
+240,240,Ford fiesta SE Sedan 4D,"Dayton, OH",89000.0,4250,2014,False,Ford,fiesta SE Sedan 4D,50k-100k
+241,241,Volkswagen new beetle S Convertible 2D,"Cincinnati, OH",128000.0,2600,2008,False,Volkswagen,new beetle S Convertible 2D,100k-150k
+242,242,Chevrolet cruze LS Hatchback 4D,"Cincinnati, OH",109000.0,6400,2019,False,Chevrolet,cruze LS Hatchback 4D,100k-150k
+243,243,Ford focus SE Sedan 4D,"Cincinnati, OH",161000.0,5500,2016,False,Ford,focus SE Sedan 4D,Over 150k
+244,244,Ford fusion SE Hybrid Sedan 4D,"Cincinnati, OH",100000.0,8000,2017,False,Ford,fusion SE Hybrid Sedan 4D,50k-100k
+245,245,Toyota camry LE Sedan 4D,"Cincinnati, OH",235000.0,3500,2010,False,Toyota,camry LE Sedan 4D,Over 150k
+246,246,Ford fusion SE Sedan 4D,"Cincinnati, OH",96000.0,10500,2017,False,Ford,fusion SE Sedan 4D,50k-100k
+247,247,Subaru impreza 2.5i Sport Wagon 4D,"Alexandria, KY",108000.0,4999,2006,False,Subaru,impreza 2.5i Sport Wagon 4D,100k-150k
+248,248,Toyota camry LE,"Cincinnati, OH",194000.0,3400,2007,True,Toyota,camry LE,Over 150k
+249,249,Ford fusion SE Sedan 4D,"Florence, KY",106000.0,3500,2010,False,Ford,fusion SE Sedan 4D,100k-150k
+250,250,Nissan altima 2.5 S Sedan 4D,"Covington, KY",152000.0,3600,2010,False,Nissan,altima 2.5 S Sedan 4D,Over 150k
+251,251,Toyota camry XLE Sedan 4D,"Cincinnati, OH",192000.0,3900,2007,False,Toyota,camry XLE Sedan 4D,Over 150k
+252,252,Chevrolet cruze LT Sedan 4D,"South Lebanon, OH",110000.0,4900,2013,False,Chevrolet,cruze LT Sedan 4D,100k-150k
+253,253,Subaru outback 2.5i Premium Wagon 4D,"Mason, OH",139000.0,5800,2011,False,Subaru,outback 2.5i Premium Wagon 4D,100k-150k
+254,254,Nissan altima 2.5 S Coupe 2D,"Amelia, OH",152000.0,5400,2009,False,Nissan,altima 2.5 S Coupe 2D,Over 150k
+255,255,Chevrolet cruze LS Sedan 4D,"Cincinnati, OH",106000.0,4500,2018,False,Chevrolet,cruze LS Sedan 4D,100k-150k
+256,256,Volkswagen tiguan 2.0,"Cincinnati, OH",136000.0,4300,2009,False,Volkswagen,tiguan 2.0,100k-150k
+257,257,Hyundai elantra SE Sedan 4D,"Falmouth, KY",192000.0,3000,2008,False,Hyundai,elantra SE Sedan 4D,Over 150k
+258,258,Toyota prius Standard Hatchback 4D,"Fort Mitchell, KY",223000.0,4300,2008,False,Toyota,prius Standard Hatchback 4D,Over 150k
+259,259,Kia optima EX Sedan 4D,"Blanchester, OH",151000.0,4800,2010,False,Kia,optima EX Sedan 4D,Over 150k
+260,260,Honda cr-v EX Sport Utility 4D,"Cincinnati, OH",150000.0,7800,2011,False,Honda,cr-v EX Sport Utility 4D,100k-150k
+261,261,Honda civic EX Hatchback 4D,"Cincinnati, OH",132000.0,16000,2017,False,Honda,civic EX Hatchback 4D,100k-150k
+262,262,Nissan versa SL Sedan 4D,"Cincinnati, OH",160000.0,3500,2013,False,Nissan,versa SL Sedan 4D,Over 150k
+263,263,Nissan sentra SR,"New Vienna, OH",2900.0,22400,2024,False,Nissan,sentra SR,Under 50k
+264,264,Hyundai elantra Blue Sedan 4D,"Cincinnati, OH",201000.0,2995,2010,False,Hyundai,elantra Blue Sedan 4D,Over 150k
+265,265,Nissan versa SL Sedan 4D,"Cincinnati, OH",160000.0,3500,2013,False,Nissan,versa SL Sedan 4D,Over 150k
+266,266,Toyota camry LE Sedan 4D,"Fort Mitchell, KY",190000.0,2500,2009,False,Toyota,camry LE Sedan 4D,Over 150k
+267,267,Ford focus SES Coupe 2D,"Cincinnati, OH",100000.0,4300,2010,False,Ford,focus SES Coupe 2D,50k-100k
+268,268,Ford fusion S Sedan 4D,"Cincinnati, OH",118000.0,3999,2010,False,Ford,fusion S Sedan 4D,100k-150k
+269,269,Hyundai tiburon GT Coupe 2D,"Latonia, KY",185000.0,1400,2003,False,Hyundai,tiburon GT Coupe 2D,Over 150k
+270,270,BMW 3 series 323i Convertible 2D,"Fort Thomas, KY",169000.0,5000,1999,False,BMW,3 series 323i Convertible 2D,Over 150k
+271,271,Kia amanti Sedan 4D,"Cincinnati, OH",87000.0,4995,2006,True,Kia,amanti Sedan 4D,50k-100k
+272,272,Nissan versa S Hatchback 4D,"Cincinnati, OH",190000.0,2500,2012,False,Nissan,versa S Hatchback 4D,Over 150k
+273,273,Hyundai sonata Limited Sedan 4D,"Dayton, OH",150000.0,2995,2009,True,Hyundai,sonata Limited Sedan 4D,100k-150k
+274,274,Pontiac g6 Sedan 4D,"Independence, KY",130000.0,4350,2009,False,Pontiac,g6 Sedan 4D,100k-150k
+275,275,Saturn s-series SL1 Sedan 4D,"Latonia, KY",138000.0,990,1998,False,Saturn,s-series SL1 Sedan 4D,100k-150k
+276,276,Pontiac firebird Formula Coupe 2D,"Latonia, KY",584.0,15000,1979,False,Pontiac,firebird Formula Coupe 2D,Under 50k
+277,277,Honda city CZ-i,"Cincinnati, OH",130000.0,10000,1992,False,Honda,city CZ-i,100k-150k
+278,278,Saturn aura xe,"Cincinnati, OH",169000.0,3795,2007,False,Saturn,aura xe,Over 150k
+279,279,Dodge journey SXT,"Cincinnati, OH",85000.0,1000,2018,False,Dodge,journey SXT,50k-100k
+280,280,Nissan maxima SE Sedan 4D,"Cincinnati, OH",196000.0,2300,2008,False,Nissan,maxima SE Sedan 4D,Over 150k
+281,281,Buick regal LS Sedan 4D,"Covington, KY",170000.0,950,2000,False,Buick,regal LS Sedan 4D,Over 150k
+282,282,Chevrolet cruze LT Sedan 4D,"Fort Mitchell, KY",130000.0,1000,2013,False,Chevrolet,cruze LT Sedan 4D,100k-150k
+283,283,Bentley flying spur v12 engine Willing to part out,"Cincinnati, OH",65000.0,10000,2006,False,Bentley,flying spur v12 engine Willing to part out,50k-100k
+284,284,Dodge caliber SRT4 Sport Wagon 4D,"Cincinnati, OH",117000.0,6885,2008,False,Dodge,caliber SRT4 Sport Wagon 4D,100k-150k
+285,285,Nissan pathfinder SE Sport Utility 4D,"Latonia, KY",123000.0,495,1998,False,Nissan,pathfinder SE Sport Utility 4D,100k-150k
+286,286,Ford fusion,"Cincinnati, OH",222000.0,1400,2014,False,Ford,fusion,Over 150k
+287,287,Pontiac firebird,"Covington, KY",68000.0,16500,1968,False,Pontiac,firebird,50k-100k
+288,288,Honda accord EX Coupe 2D,"Fort Mitchell, KY",182000.0,2800,2000,False,Honda,accord EX Coupe 2D,Over 150k
+289,289,Pontiac grand am SE Sedan 4D,"Covington, KY",123000.0,1000,2005,False,Pontiac,grand am SE Sedan 4D,100k-150k
+290,290,Kia optima LX Sedan 4D,"Bethel, OH",160000.0,4000,2007,False,Kia,optima LX Sedan 4D,Over 150k
+291,291,Chevrolet cobalt SS Sedan 4D,"Aberdeen, OH",170000.0,1200,2007,False,Chevrolet,cobalt SS Sedan 4D,Over 150k
+292,292,Ford mustang Deluxe Convertible 2D,"Cincinnati, OH",200000.0,1500,2007,False,Ford,mustang Deluxe Convertible 2D,Over 150k
+293,293,Alfa Romeo spider,"Melbourne, KY",88000.0,1500,1986,False,Alfa Romeo,Romeo spider,50k-100k
+294,294,Chevrolet cobalt Coupe 2D,"Bellevue, KY",151000.0,1500,2005,False,Chevrolet,cobalt Coupe 2D,Over 150k
+295,295,Ram 1500 crew cab Laramie Pickup 4D 5 1/2 ft,"Covington, KY",122000.0,2500,2012,False,Ram,1500 crew cab Laramie Pickup 4D 5 1/2 ft,100k-150k
+296,296,Kia optima EX Sedan 4D,"Cincinnati, OH",212000.0,3999,2012,False,Kia,optima EX Sedan 4D,Over 150k
+297,297,Kia optima EX Sedan 4D,"Lawrenceburg, IN",185000.0,3000,2010,False,Kia,optima EX Sedan 4D,Over 150k
+298,298,Infiniti g35,"Enon, OH",123000.0,6700,2006,False,Infiniti,g35,100k-150k
+299,299,Chevrolet impala LS Sedan 4D,"Latonia, KY",170000.0,1300,2003,False,Chevrolet,impala LS Sedan 4D,Over 150k
+300,300,Mercedes-Benz r-class R 350 Sport Wagon 4D,"Cincinnati, OH",178000.0,2500,2007,False,Mercedes-Benz,r-class R 350 Sport Wagon 4D,Over 150k
+301,301,BMW 3 series 328xi Sedan 4D,"North Vernon, IN",132000.0,1,2007,False,BMW,3 series 328xi Sedan 4D,100k-150k
+302,302,Oldsmobile aurora ￼,"Latonia, KY",162000.0,500,2000,False,Oldsmobile,aurora ￼,Over 150k
+303,303,Hyundai santa fe sport Sport Utility 4D,"Covington, KY",100000.0,850,2003,False,Hyundai,santa fe sport Sport Utility 4D,50k-100k
+304,304,Audi a3 2.0T Wagon 4D,"Fort Thomas, KY",203000.0,2400,2006,False,Audi,a3 2.0T Wagon 4D,Over 150k
+305,305,Nissan altima 2.5 Sedan 4D,"Lexington, KY",160000.0,3495,2010,False,Nissan,altima 2.5 Sedan 4D,Over 150k
+306,306,Toyota supra,"Latonia, KY",157000.0,1500,1989,False,Toyota,supra,Over 150k
+307,307,Hyundai sonata SE Sedan 4D,"Cincinnati, OH",195000.0,2200,2008,False,Hyundai,sonata SE Sedan 4D,Over 150k
+308,308,Chevrolet venture passenger Extended Minivan 4D,"North Vernon, IN",169000.0,800,2001,False,Chevrolet,venture passenger Extended Minivan 4D,Over 150k
+309,309,BMW m3 Convertible 2D,"Cincinnati, OH",139000.0,23500,1998,False,BMW,m3 Convertible 2D,100k-150k
+310,310,Bailey sprint car,"Cincinnati, OH",,8000,2006,False,Bailey,sprint car,
+311,311,Ford escape,"Covington, KY",14000.0,1700,2003,False,Ford,escape,Under 50k
+312,312,Chrysler pt cruiser Touring Sport Wagon 4D,"Latonia, KY",85000.0,1750,2003,False,Chrysler,pt cruiser Touring Sport Wagon 4D,50k-100k
+313,313,Chevrolet cruze 1LT Sedan 4D,"Brooksville, KY",174000.0,800,2014,False,Chevrolet,cruze 1LT Sedan 4D,Over 150k
+314,314,Porsche,"Independence, KY",40000.0,6500,1975,False,Porsche,,Under 50k
+315,315,Chevrolet equinox LS Sport Utility 4D,"Cincinnati, OH",89000.0,1000,2015,False,Chevrolet,equinox LS Sport Utility 4D,50k-100k
+316,316,Nissan murano SL Sport Utility 4D,"Cincinnati, OH",191000.0,2800,2007,False,Nissan,murano SL Sport Utility 4D,Over 150k
+317,317,Nissan sentra,"Brooksville, KY",137000.0,700,2011,False,Nissan,sentra,100k-150k
+318,318,Honda civic LX Sedan 4D,"Newport, KY",200000.0,800,1998,False,Honda,civic LX Sedan 4D,Over 150k
+319,319,Ford escape XLT Sport Utility 4D,"Newport, KY",165000.0,1500,2002,False,Ford,escape XLT Sport Utility 4D,Over 150k
+320,320,Acura,"Newport, KY",193000.0,500,2003,False,Acura,,Over 150k
+321,321,Chrysler sebring Touring Sedan 4D,"Latonia, KY",180000.0,400,2006,False,Chrysler,sebring Touring Sedan 4D,Over 150k
+322,322,Chevrolet equinox,"Cincinnati, OH",154000.0,3150,2004,False,Chevrolet,equinox,Over 150k
+323,323,Buick lesabre,"Cincinnati, OH",1000.0,0,1987,False,Buick,lesabre,Under 50k
+324,324,Mercedes-Benz e-550 parts cars parts only Parts only i repeat parts only,"Cincinnati, OH",190000.0,400,2010,False,Mercedes-Benz,e-550 parts cars parts only Parts only i repeat parts only,Over 150k
+325,325,BMW 3 series 325xi Sedan 4D,"Alexandria, KY",165000.0,1300,2004,False,BMW,3 series 325xi Sedan 4D,Over 150k
+326,326,Infiniti qx60 3.5 Sport Utility 4D,"Cincinnati, OH",150000.0,3000,2014,False,Infiniti,qx60 3.5 Sport Utility 4D,100k-150k
+327,327,Ford five hundred SEL Sedan 4D,"Newport, KY",228000.0,1500,2005,False,Ford,five hundred SEL Sedan 4D,Over 150k
+328,328,Nissan maxima GLE Sedan 4D,"Cincinnati, OH",176000.0,650,1996,False,Nissan,maxima GLE Sedan 4D,Over 150k
+329,329,Chevrolet s10 regular cab Short Bed,"Covington, KY",213000.0,2000,2000,False,Chevrolet,s10 regular cab Short Bed,Over 150k
+330,330,Toyota matrix XR Sport Wagon 4D,"Hamilton, OH",237000.0,1300,2006,False,Toyota,matrix XR Sport Wagon 4D,Over 150k
+331,331,Ford focus ZX4 SE Sedan 4D,"Bellevue, KY",244000.0,1260,2005,False,Ford,focus ZX4 SE Sedan 4D,Over 150k
+332,332,Chevrolet s-10 Pickup 2D 6 ft,"Marysville, IN",123000.0,600,1988,False,Chevrolet,s-10 Pickup 2D 6 ft,100k-150k
+333,333,Honda accord EX Sedan 4D,"Cincinnati, OH",240000.0,2000,1995,False,Honda,accord EX Sedan 4D,Over 150k
+334,334,Kia sportage LX Sport Utility 4D,"Latonia, KY",168000.0,2700,2007,False,Kia,sportage LX Sport Utility 4D,Over 150k
+335,335,Mercury sable Premier Sedan 4D,"Camden, OH",99000.0,7000,2008,False,Mercury,sable Premier Sedan 4D,50k-100k
+336,336,Ford taurus SE Sedan 4D,"Dayton, OH",77000.0,4600,2000,False,Ford,taurus SE Sedan 4D,50k-100k
+337,337,Chevrolet malibu,"Latonia, KY",192000.0,1000,2010,False,Chevrolet,malibu,Over 150k
+338,338,Dodge dart Aero Sedan 4D,"Brooksville, KY",132000.0,1000,2013,False,Dodge,dart Aero Sedan 4D,100k-150k
+339,339,GMC sierra (classic) 2500 crew cab Suburban,"Silver Grove, KY",169000.0,4500,1986,False,GMC,sierra (classic) 2500 crew cab Suburban,Over 150k
+340,340,Chevrolet s10 regular cab Short Bed,"Covington, KY",123000.0,11000,2000,False,Chevrolet,s10 regular cab Short Bed,100k-150k
+341,341,Ford f150 (heritage) regular cab F-100 Sport Custom,"La Grange, KY",80000.0,4500,1970,False,Ford,f150 (heritage) regular cab F-100 Sport Custom,50k-100k
+342,342,Nissan altima 2.5 Sedan 4D,"Hamilton, OH",226000.0,1700,2010,False,Nissan,altima 2.5 Sedan 4D,Over 150k
+343,343,Ford ranger super cab XLT Pickup 2D 6 ft,"Covington, KY",195000.0,500,2006,False,Ford,ranger super cab XLT Pickup 2D 6 ft,Over 150k
+344,344,Honda pilot EX Sport Utility 4D,"Newport, KY",280000.0,1950,2006,False,Honda,pilot EX Sport Utility 4D,Over 150k
+345,345,Jeep grand cherokee,"Newport, KY",213000.0,1600,2006,False,Jeep,grand cherokee,Over 150k
+346,346,Chevrolet traverse LS Sport Utility 4D,"Alexandria, KY",140000.0,1300,2010,False,Chevrolet,traverse LS Sport Utility 4D,100k-150k
+347,347,Mitsubishi lancer O-Z Rally Edition Sedan 4D,"Cincinnati, OH",229000.0,2400,2003,False,Mitsubishi,lancer O-Z Rally Edition Sedan 4D,Over 150k
+348,348,Ford explorer Eddie Bauer Sport Utility 4D,"Covington, KY",246000.0,1400,2000,False,Ford,explorer Eddie Bauer Sport Utility 4D,Over 150k
+349,349,Ford focus SE Wagon 4D,"Cincinnati, OH",189000.0,3000,2007,False,Ford,focus SE Wagon 4D,Over 150k
+350,350,Chevrolet s10 extended cab 355 v8-Restomod-Cash/Trade,"Cincinnati, OH",1400.0,155,1993,False,Chevrolet,s10 extended cab 355 v8-Restomod-Cash/Trade,Under 50k
+351,351,Ford explorer,"Latonia, KY",150000.0,1000,2006,False,Ford,explorer,100k-150k
+352,352,Ford explorer Sport Utility 4D,"Covington, KY",177000.0,1500,1997,False,Ford,explorer Sport Utility 4D,Over 150k
+353,353,Ford escape,"Covington, KY",150000.0,1400,2002,False,Ford,escape,100k-150k
+354,354,Chevrolet tahoe Sport Utility 4D,"Alexandria, KY",325000.0,2500,2001,False,Chevrolet,tahoe Sport Utility 4D,Over 150k
+355,355,Chevrolet silverado 1500 extended cab Long Bed,"Cincinnati, OH",192000.0,3000,2000,False,Chevrolet,silverado 1500 extended cab Long Bed,Over 150k
+356,356,Ford mustang GT Convertible 2D,"Cincinnati, OH",148000.0,2500,1995,False,Ford,mustang GT Convertible 2D,100k-150k
+357,357,Chevrolet impala LS Sedan 4D,"Cincinnati, OH",188000.0,1000,2011,False,Chevrolet,impala LS Sedan 4D,Over 150k
+358,358,Chevrolet silverado 1500 regular cab LS Pickup 2D 6 1/2 ft,"Fort Thomas, KY",176000.0,1900,2004,False,Chevrolet,silverado 1500 regular cab LS Pickup 2D 6 1/2 ft,Over 150k
+359,359,Chevrolet impala,"Cincinnati, OH",170000.0,1000,2002,False,Chevrolet,impala,Over 150k
+360,360,Cadillac STS-V Sedan 4D,"Cincinnati, OH",175000.0,2500,2009,False,Cadillac,STS-V Sedan 4D,Over 150k
+361,361,Chevrolet avalanche 1500 LT Sport Utility Pickup 4D 5 1/4 ft,"Cincinnati, OH",210000.0,3300,2005,False,Chevrolet,avalanche 1500 LT Sport Utility Pickup 4D 5 1/4 ft,Over 150k
+362,362,Chevrolet hhr LS Sport Wagon 4D,"Cincinnati, OH",191000.0,1200,2007,False,Chevrolet,hhr LS Sport Wagon 4D,Over 150k
+363,363,Honda accord LX Sedan 4D,"Covington, KY",104000.0,2500,1996,False,Honda,accord LX Sedan 4D,100k-150k
+364,364,Oldsmobile cutlass,"Cincinnati, OH",123000.0,11000,1964,False,Oldsmobile,cutlass,100k-150k
+365,365,Nissan altima 2.5 S Sedan 4D,"Alexandria, KY",1200.0,2000,2008,False,Nissan,altima 2.5 S Sedan 4D,Under 50k
+366,366,Volkswagen passat 2.5L SE Sedan 4D,"Cincinnati, OH",43000.0,6800,2013,False,Volkswagen,passat 2.5L SE Sedan 4D,Under 50k
+367,367,Nissan altima 2.5 S Sedan 4D,"Cincinnati, OH",50000.0,8878,2018,False,Nissan,altima 2.5 S Sedan 4D,Under 50k
+368,368,Chevrolet malibu LS Sedan 4D,"Cincinnati, OH",127000.0,7500,2016,False,Chevrolet,malibu LS Sedan 4D,100k-150k
+369,369,Chrysler 200S Sedan 4D,"Cincinnati, OH",58000.0,11999,2016,False,Chrysler,200S Sedan 4D,50k-100k
+370,370,Ford taurus sel,"Cincinnati, OH",127000.0,7100,2015,False,Ford,taurus sel,100k-150k
+371,371,Hyundai accent se 6a,"Hamilton, OH",47000.0,14900,2021,False,Hyundai,accent se 6a,Under 50k
+372,372,Infiniti q50 3.7 Premium Sedan 4D,"Cincinnati, OH",152000.0,8700,2015,False,Infiniti,q50 3.7 Premium Sedan 4D,Over 150k
+373,373,Kia forte EX Sedan 4D,"Dayton, OH",48000.0,7000,2010,False,Kia,forte EX Sedan 4D,Under 50k
+374,374,Acura mdx SH-AWD Sport Utility 4D,"Cincinnati, OH",72000.0,12500,2015,False,Acura,mdx SH-AWD Sport Utility 4D,50k-100k
+375,375,Ford taurus sel awd 3.5l v6,"Cincinnati, OH",99000.0,11993,2015,False,Ford,taurus sel awd 3.5l v6,50k-100k
+376,376,Audi q3 Premium Plus Sport Utility 4D,"Cincinnati, OH",136000.0,9200,2018,False,Audi,q3 Premium Plus Sport Utility 4D,100k-150k
+377,377,Honda civic,"Cincinnati, OH",108000.0,9995,2015,False,Honda,civic,100k-150k
+378,378,Nissan altima 2.5 SV Sedan 4D,"Dayton, OH",150000.0,5000,2015,False,Nissan,altima 2.5 SV Sedan 4D,100k-150k
+379,379,Nissan rogue S Sport Utility 4D,"Dayton, OH",103000.0,6750,2016,False,Nissan,rogue S Sport Utility 4D,100k-150k
+380,380,Chevrolet malibu LT Sedan 4D,"Monroe, OH",59000.0,10500,2017,False,Chevrolet,malibu LT Sedan 4D,50k-100k
+381,381,Chevrolet impala LT Sedan 4D,"Cincinnati, OH",68000.0,8800,2018,False,Chevrolet,impala LT Sedan 4D,50k-100k
+382,382,Kia N/A,"Cincinnati, OH",60000.0,6500,2021,False,Kia,N/A,50k-100k
+383,383,Hyundai elantra GLS Sedan 4D,"Cincinnati, OH",104000.0,2500,2004,False,Hyundai,elantra GLS Sedan 4D,100k-150k
+384,384,Mazda 3 s hatchback,"Florence, KY",165000.0,3900,2005,False,Mazda,3 s hatchback,Over 150k
+385,385,Kia optima LX Sedan 4D,"Hamilton, OH",107000.0,8500,2013,False,Kia,optima LX Sedan 4D,100k-150k
+386,386,Honda accord EX Sedan 4D,"Cincinnati, OH",160000.0,5500,2010,False,Honda,accord EX Sedan 4D,Over 150k
+387,387,Ford taurus SE Sedan 4D,"Cincinnati, OH",137000.0,4500,2013,False,Ford,taurus SE Sedan 4D,100k-150k
+388,388,Honda insight EX Sedan 4D,"Cincinnati, OH",88000.0,2600,2019,False,Honda,insight EX Sedan 4D,50k-100k
+389,389,Honda accord EX Sedan 4D,"Cincinnati, OH",134000.0,4850,2006,False,Honda,accord EX Sedan 4D,100k-150k
+390,390,Chevrolet malibu LS Sedan 4D,"Cincinnati, OH",185000.0,5800,2016,False,Chevrolet,malibu LS Sedan 4D,Over 150k
+391,391,Nissan altima 3.5 SE Sedan 4D,"Loveland, OH",126000.0,4400,2009,False,Nissan,altima 3.5 SE Sedan 4D,100k-150k
+392,392,Chevrolet equinox,"Cincinnati, OH",92000.0,6000,2018,False,Chevrolet,equinox,50k-100k
+393,393,Hyundai genesis coupe 2.0T Coupe 2D,"Scottsburg, IN",120000.0,7500,2011,False,Hyundai,genesis coupe 2.0T Coupe 2D,100k-150k
+394,395,Audi a5 3.2 Quattro Coupe 2D,"Fort Mitchell, KY",107000.0,5250,2009,False,Audi,a5 3.2 Quattro Coupe 2D,100k-150k
+395,396,Kia soul + Wagon 4D,"Amelia, OH",246000.0,1600,2012,False,Kia,soul + Wagon 4D,Over 150k
+396,397,Nissan maxima S Sedan 4D,"Erlanger, KY",250000.0,3000,2014,False,Nissan,maxima S Sedan 4D,Over 150k
+397,398,Mazda mx-5 miata Convertible 2D,"Cincinnati, OH",150000.0,4000,1995,False,Mazda,mx-5 miata Convertible 2D,100k-150k
+398,399,Ford focus S Sedan 4D,"Latonia, KY",172000.0,2000,2014,False,Ford,focus S Sedan 4D,Over 150k
+399,400,Subaru svx Sport Coupe 2D,"Latonia, KY",105000.0,800,1992,False,Subaru,svx Sport Coupe 2D,100k-150k
+400,401,Honda civic DX Coupe 2D,"Crestwood, KY",93000.0,4000,2002,False,Honda,civic DX Coupe 2D,50k-100k
+401,402,Toyota c-hr LE Sport Utility 4D,"Cincinnati, OH",82000.0,500,2021,False,Toyota,c-hr LE Sport Utility 4D,50k-100k
+402,403,Volkswagen eos lux,"Dayton, OH",117000.0,2295,2007,False,Volkswagen,eos lux,100k-150k
+403,404,Ford fiesta SE Sedan 4D,"Batavia, OH",270000.0,1234,2011,False,Ford,fiesta SE Sedan 4D,Over 150k
+404,405,MINI Cooper S Hatchback 2D,"Cincinnati, OH",108000.0,7995,2013,True,MINI,Cooper S Hatchback 2D,100k-150k
+405,406,Hyundai azera GLS Sedan 4D,"Prospect, KY",121000.0,3000,2009,False,Hyundai,azera GLS Sedan 4D,100k-150k
+406,407,Mercedes-Benz c-class C 300 4MATIC Luxury Sedan 4D,"Cincinnati, OH",142000.0,6400,2012,False,Mercedes-Benz,c-class C 300 4MATIC Luxury Sedan 4D,100k-150k
+407,408,Kia soul + Wagon 4D,"Cincinnati, OH",156000.0,5400,2014,False,Kia,soul + Wagon 4D,Over 150k
+408,409,Nissan maxima,"Cincinnati, OH",90000.0,16493,2019,False,Nissan,maxima,50k-100k
+409,410,Ford f150 regular cab Long Bed,"Cincinnati, OH",177000.0,5500,1995,False,Ford,f150 regular cab Long Bed,Over 150k
+410,411,BMW 328i convertible,"Springfield, OH",81000.0,7500,2008,False,BMW,328i convertible,50k-100k
+411,412,Chevrolet cruze LT Sedan 4D,"Walton, KY",173000.0,4500,2011,False,Chevrolet,cruze LT Sedan 4D,Over 150k
+412,413,Audi q7 3.0T Premium Plus Sport Utility 4D,"Covington, KY",117000.0,2500,2015,False,Audi,q7 3.0T Premium Plus Sport Utility 4D,100k-150k
+413,414,Nissan altima,"Cincinnati, OH",,4995,2008,False,Nissan,altima,
+414,415,Acura tl SH-AWD Sedan 4D,"Cincinnati, OH",143000.0,6800,2013,False,Acura,tl SH-AWD Sedan 4D,100k-150k
+415,416,Ford explorer,"Lexington, KY",165000.0,9800,2016,False,Ford,explorer,Over 150k
+416,417,BMW x3 xDrive28i Sport Utility 4D,"Cincinnati, OH",108000.0,11995,2016,False,BMW,x3 xDrive28i Sport Utility 4D,100k-150k
+417,418,Ford focus SE Sedan 4D,"Amelia, OH",150000.0,3300,2015,False,Ford,focus SE Sedan 4D,100k-150k
+418,419,Honda civic LX Sedan 4D,"Cincinnati, OH",190000.0,3650,2005,False,Honda,civic LX Sedan 4D,Over 150k
+419,420,Ford fusion SE Sedan 4D,"Waverly, OH",122000.0,4750,2010,False,Ford,fusion SE Sedan 4D,100k-150k
+420,421,Honda accord DX Sedan 4D,"Walton, KY",138000.0,1600,1983,False,Honda,accord DX Sedan 4D,100k-150k
