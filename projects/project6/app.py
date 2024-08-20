@@ -26,4 +26,4 @@ if st.button("Estimate value"):
     input_data_model["Manufacturer"].replace(df["Manufacturer"].unique(),gen_l(df["Manufacturer"].unique()),inplace=True)
     input_data_model["Model_name"].replace(df["Model_name"].unique(),gen_l(df["Model_name"].unique()),inplace=True)
     price=model.predict(input_data_model)
-    st.markdown("estimated car price is : $"+str(price[0].round(4)))
+    st.markdown("estimated car price is : $"+str(price[0].round(2)))
