@@ -1,0 +1,501 @@
+SKU,Product Name,Category,Quantity,Aisle,Shelf,Bin,Reorder Level
+SKU1000,Portable Charger,Electronics,77,A2,07,07,19
+SKU1001,Mouse Pad,Accessories,187,A2,07,03,14
+SKU1002,USB Cable,Electronics,49,A3,03,06,14
+SKU1003,Pen Set,Stationery,6,A3,08,08,5
+SKU1004,Office Chair,Furniture,132,A2,01,10,8
+SKU1005,Drawer Set,Furniture,172,A1,08,09,16
+SKU1006,Highlighter Pack,Stationery,193,A3,02,01,18
+SKU1007,Microwave Oven,Appliances,98,A2,09,01,8
+SKU1008,Stapler,Stationery,73,A4,09,08,9
+SKU1009,Toaster,Appliances,181,A2,08,05,20
+SKU1010,Office Chair,Furniture,14,A4,07,03,13
+SKU1011,Backpack,Accessories,66,A3,05,04,17
+SKU1012,Bookshelf,Furniture,29,A3,01,01,18
+SKU1013,Office Chair,Furniture,41,A1,01,10,8
+SKU1014,Drawer Set,Furniture,69,A5,08,10,19
+SKU1015,Water Bottle,Accessories,18,A2,10,10,10
+SKU1016,Bookshelf,Furniture,52,A4,09,01,17
+SKU1017,Wireless Mouse,Electronics,137,A2,04,05,7
+SKU1018,Toaster,Appliances,145,A3,05,01,18
+SKU1019,Stapler,Stationery,87,A1,10,01,11
+SKU1020,Sticky Notes,Stationery,24,A1,04,06,7
+SKU1021,Portable Charger,Electronics,123,A4,06,08,13
+SKU1022,Electric Kettle,Appliances,9,A5,04,01,12
+SKU1023,Coffee Maker,Appliances,91,A3,09,09,7
+SKU1024,Standing Desk,Furniture,74,A1,03,01,7
+SKU1025,Filing Cabinet,Furniture,118,A3,01,10,14
+SKU1026,Office Chair,Furniture,140,A4,06,01,9
+SKU1027,Mouse Pad,Accessories,28,A2,08,01,12
+SKU1028,Electric Kettle,Appliances,135,A5,01,07,19
+SKU1029,Blender,Appliances,69,A1,02,03,11
+SKU1030,Drawer Set,Furniture,179,A2,07,05,9
+SKU1031,Travel Mug,Accessories,128,A3,02,07,6
+SKU1032,Coffee Maker,Appliances,76,A4,03,10,10
+SKU1033,Portable Charger,Electronics,93,A1,08,10,7
+SKU1034,Standing Desk,Furniture,147,A4,07,05,19
+SKU1035,Highlighter Pack,Stationery,169,A5,01,08,19
+SKU1036,Stapler,Stationery,157,A4,08,08,20
+SKU1037,Portable Charger,Electronics,39,A3,03,02,15
+SKU1038,Notebook,Stationery,155,A4,10,06,5
+SKU1039,Microwave Oven,Appliances,12,A3,07,04,5
+SKU1040,Toaster,Appliances,72,A4,09,05,19
+SKU1041,Noise-Canceling Headset,Electronics,186,A4,01,08,15
+SKU1042,Travel Mug,Accessories,3,A5,10,09,15
+SKU1043,Water Bottle,Accessories,146,A1,06,09,19
+SKU1044,Coffee Maker,Appliances,85,A5,09,02,11
+SKU1045,Notebook,Stationery,124,A3,03,05,8
+SKU1046,USB Cable,Electronics,118,A2,03,04,19
+SKU1047,Sticky Notes,Stationery,94,A3,02,09,13
+SKU1048,Notebook,Stationery,173,A5,10,02,19
+SKU1049,Portable Charger,Electronics,176,A3,03,08,8
+SKU1050,Drawer Set,Furniture,171,A3,02,08,19
+SKU1051,Drawer Set,Furniture,134,A1,04,06,17
+SKU1052,Mouse Pad,Accessories,132,A1,02,09,6
+SKU1053,Pen Set,Stationery,52,A5,02,06,6
+SKU1054,Portable Charger,Electronics,136,A2,02,08,15
+SKU1055,Drawer Set,Furniture,188,A4,09,09,10
+SKU1056,Bookshelf,Furniture,15,A2,08,01,11
+SKU1057,Noise-Canceling Headset,Electronics,52,A3,03,09,10
+SKU1058,Travel Mug,Accessories,68,A4,01,05,15
+SKU1059,Electric Kettle,Appliances,97,A3,06,01,16
+SKU1060,Laptop Sleeve,Accessories,90,A4,06,08,10
+SKU1061,Microwave Oven,Appliances,137,A3,02,05,10
+SKU1062,Mouse Pad,Accessories,188,A3,08,02,11
+SKU1063,USB Cable,Electronics,6,A1,10,08,15
+SKU1064,Backpack,Accessories,15,A1,04,08,18
+SKU1065,Sticky Notes,Stationery,127,A4,07,03,14
+SKU1066,Blender,Appliances,6,A4,09,09,18
+SKU1067,Filing Cabinet,Furniture,150,A3,05,01,6
+SKU1068,Notebook,Stationery,2,A3,09,09,17
+SKU1069,Drawer Set,Furniture,132,A3,01,05,10
+SKU1070,Water Bottle,Accessories,188,A2,06,03,17
+SKU1071,Laptop Sleeve,Accessories,34,A2,10,07,15
+SKU1072,Laptop Sleeve,Accessories,44,A2,03,06,20
+SKU1073,Standing Desk,Furniture,174,A2,09,07,11
+SKU1074,Office Chair,Furniture,68,A4,10,05,7
+SKU1075,Standing Desk,Furniture,115,A4,10,04,20
+SKU1076,Notebook,Stationery,190,A1,04,01,13
+SKU1077,Pen Set,Stationery,130,A2,02,04,7
+SKU1078,Portable Charger,Electronics,158,A2,03,01,13
+SKU1079,Noise-Canceling Headset,Electronics,65,A2,09,03,13
+SKU1080,Microwave Oven,Appliances,123,A5,10,09,16
+SKU1081,Noise-Canceling Headset,Electronics,190,A4,08,06,16
+SKU1082,Pen Set,Stationery,95,A1,09,06,18
+SKU1083,Coffee Maker,Appliances,55,A4,07,06,20
+SKU1084,Electric Kettle,Appliances,11,A4,08,05,17
+SKU1085,Noise-Canceling Headset,Electronics,58,A5,02,06,16
+SKU1086,Electric Kettle,Appliances,159,A4,10,01,17
+SKU1087,Standing Desk,Furniture,190,A4,01,06,6
+SKU1088,Water Bottle,Accessories,98,A2,10,06,10
+SKU1089,Highlighter Pack,Stationery,46,A5,09,04,9
+SKU1090,Stapler,Stationery,184,A4,02,03,6
+SKU1091,Stapler,Stationery,43,A5,01,06,20
+SKU1092,Bookshelf,Furniture,132,A4,03,07,20
+SKU1093,Laptop Sleeve,Accessories,11,A3,01,05,12
+SKU1094,Highlighter Pack,Stationery,194,A3,10,05,20
+SKU1095,Travel Mug,Accessories,104,A2,01,04,12
+SKU1096,Wireless Mouse,Electronics,111,A1,07,07,11
+SKU1097,Laptop Sleeve,Accessories,123,A4,04,08,20
+SKU1098,Water Bottle,Accessories,193,A2,01,10,10
+SKU1099,Laptop Sleeve,Accessories,61,A1,05,01,17
+SKU1100,USB Cable,Electronics,140,A1,02,07,10
+SKU1101,Backpack,Accessories,89,A4,09,05,19
+SKU1102,Filing Cabinet,Furniture,51,A1,05,08,20
+SKU1103,Filing Cabinet,Furniture,16,A3,05,06,12
+SKU1104,Microwave Oven,Appliances,189,A1,04,05,12
+SKU1105,Backpack,Accessories,192,A1,07,05,15
+SKU1106,Stapler,Stationery,197,A4,10,08,14
+SKU1107,Portable Charger,Electronics,69,A3,10,05,7
+SKU1108,Backpack,Accessories,121,A3,07,09,9
+SKU1109,Electric Kettle,Appliances,182,A1,02,03,18
+SKU1110,Coffee Maker,Appliances,165,A4,09,04,7
+SKU1111,Bookshelf,Furniture,193,A1,08,10,14
+SKU1112,Notebook,Stationery,195,A5,09,06,16
+SKU1113,Portable Charger,Electronics,96,A5,03,01,8
+SKU1114,Coffee Maker,Appliances,67,A4,01,09,18
+SKU1115,Wireless Mouse,Electronics,159,A5,02,09,5
+SKU1116,Notebook,Stationery,134,A4,02,03,11
+SKU1117,Microwave Oven,Appliances,81,A1,06,02,9
+SKU1118,Toaster,Appliances,190,A4,03,06,16
+SKU1119,Filing Cabinet,Furniture,108,A3,05,01,15
+SKU1120,Blender,Appliances,91,A4,03,07,10
+SKU1121,Noise-Canceling Headset,Electronics,114,A1,10,08,18
+SKU1122,Electric Kettle,Appliances,27,A2,09,08,17
+SKU1123,Filing Cabinet,Furniture,78,A1,07,02,12
+SKU1124,Travel Mug,Accessories,96,A1,10,06,11
+SKU1125,Coffee Maker,Appliances,23,A5,09,03,19
+SKU1126,Pen Set,Stationery,16,A3,04,07,17
+SKU1127,Blender,Appliances,83,A1,03,10,20
+SKU1128,Sticky Notes,Stationery,190,A3,07,01,17
+SKU1129,Microwave Oven,Appliances,172,A3,07,01,15
+SKU1130,Drawer Set,Furniture,151,A2,04,09,19
+SKU1131,Backpack,Accessories,41,A4,07,10,17
+SKU1132,Portable Charger,Electronics,53,A4,01,01,18
+SKU1133,Noise-Canceling Headset,Electronics,73,A5,09,09,12
+SKU1134,Stapler,Stationery,49,A1,07,09,10
+SKU1135,Stapler,Stationery,14,A4,06,01,17
+SKU1136,Toaster,Appliances,36,A2,03,04,5
+SKU1137,Laptop Stand,Electronics,137,A4,02,07,18
+SKU1138,Electric Kettle,Appliances,106,A2,10,06,14
+SKU1139,Bookshelf,Furniture,75,A4,07,08,13
+SKU1140,Standing Desk,Furniture,63,A2,05,09,17
+SKU1141,Toaster,Appliances,39,A5,05,09,6
+SKU1142,Blender,Appliances,194,A1,06,10,5
+SKU1143,Coffee Maker,Appliances,78,A4,01,02,10
+SKU1144,Wireless Mouse,Electronics,162,A4,10,05,18
+SKU1145,Sticky Notes,Stationery,96,A1,04,09,16
+SKU1146,Water Bottle,Accessories,122,A4,07,10,12
+SKU1147,Travel Mug,Accessories,73,A5,10,08,8
+SKU1148,Highlighter Pack,Stationery,13,A2,02,02,20
+SKU1149,Standing Desk,Furniture,80,A5,04,06,13
+SKU1150,Standing Desk,Furniture,28,A1,05,04,18
+SKU1151,Sticky Notes,Stationery,166,A3,04,07,8
+SKU1152,Microwave Oven,Appliances,66,A4,01,10,16
+SKU1153,Notebook,Stationery,48,A4,01,09,19
+SKU1154,Standing Desk,Furniture,63,A4,10,10,20
+SKU1155,Wireless Mouse,Electronics,6,A3,04,02,19
+SKU1156,Drawer Set,Furniture,159,A2,06,02,15
+SKU1157,Office Chair,Furniture,33,A1,04,02,20
+SKU1158,Sticky Notes,Stationery,90,A5,06,05,7
+SKU1159,Coffee Maker,Appliances,59,A3,08,03,19
+SKU1160,Highlighter Pack,Stationery,35,A1,03,06,7
+SKU1161,Sticky Notes,Stationery,72,A3,08,04,13
+SKU1162,Laptop Stand,Electronics,190,A1,01,06,7
+SKU1163,Sticky Notes,Stationery,37,A2,06,03,12
+SKU1164,Water Bottle,Accessories,168,A4,04,05,9
+SKU1165,Sticky Notes,Stationery,112,A5,03,09,7
+SKU1166,Standing Desk,Furniture,44,A4,01,03,19
+SKU1167,Blender,Appliances,6,A1,10,05,9
+SKU1168,Electric Kettle,Appliances,33,A5,08,08,8
+SKU1169,Noise-Canceling Headset,Electronics,33,A5,03,09,16
+SKU1170,Laptop Stand,Electronics,65,A3,05,04,11
+SKU1171,Noise-Canceling Headset,Electronics,71,A4,07,05,19
+SKU1172,Laptop Sleeve,Accessories,17,A3,03,06,10
+SKU1173,Backpack,Accessories,183,A5,03,10,6
+SKU1174,Standing Desk,Furniture,92,A2,02,02,5
+SKU1175,Toaster,Appliances,90,A4,01,03,8
+SKU1176,Laptop Sleeve,Accessories,86,A1,06,05,17
+SKU1177,USB Cable,Electronics,151,A3,08,04,5
+SKU1178,Bookshelf,Furniture,80,A5,09,08,6
+SKU1179,Toaster,Appliances,104,A3,04,06,7
+SKU1180,Highlighter Pack,Stationery,157,A5,10,10,15
+SKU1181,Standing Desk,Furniture,10,A4,03,08,20
+SKU1182,Laptop Sleeve,Accessories,142,A4,06,07,20
+SKU1183,Notebook,Stationery,125,A1,09,10,13
+SKU1184,Drawer Set,Furniture,120,A2,05,04,14
+SKU1185,Travel Mug,Accessories,90,A4,05,02,10
+SKU1186,Stapler,Stationery,56,A5,08,04,10
+SKU1187,Notebook,Stationery,91,A4,04,08,18
+SKU1188,Water Bottle,Accessories,27,A3,01,02,7
+SKU1189,Sticky Notes,Stationery,179,A5,02,05,12
+SKU1190,Backpack,Accessories,115,A1,05,08,20
+SKU1191,Mouse Pad,Accessories,80,A2,08,07,10
+SKU1192,Travel Mug,Accessories,190,A5,01,06,7
+SKU1193,Notebook,Stationery,49,A4,08,05,18
+SKU1194,Electric Kettle,Appliances,18,A5,08,01,19
+SKU1195,Electric Kettle,Appliances,87,A1,01,03,17
+SKU1196,Highlighter Pack,Stationery,126,A3,01,07,9
+SKU1197,Office Chair,Furniture,197,A3,03,02,5
+SKU1198,Pen Set,Stationery,36,A5,02,05,9
+SKU1199,Laptop Sleeve,Accessories,129,A3,06,07,11
+SKU1200,Microwave Oven,Appliances,43,A4,10,07,7
+SKU1201,Standing Desk,Furniture,123,A5,01,01,6
+SKU1202,Electric Kettle,Appliances,154,A1,10,09,15
+SKU1203,Sticky Notes,Stationery,21,A3,09,04,7
+SKU1204,Stapler,Stationery,138,A3,08,06,10
+SKU1205,Standing Desk,Furniture,62,A2,08,01,19
+SKU1206,Electric Kettle,Appliances,90,A4,02,01,17
+SKU1207,Standing Desk,Furniture,14,A4,01,10,18
+SKU1208,Travel Mug,Accessories,171,A3,02,06,12
+SKU1209,Office Chair,Furniture,76,A5,01,09,8
+SKU1210,Bookshelf,Furniture,100,A4,04,07,5
+SKU1211,Sticky Notes,Stationery,182,A5,09,10,19
+SKU1212,USB Cable,Electronics,135,A1,09,07,11
+SKU1213,Mouse Pad,Accessories,158,A4,05,06,7
+SKU1214,Wireless Mouse,Electronics,75,A2,09,07,14
+SKU1215,USB Cable,Electronics,86,A4,10,02,13
+SKU1216,Portable Charger,Electronics,176,A4,09,10,17
+SKU1217,Toaster,Appliances,65,A5,06,06,13
+SKU1218,Filing Cabinet,Furniture,24,A1,08,05,16
+SKU1219,Sticky Notes,Stationery,6,A4,02,04,17
+SKU1220,Notebook,Stationery,20,A2,06,01,9
+SKU1221,Coffee Maker,Appliances,180,A1,02,05,13
+SKU1222,Wireless Mouse,Electronics,93,A1,06,10,19
+SKU1223,Travel Mug,Accessories,119,A1,06,09,16
+SKU1224,Bookshelf,Furniture,25,A3,07,01,8
+SKU1225,Drawer Set,Furniture,180,A2,09,01,13
+SKU1226,Blender,Appliances,122,A4,02,03,18
+SKU1227,Coffee Maker,Appliances,139,A5,06,05,12
+SKU1228,Laptop Sleeve,Accessories,69,A5,08,02,6
+SKU1229,Laptop Sleeve,Accessories,123,A5,06,04,12
+SKU1230,Blender,Appliances,63,A1,04,06,17
+SKU1231,Bookshelf,Furniture,68,A2,08,09,9
+SKU1232,Standing Desk,Furniture,178,A3,06,05,20
+SKU1233,Laptop Sleeve,Accessories,68,A3,03,06,19
+SKU1234,Travel Mug,Accessories,196,A4,08,10,20
+SKU1235,Toaster,Appliances,180,A1,09,10,19
+SKU1236,Standing Desk,Furniture,122,A5,05,04,12
+SKU1237,Laptop Stand,Electronics,107,A2,05,06,15
+SKU1238,Standing Desk,Furniture,35,A4,10,06,9
+SKU1239,Microwave Oven,Appliances,118,A5,08,07,14
+SKU1240,Stapler,Stationery,141,A5,07,08,9
+SKU1241,Blender,Appliances,142,A3,10,08,11
+SKU1242,Portable Charger,Electronics,78,A3,09,04,6
+SKU1243,Notebook,Stationery,195,A1,03,07,19
+SKU1244,USB Cable,Electronics,43,A2,10,02,7
+SKU1245,USB Cable,Electronics,146,A3,02,10,11
+SKU1246,Highlighter Pack,Stationery,62,A1,05,04,5
+SKU1247,Laptop Stand,Electronics,189,A5,08,07,9
+SKU1248,Bookshelf,Furniture,16,A4,01,04,5
+SKU1249,Microwave Oven,Appliances,182,A5,09,06,17
+SKU1250,Pen Set,Stationery,146,A4,05,05,12
+SKU1251,Electric Kettle,Appliances,48,A3,06,06,20
+SKU1252,Highlighter Pack,Stationery,188,A5,10,02,5
+SKU1253,Mouse Pad,Accessories,143,A1,05,05,12
+SKU1254,Drawer Set,Furniture,126,A2,07,05,6
+SKU1255,Toaster,Appliances,159,A3,06,04,6
+SKU1256,Notebook,Stationery,148,A5,08,01,11
+SKU1257,Standing Desk,Furniture,26,A1,06,08,15
+SKU1258,Pen Set,Stationery,13,A2,09,01,19
+SKU1259,Microwave Oven,Appliances,180,A1,09,06,6
+SKU1260,Travel Mug,Accessories,14,A3,02,02,7
+SKU1261,Bookshelf,Furniture,138,A1,03,02,8
+SKU1262,Noise-Canceling Headset,Electronics,29,A3,07,05,10
+SKU1263,Bookshelf,Furniture,56,A5,07,02,14
+SKU1264,Filing Cabinet,Furniture,9,A1,08,09,18
+SKU1265,Noise-Canceling Headset,Electronics,183,A3,04,07,10
+SKU1266,Backpack,Accessories,144,A3,07,10,5
+SKU1267,Wireless Mouse,Electronics,34,A5,06,06,18
+SKU1268,Travel Mug,Accessories,176,A1,03,05,11
+SKU1269,Noise-Canceling Headset,Electronics,71,A3,09,10,15
+SKU1270,Bookshelf,Furniture,133,A2,04,10,12
+SKU1271,Water Bottle,Accessories,99,A3,04,09,14
+SKU1272,Notebook,Stationery,24,A2,07,06,8
+SKU1273,Stapler,Stationery,159,A5,04,01,19
+SKU1274,Bookshelf,Furniture,37,A5,05,07,5
+SKU1275,Laptop Sleeve,Accessories,136,A5,10,05,15
+SKU1276,Sticky Notes,Stationery,64,A2,02,05,5
+SKU1277,Laptop Stand,Electronics,41,A1,02,01,15
+SKU1278,Filing Cabinet,Furniture,22,A1,09,04,9
+SKU1279,Standing Desk,Furniture,115,A4,06,08,13
+SKU1280,Wireless Mouse,Electronics,107,A4,09,06,20
+SKU1281,Backpack,Accessories,118,A5,02,04,20
+SKU1282,Blender,Appliances,88,A4,07,10,19
+SKU1283,Toaster,Appliances,49,A5,02,06,13
+SKU1284,Notebook,Stationery,34,A1,10,04,13
+SKU1285,Pen Set,Stationery,54,A4,04,07,5
+SKU1286,USB Cable,Electronics,180,A1,10,09,12
+SKU1287,USB Cable,Electronics,24,A5,08,02,6
+SKU1288,Standing Desk,Furniture,4,A1,02,07,5
+SKU1289,Filing Cabinet,Furniture,17,A1,07,10,5
+SKU1290,Blender,Appliances,77,A5,07,08,9
+SKU1291,Highlighter Pack,Stationery,16,A5,09,08,5
+SKU1292,Pen Set,Stationery,43,A2,08,01,18
+SKU1293,Filing Cabinet,Furniture,42,A3,09,01,5
+SKU1294,Standing Desk,Furniture,68,A2,08,10,13
+SKU1295,Laptop Stand,Electronics,107,A4,09,04,12
+SKU1296,Notebook,Stationery,171,A5,06,04,5
+SKU1297,Bookshelf,Furniture,191,A2,10,09,14
+SKU1298,Laptop Stand,Electronics,166,A5,04,02,7
+SKU1299,Travel Mug,Accessories,88,A3,09,03,11
+SKU1300,Sticky Notes,Stationery,110,A4,04,04,13
+SKU1301,USB Cable,Electronics,95,A4,04,02,19
+SKU1302,Stapler,Stationery,66,A4,01,05,15
+SKU1303,Laptop Sleeve,Accessories,21,A4,04,08,5
+SKU1304,Mouse Pad,Accessories,117,A5,09,02,12
+SKU1305,Blender,Appliances,9,A1,03,06,19
+SKU1306,Mouse Pad,Accessories,153,A5,03,03,13
+SKU1307,Mouse Pad,Accessories,119,A4,03,01,5
+SKU1308,Laptop Sleeve,Accessories,157,A3,10,01,7
+SKU1309,Toaster,Appliances,68,A1,06,03,9
+SKU1310,Stapler,Stationery,121,A3,08,04,6
+SKU1311,USB Cable,Electronics,63,A2,06,07,20
+SKU1312,Backpack,Accessories,128,A5,10,05,14
+SKU1313,Laptop Sleeve,Accessories,174,A2,07,04,15
+SKU1314,Standing Desk,Furniture,55,A3,06,08,7
+SKU1315,Electric Kettle,Appliances,101,A2,03,04,11
+SKU1316,Notebook,Stationery,13,A3,08,05,8
+SKU1317,Office Chair,Furniture,71,A2,09,04,6
+SKU1318,Microwave Oven,Appliances,163,A4,01,08,8
+SKU1319,Pen Set,Stationery,164,A3,02,07,12
+SKU1320,Coffee Maker,Appliances,54,A1,09,03,15
+SKU1321,Sticky Notes,Stationery,105,A3,01,09,6
+SKU1322,Water Bottle,Accessories,192,A2,02,08,19
+SKU1323,Electric Kettle,Appliances,145,A2,09,04,17
+SKU1324,Laptop Sleeve,Accessories,32,A3,08,03,9
+SKU1325,Highlighter Pack,Stationery,48,A3,06,03,14
+SKU1326,Laptop Stand,Electronics,133,A5,05,02,9
+SKU1327,Toaster,Appliances,123,A5,10,03,17
+SKU1328,Coffee Maker,Appliances,8,A3,02,07,6
+SKU1329,Wireless Mouse,Electronics,54,A1,01,04,17
+SKU1330,Noise-Canceling Headset,Electronics,43,A5,06,05,5
+SKU1331,Water Bottle,Accessories,160,A1,02,01,10
+SKU1332,Highlighter Pack,Stationery,112,A1,06,05,17
+SKU1333,Laptop Stand,Electronics,146,A3,08,01,8
+SKU1334,Coffee Maker,Appliances,149,A2,05,01,14
+SKU1335,Wireless Mouse,Electronics,17,A4,01,06,19
+SKU1336,Bookshelf,Furniture,113,A1,07,02,14
+SKU1337,Office Chair,Furniture,21,A1,05,03,7
+SKU1338,Drawer Set,Furniture,143,A2,02,03,12
+SKU1339,Toaster,Appliances,180,A5,09,06,6
+SKU1340,Wireless Mouse,Electronics,70,A3,06,03,14
+SKU1341,Microwave Oven,Appliances,6,A3,07,07,5
+SKU1342,Microwave Oven,Appliances,35,A4,01,04,12
+SKU1343,Laptop Sleeve,Accessories,163,A3,04,04,18
+SKU1344,Backpack,Accessories,29,A1,01,08,8
+SKU1345,Water Bottle,Accessories,167,A3,03,03,14
+SKU1346,Water Bottle,Accessories,164,A1,08,09,12
+SKU1347,Office Chair,Furniture,11,A4,08,06,18
+SKU1348,Sticky Notes,Stationery,151,A3,08,03,20
+SKU1349,Highlighter Pack,Stationery,36,A4,05,01,13
+SKU1350,Blender,Appliances,180,A4,03,04,14
+SKU1351,Pen Set,Stationery,57,A1,08,08,11
+SKU1352,Backpack,Accessories,95,A3,05,03,5
+SKU1353,Highlighter Pack,Stationery,120,A4,07,07,17
+SKU1354,Water Bottle,Accessories,94,A5,01,08,15
+SKU1355,Notebook,Stationery,125,A1,05,01,15
+SKU1356,Highlighter Pack,Stationery,141,A5,01,08,17
+SKU1357,Laptop Stand,Electronics,14,A1,05,09,8
+SKU1358,Mouse Pad,Accessories,108,A1,07,09,15
+SKU1359,Notebook,Stationery,15,A2,03,02,18
+SKU1360,Standing Desk,Furniture,67,A5,10,09,14
+SKU1361,Wireless Mouse,Electronics,50,A1,06,05,7
+SKU1362,Mouse Pad,Accessories,104,A2,03,09,20
+SKU1363,Portable Charger,Electronics,154,A5,03,10,15
+SKU1364,Office Chair,Furniture,141,A3,07,02,15
+SKU1365,USB Cable,Electronics,41,A2,05,10,6
+SKU1366,Noise-Canceling Headset,Electronics,160,A1,01,04,9
+SKU1367,Pen Set,Stationery,170,A2,05,09,12
+SKU1368,Mouse Pad,Accessories,70,A5,05,08,10
+SKU1369,Mouse Pad,Accessories,155,A5,04,02,16
+SKU1370,Laptop Stand,Electronics,161,A2,03,02,11
+SKU1371,Filing Cabinet,Furniture,78,A5,05,07,13
+SKU1372,Standing Desk,Furniture,26,A3,05,02,20
+SKU1373,Noise-Canceling Headset,Electronics,69,A4,07,10,7
+SKU1374,Filing Cabinet,Furniture,199,A4,03,03,15
+SKU1375,Microwave Oven,Appliances,117,A4,06,02,18
+SKU1376,Stapler,Stationery,25,A5,09,08,19
+SKU1377,Office Chair,Furniture,11,A4,07,04,18
+SKU1378,Blender,Appliances,134,A3,10,07,16
+SKU1379,USB Cable,Electronics,6,A2,01,04,11
+SKU1380,Highlighter Pack,Stationery,3,A5,02,06,20
+SKU1381,Office Chair,Furniture,33,A3,09,04,20
+SKU1382,Stapler,Stationery,156,A1,02,09,14
+SKU1383,Coffee Maker,Appliances,34,A2,06,02,16
+SKU1384,Laptop Stand,Electronics,188,A2,02,06,13
+SKU1385,Mouse Pad,Accessories,34,A4,06,07,8
+SKU1386,Water Bottle,Accessories,181,A4,05,02,18
+SKU1387,Notebook,Stationery,64,A1,08,09,10
+SKU1388,Highlighter Pack,Stationery,154,A2,05,01,13
+SKU1389,Blender,Appliances,173,A1,05,01,20
+SKU1390,Wireless Mouse,Electronics,83,A5,02,07,9
+SKU1391,Wireless Mouse,Electronics,31,A3,07,10,8
+SKU1392,Notebook,Stationery,36,A4,04,10,6
+SKU1393,Filing Cabinet,Furniture,140,A2,03,09,18
+SKU1394,Highlighter Pack,Stationery,130,A3,01,06,9
+SKU1395,Stapler,Stationery,122,A4,08,06,9
+SKU1396,Laptop Stand,Electronics,74,A1,05,06,14
+SKU1397,Electric Kettle,Appliances,34,A1,09,08,19
+SKU1398,Portable Charger,Electronics,64,A4,09,06,5
+SKU1399,Wireless Mouse,Electronics,166,A3,05,10,13
+SKU1400,Travel Mug,Accessories,133,A4,03,05,20
+SKU1401,Pen Set,Stationery,183,A2,02,06,12
+SKU1402,Filing Cabinet,Furniture,114,A5,07,04,18
+SKU1403,Standing Desk,Furniture,194,A2,05,06,12
+SKU1404,Backpack,Accessories,13,A4,04,01,17
+SKU1405,Coffee Maker,Appliances,91,A5,02,03,18
+SKU1406,Laptop Stand,Electronics,122,A5,03,05,5
+SKU1407,Water Bottle,Accessories,184,A3,08,10,13
+SKU1408,Highlighter Pack,Stationery,151,A4,08,07,10
+SKU1409,Microwave Oven,Appliances,54,A2,06,03,16
+SKU1410,Noise-Canceling Headset,Electronics,149,A1,07,10,9
+SKU1411,Highlighter Pack,Stationery,128,A2,02,10,14
+SKU1412,Highlighter Pack,Stationery,70,A1,09,06,10
+SKU1413,Noise-Canceling Headset,Electronics,157,A3,05,02,11
+SKU1414,Filing Cabinet,Furniture,129,A1,10,01,12
+SKU1415,Backpack,Accessories,188,A1,08,07,14
+SKU1416,Electric Kettle,Appliances,67,A2,03,01,12
+SKU1417,Electric Kettle,Appliances,151,A1,10,03,9
+SKU1418,Pen Set,Stationery,182,A2,10,07,8
+SKU1419,Travel Mug,Accessories,158,A3,08,10,19
+SKU1420,Highlighter Pack,Stationery,10,A2,06,04,10
+SKU1421,Standing Desk,Furniture,189,A4,05,08,10
+SKU1422,Laptop Sleeve,Accessories,57,A3,07,06,17
+SKU1423,Wireless Mouse,Electronics,159,A3,01,04,13
+SKU1424,Notebook,Stationery,73,A4,09,02,13
+SKU1425,Blender,Appliances,78,A1,09,06,9
+SKU1426,Backpack,Accessories,182,A5,10,06,8
+SKU1427,Highlighter Pack,Stationery,179,A1,02,09,5
+SKU1428,Water Bottle,Accessories,95,A2,10,04,13
+SKU1429,Electric Kettle,Appliances,140,A5,04,01,8
+SKU1430,Stapler,Stationery,41,A3,08,10,20
+SKU1431,Wireless Mouse,Electronics,166,A3,02,10,19
+SKU1432,Laptop Stand,Electronics,105,A3,09,01,20
+SKU1433,Notebook,Stationery,144,A5,08,01,5
+SKU1434,Standing Desk,Furniture,156,A3,05,02,13
+SKU1435,Filing Cabinet,Furniture,4,A4,10,04,15
+SKU1436,Stapler,Stationery,190,A5,05,01,17
+SKU1437,Pen Set,Stationery,85,A3,03,09,10
+SKU1438,Bookshelf,Furniture,159,A3,09,08,14
+SKU1439,Toaster,Appliances,10,A2,08,08,5
+SKU1440,Backpack,Accessories,141,A2,03,02,7
+SKU1441,Mouse Pad,Accessories,148,A4,02,10,19
+SKU1442,Laptop Stand,Electronics,51,A1,06,02,17
+SKU1443,Microwave Oven,Appliances,170,A5,07,05,18
+SKU1444,Coffee Maker,Appliances,42,A1,05,06,20
+SKU1445,Portable Charger,Electronics,28,A5,04,01,11
+SKU1446,Electric Kettle,Appliances,175,A3,01,03,8
+SKU1447,Stapler,Stationery,60,A5,10,03,14
+SKU1448,Laptop Stand,Electronics,24,A3,09,01,17
+SKU1449,Microwave Oven,Appliances,180,A4,06,02,15
+SKU1450,Standing Desk,Furniture,63,A4,02,10,13
+SKU1451,Water Bottle,Accessories,46,A5,08,05,17
+SKU1452,Pen Set,Stationery,21,A4,03,08,6
+SKU1453,Laptop Stand,Electronics,28,A2,02,02,7
+SKU1454,Wireless Mouse,Electronics,154,A3,08,01,7
+SKU1455,Highlighter Pack,Stationery,127,A4,01,07,14
+SKU1456,Mouse Pad,Accessories,173,A1,02,05,12
+SKU1457,Wireless Mouse,Electronics,124,A1,04,04,17
+SKU1458,Portable Charger,Electronics,77,A3,07,04,7
+SKU1459,Standing Desk,Furniture,139,A4,08,10,7
+SKU1460,Notebook,Stationery,188,A5,10,05,20
+SKU1461,Office Chair,Furniture,170,A1,05,03,8
+SKU1462,Drawer Set,Furniture,83,A4,06,06,16
+SKU1463,Mouse Pad,Accessories,28,A3,07,03,17
+SKU1464,Stapler,Stationery,34,A4,01,10,12
+SKU1465,Office Chair,Furniture,180,A5,09,07,10
+SKU1466,USB Cable,Electronics,43,A2,09,08,7
+SKU1467,Water Bottle,Accessories,11,A3,01,01,20
+SKU1468,Wireless Mouse,Electronics,65,A5,10,10,16
+SKU1469,Filing Cabinet,Furniture,121,A5,07,04,6
+SKU1470,Highlighter Pack,Stationery,64,A4,03,09,8
+SKU1471,Standing Desk,Furniture,84,A5,08,02,7
+SKU1472,Office Chair,Furniture,96,A3,03,03,13
+SKU1473,Stapler,Stationery,48,A4,06,08,20
+SKU1474,Pen Set,Stationery,89,A3,09,05,9
+SKU1475,Sticky Notes,Stationery,119,A4,03,04,8
+SKU1476,Laptop Sleeve,Accessories,78,A1,09,02,5
+SKU1477,Travel Mug,Accessories,178,A1,05,08,8
+SKU1478,Notebook,Stationery,72,A5,05,06,12
+SKU1479,USB Cable,Electronics,97,A1,09,10,16
+SKU1480,Backpack,Accessories,140,A2,08,04,19
+SKU1481,Notebook,Stationery,16,A1,10,08,9
+SKU1482,Notebook,Stationery,30,A1,06,09,17
+SKU1483,Mouse Pad,Accessories,55,A3,06,06,7
+SKU1484,Electric Kettle,Appliances,197,A4,01,05,15
+SKU1485,Notebook,Stationery,200,A4,07,07,13
+SKU1486,Bookshelf,Furniture,104,A1,01,02,5
+SKU1487,Portable Charger,Electronics,147,A1,08,04,6
+SKU1488,Water Bottle,Accessories,137,A2,07,01,6
+SKU1489,Sticky Notes,Stationery,86,A2,05,08,20
+SKU1490,Standing Desk,Furniture,102,A2,06,05,19
+SKU1491,Electric Kettle,Appliances,46,A4,08,04,10
+SKU1492,Portable Charger,Electronics,10,A3,07,08,12
+SKU1493,Pen Set,Stationery,131,A4,07,09,10
+SKU1494,Blender,Appliances,169,A4,10,10,7
+SKU1495,USB Cable,Electronics,67,A5,05,03,19
+SKU1496,USB Cable,Electronics,147,A2,07,01,18
+SKU1497,Toaster,Appliances,4,A1,10,05,11
+SKU1498,Pen Set,Stationery,153,A3,01,05,7
+SKU1499,Mouse Pad,Accessories,138,A4,03,02,11
