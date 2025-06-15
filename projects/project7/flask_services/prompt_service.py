@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # Hard-coded API key (replace "sk-..." with your actual key)
-API_KEY = "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"
+API_KEY = "(replace with your actual key)"
 
 def build_prompt(features, predictions):
     return f"""Audio Sensory Analysis:
