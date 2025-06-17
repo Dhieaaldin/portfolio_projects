@@ -4,45 +4,55 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Data Science Portfolio</title>
+    <meta name="description" content="Dhia Eddine Louati's Data Science Portfolio - Showcasing projects in data analysis, machine learning, and AI">
+    <title>Dhia Eddine Louati | Data Science Portfolio</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.4/lottie.min.js"></script>
 </head>
 
 <body>
     <header>
-        <nav>
+        <nav aria-label="Main navigation">
             <ul>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.html" aria-current="page">Home</a></li>
                 <li><a href="about.html">About Me</a></li>
                 <li><a href="projects.html">Projects</a></li>
+                <li><a href="skills.html">Skills</a></li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
         </nav>
     </header>
 
-    <section id="home">
-        <h1 style="text-align: center;">Dhia Eddine Louati</h1>
-        <h1>Welcome to My Portfolio</h1>
-        <p>Embark on a data science journey where numbers tell stories and insights spark innovation.
-        <br>This portfolio showcases my commitment to analyzing data creatively and solving real-world challenges.
-        <br>Explore projects ranging from data cleaning to visualization, demonstrating how I turn raw data into impactful insights.</p>
+    <main>
+        <section id="home" aria-labelledby="welcome-heading">
+            <h1 id="welcome-heading">Dhia Eddine Louati</h1>
+            <h2>Data Science & AI Engineer</h2>
+            <p class="lead-text">
+                Embark on a data science journey where numbers tell stories and insights spark innovation.
+                This portfolio showcases my commitment to analyzing data creatively and solving real-world challenges.
+                Explore projects ranging from data cleaning to visualization, demonstrating how I turn raw data into impactful insights.
+            </p>
 
-        <!-- Flex container for the button and animation -->
-        <div class="flex-container">
-            <!--<a href="cv.pdf" download class="button">Download CV</a>-->
-            <a href="projects.html" class="button" style="margin-right: 300px;">View Projects</a>
-            <a href="https://github.com/Dhieaaldin" class="button" style="margin-right: 300px;">Visit my github</a>
-            <img src="im.png" alt="">
-            <!--<div id="lottie-animation" style="width: 500px; height: 400px;"></div>-->
-            
-        </div>
-    </section>
+            <div class="flex-container">
+                <a href="projects.html" class="button" aria-label="View my projects">
+                    <span>View Projects</span>
+                </a>
+                <a href="https://github.com/Dhieaaldin" class="button" aria-label="Visit my GitHub profile" target="_blank" rel="noopener noreferrer">
+                    <span>GitHub Profile</span>
+                </a>
+                <img src="im.png" alt="Data Science visualization" class="hero-image" loading="lazy">
+            </div>
+        </section>
+    </main>
 
     <footer>
-        <p>&copy; 2024 Dhia Eddine Louati</p>
+        <p>&copy; 2024 Dhia Eddine Louati. All rights reserved.</p>
     </footer>
-    <script src="/js/script.js"></script>
+
+    <script src="js/script.js"></script>
 </body>
 
 </html>

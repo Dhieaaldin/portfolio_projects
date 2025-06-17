@@ -4,69 +4,365 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projects Menu</title>
+    <meta name="description" content="Explore Dhia Eddine Louati's data science and machine learning projects">
+    <title>Projects | Dhia Eddine Louati</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 
 <body>
     <header>
-        <nav>
+        <nav aria-label="Main navigation">
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="about.html">About Me</a></li>
-                <li><a href="projects.html">Projects</a></li>
+                <li><a href="projects.html" aria-current="page">Projects</a></li>
+                <li><a href="skills.html">Skills</a></li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
         </nav>
     </header>
 
-    <main>
-        <section id="project-menu">
-            <h1>Projects Menu</h1>
-            <p>Select a project to explore my work:</p>
+    <main class="page-transition">
+        <section id="projects">
+            <h1>My Projects</h1>
+            <p class="lead-text">Explore my data science and machine learning projects, showcasing my expertise in data analysis, visualization, and AI solutions.</p>
 
-            <div class="project-item">
-                <h2>Datacamp competition project</h2>
-                <p>A project focusing on visualizing data with python and SQL. Based exploring data visualization techniques to turn raw data into actionable insights.</p>
-                <a href="projects/project_comp/index.html" class="button">View Project</a>
+            <!-- Project Categories -->
+            <div class="project-categories">
+                <button class="category-btn active" data-category="all">All Projects</button>
+                <button class="category-btn" data-category="ml">Machine Learning</button>
+                <button class="category-btn" data-category="data">Data Analysis</button>
+                <button class="category-btn" data-category="dev">Software Development</button>
             </div>
-            <div class="project-item">
-                <h2>Project 1: Analyzing Google Sheets Data in Python</h2>
-                <p>analyzing Google Analytics data. The sample dataset contains obfuscated GA360 data for August 1, 2017 from the [Google Merchandise Store](https://shop.googlemerchandisestore.com/), a real ecommerce store selling Google branded merchandise</p>
-                <a href="projects/project1/index.html" class="button">View Project</a>
+
+            <!-- Machine Learning Projects -->
+            <div class="project-category" data-category="ml">
+                <h2><i class="fas fa-brain"></i> Machine Learning & AI</h2>
+                <div class="project-grid">
+                    <div class="project-item glass-card">
+                        <div class="project-image">
+                            <img src="projects/project7/images/thumbnail.png" alt="SonicShield Project" onerror="this.src='im.png'">
+                            <div class="project-overlay">
+                                <div class="project-links">
+                                    <a href="projects/project7/index.html" class="project-link">
+                                        <i class="fas fa-external-link-alt"></i>
+                                    </a>
+                                    <a href="https://github.com/Dhieaaldin/sonicshield" class="project-link" target="_blank">
+                                        <i class="fab fa-github"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-content">
+                            <h3>SonicShield</h3>
+                            <p>A real-time audio event detection app for autism support, featuring Android front-end, Flask back-end with TensorFlow Lite's YAMNet, and DeepSeek API integration.</p>
+                            <div class="project-tags">
+                                <span class="project-tag">Machine Learning</span>
+                                <span class="project-tag">Android</span>
+                                <span class="project-tag">TensorFlow</span>
+                                <span class="project-tag">Flask</span>
+                            </div>
+                            <a href="projects/project7/index.html" class="view-project-btn">
+                                <i class="fas fa-external-link-alt"></i> View Project
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="project-item glass-card">
+                        <div class="project-image">
+                            <img src="projects/project6/images/thumbnail.png" alt="Car Price Predictor" onerror="this.src='im.png'">
+                            <div class="project-overlay">
+                                <div class="project-links">
+                                    <a href="projects/project6/index.html" class="project-link">
+                                        <i class="fas fa-external-link-alt"></i>
+                                    </a>
+                                    <a href="https://github.com/Dhieaaldin/car-price-predictor" class="project-link" target="_blank">
+                                        <i class="fab fa-github"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-content">
+                            <h3>Car Price Predictor</h3>
+                            <p>An ML-powered web application that predicts car prices based on user input. Features include exploratory data analysis, visualization, and a user-friendly interface.</p>
+                            <div class="project-tags">
+                                <span class="project-tag">Machine Learning</span>
+                                <span class="project-tag">Web Development</span>
+                                <span class="project-tag">Data Visualization</span>
+                            </div>
+                            <a href="projects/project6/index.html" class="view-project-btn">
+                                <i class="fas fa-external-link-alt"></i> View Project
+                            </a>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="project-item">
-                <h2>Project 2: Analyzing Euro 2024 Soccer Data in SQL</h2>
-                <p>Today,i am going to explore some data of the EURO 2024 and working through it.I will work with a dataset that was sourced from the `sportmonks` API (with some adjustments)</p>
-                <a href="projects/project2/index.html" class="button">View Project</a>
+
+            <!-- Software Development Projects -->
+            <div class="project-category" data-category="dev">
+                <h2><i class="fas fa-code"></i> Software Development</h2>
+                <div class="project-grid">
+                    <div class="project-item glass-card">
+                        <div class="project-image">
+                            <img src="projects/project8/images/thumbnail.png" alt="Git Visualizer Project" onerror="this.src='im.png'">
+                            <div class="project-overlay">
+                                <div class="project-links">
+                                    <a href="projects/project8/index.html" class="project-link">
+                                        <i class="fas fa-external-link-alt"></i>
+                                    </a>
+                                    <a href="https://github.com/Dhieaaldin/Git_visualizer" class="project-link" target="_blank">
+                                        <i class="fab fa-github"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-content">
+                            <h3>Git Visualizer</h3>
+                            <p>A Java Swing application that provides visual representation of Git repositories, featuring commit history visualization, user authentication, and personalized commit notes using a three-tier architecture.</p>
+                            <div class="project-tags">
+                                <span class="project-tag">Java</span>
+                                <span class="project-tag">Swing</span>
+                                <span class="project-tag">JGit</span>
+                                <span class="project-tag">MySQL</span>
+                            </div>
+                            <a href="projects/project8/index.html" class="view-project-btn">
+                                <i class="fas fa-external-link-alt"></i> View Project
+                            </a>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="project-item">
-                <h2>Project 3: Netflix movies duration</h2>
-                <p>This is a project for analysing netflix's movies duration to find a relation between year of release and the duration.</p>
-                <a href="projects/project3/index.html" class="button">View Project</a>
+
+            <!-- Data Analysis Projects -->
+            <div class="project-category" data-category="data">
+                <h2><i class="fas fa-chart-line"></i> Data Analysis & Visualization</h2>
+                <div class="project-grid">
+                    <div class="project-item glass-card">
+                        <div class="project-image">
+                            <img src="projects/project1/images/plot2.png" alt="Google Analytics Analysis" onerror="this.src='im.png'">
+                            <div class="project-overlay">
+                                <div class="project-links">
+                                    <a href="projects/project1/index.html" class="project-link">
+                                        <i class="fas fa-external-link-alt"></i>
+                                    </a>
+                                    <a href="https://github.com/Dhieaaldin/google-analytics-analysis" class="project-link" target="_blank">
+                                        <i class="fab fa-github"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-content">
+                            <h3>Google Analytics Data Analysis</h3>
+                            <p>Comprehensive analysis of Google Merchandise Store data using Python. Includes data cleaning, visualization, and actionable insights.</p>
+                            <div class="project-tags">
+                                <span class="project-tag">Python</span>
+                                <span class="project-tag">Data Analysis</span>
+                                <span class="project-tag">Google Analytics</span>
+                            </div>
+                            <a href="projects/project1/index.html" class="view-project-btn">
+                                <i class="fas fa-external-link-alt"></i> View Project
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="project-item glass-card">
+                        <div class="project-image">
+                            <img src="projects/project4/images/plot1.png" alt="World Layoffs Analysis" onerror="this.src='im.png'">
+                            <div class="project-overlay">
+                                <div class="project-links">
+                                    <a href="projects/project4/index.html" class="project-link">
+                                        <i class="fas fa-external-link-alt"></i>
+                                    </a>
+                                    <a href="https://github.com/Dhieaaldin/world-layoffs-analysis" class="project-link" target="_blank">
+                                        <i class="fab fa-github"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-content">
+                            <h3>World Layoffs Analysis</h3>
+                            <p>Data cleaning and exploratory analysis of global layoff data using MySQL. Uncovers patterns and trends in workforce changes.</p>
+                            <div class="project-tags">
+                                <span class="project-tag">MySQL</span>
+                                <span class="project-tag">Data Cleaning</span>
+                                <span class="project-tag">EDA</span>
+                            </div>
+                            <a href="projects/project4/index.html" class="view-project-btn">
+                                <i class="fas fa-external-link-alt"></i> View Project
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="project-item glass-card">
+                        <div class="project-image">
+                            <img src="projects/project5/images/plot2.png" alt="NYC School SAT Analysis" onerror="this.src='im.png'">
+                            <div class="project-overlay">
+                                <div class="project-links">
+                                    <a href="projects/project5/index.html" class="project-link">
+                                        <i class="fas fa-external-link-alt"></i>
+                                    </a>
+                                    <a href="https://github.com/Dhieaaldin/nyc-school-analysis" class="project-link" target="_blank">
+                                        <i class="fab fa-github"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-content">
+                            <h3>NYC School SAT Performance</h3>
+                            <p>Analysis of New York City public school SAT performance data, identifying factors affecting student achievement.</p>
+                            <div class="project-tags">
+                                <span class="project-tag">Data Analysis</span>
+                                <span class="project-tag">Education</span>
+                                <span class="project-tag">Statistics</span>
+                            </div>
+                            <a href="projects/project5/index.html" class="view-project-btn">
+                                <i class="fas fa-external-link-alt"></i> View Project
+                            </a>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="project-item">
-                <h2>Project 4: Data cleaning and EDA (exploratory data analysis) with MySQL</h2>
-                <p>In this project i started by cleaning the data wich is a world layoffs dataset then i started an exploratory data analysis using MySQL.</p>
-                <a href="projects/project4/index.html" class="button">View Project</a>
+
+            <!-- SQL & Database Projects -->
+            <div class="project-category" data-category="data">
+                <h2><i class="fas fa-database"></i> SQL & Database Projects</h2>
+                <div class="project-grid">
+                    <div class="project-item glass-card">
+                        <div class="project-image">
+                            <img src="projects/project2/images/plot2.png" alt="Euro 2024 Analysis" onerror="this.src='im.png'">
+                            <div class="project-overlay">
+                                <div class="project-links">
+                                    <a href="projects/project2/index.html" class="project-link">
+                                        <i class="fas fa-external-link-alt"></i>
+                                    </a>
+                                    <a href="https://github.com/Dhieaaldin/euro2024-analysis" class="project-link" target="_blank">
+                                        <i class="fab fa-github"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-content">
+                            <h3>Euro 2024 Soccer Analysis</h3>
+                            <p>Comprehensive analysis of Euro 2024 soccer data using SQL. Includes player statistics, team performance, and match outcomes.</p>
+                            <div class="project-tags">
+                                <span class="project-tag">SQL</span>
+                                <span class="project-tag">Sports Analytics</span>
+                                <span class="project-tag">Data Visualization</span>
+                            </div>
+                            <a href="projects/project2/index.html" class="view-project-btn">
+                                <i class="fas fa-external-link-alt"></i> View Project
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="project-item glass-card">
+                        <div class="project-image">
+                            <img src="projects/project3/images/plot1.png" alt="Netflix Analysis" onerror="this.src='im.png'">
+                            <div class="project-overlay">
+                                <div class="project-links">
+                                    <a href="projects/project3/index.html" class="project-link">
+                                        <i class="fas fa-external-link-alt"></i>
+                                    </a>
+                                    <a href="https://github.com/Dhieaaldin/netflix-analysis" class="project-link" target="_blank">
+                                        <i class="fab fa-github"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-content">
+                            <h3>Netflix Movies Analysis</h3>
+                            <p>Analysis of Netflix movie durations and release years, exploring trends in content length over time.</p>
+                            <div class="project-tags">
+                                <span class="project-tag">Data Analysis</span>
+                                <span class="project-tag">Entertainment</span>
+                                <span class="project-tag">Trends</span>
+                            </div>
+                            <a href="projects/project3/index.html" class="view-project-btn">
+                                <i class="fas fa-external-link-alt"></i> View Project
+                            </a>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="project-item">
-                <h2>Project 5: New York City (NYC) public school SAT performance</h2>
-                <p>This is a basic project for analysing New York City (NYC) public school SAT performance.</p>
-                <a href="projects/project5/index.html" class="button">View Project</a>
+
+            <!-- Competition Projects -->
+            <div class="project-category" data-category="data">
+                <h2><i class="fas fa-trophy"></i> Competition Projects</h2>
+                <div class="project-grid">
+                    <div class="project-item glass-card">
+                        <div class="project-image">
+                            <img src="projects/project_comp/images/thumbnail.png" alt="DataCamp Competition" onerror="this.src='im.png'">
+                            <div class="project-overlay">
+                                <div class="project-links">
+                                    <a href="projects/project_comp/index.html" class="project-link">
+                                        <i class="fas fa-external-link-alt"></i>
+                                    </a>
+                                    <a href="https://github.com/Dhieaaldin/datacamp-competition" class="project-link" target="_blank">
+                                        <i class="fab fa-github"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-content">
+                            <h3>DataCamp Competition</h3>
+                            <p>Data visualization project using Python and SQL, focusing on turning raw data into actionable insights.</p>
+                            <div class="project-tags">
+                                <span class="project-tag">Python</span>
+                                <span class="project-tag">SQL</span>
+                                <span class="project-tag">Data Visualization</span>
+                            </div>
+                            <a href="projects/project_comp/index.html" class="view-project-btn">
+                                <i class="fas fa-external-link-alt"></i> View Project
+                            </a>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="project-item">
-                <h2>Project 6: Datascience and ML project</h2>
-                <p>In this project i created an exploratory data analysis with some visualisations and a machine learning model that predicts the approximate price of a car based on the user's input informations in a web interface.</p>
-                <a href="projects/project6/index.html" class="button">View Project</a>
-            </div>
-            <!-- Add more projects as needed -->
         </section>
     </main>
 
     <footer>
-        <p>&copy; 2024 Dhia Eddine Louati</p>
+        <p>&copy; 2024 Dhia Eddine Louati. All rights reserved.</p>
     </footer>
+
+    <script>
+        // Project filtering functionality
+        document.addEventListener('DOMContentLoaded', function() {
+            const categoryButtons = document.querySelectorAll('.category-btn');
+            const projectCategories = document.querySelectorAll('.project-category');
+
+            categoryButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    // Remove active class from all buttons
+                    categoryButtons.forEach(btn => btn.classList.remove('active'));
+                    // Add active class to clicked button
+                    button.classList.add('active');
+
+                    const category = button.dataset.category;
+
+                    projectCategories.forEach(projectCategory => {
+                        if (category === 'all' || projectCategory.dataset.category === category) {
+                            projectCategory.style.display = 'block';
+                            setTimeout(() => {
+                                projectCategory.style.opacity = '1';
+                                projectCategory.style.transform = 'translateY(0)';
+                            }, 10);
+                        } else {
+                            projectCategory.style.opacity = '0';
+                            projectCategory.style.transform = 'translateY(20px)';
+                            setTimeout(() => {
+                                projectCategory.style.display = 'none';
+                            }, 300);
+                        }
+                    });
+                });
+            });
+        });
+    </script>
 </body>
 
 </html>

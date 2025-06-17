@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Git Visualizer - My Portfolio</title>
+    <link rel="stylesheet" href="../../css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="../../index.html">Home</a></li>
+                <li><a href="../../about.html">About Me</a></li>
+                <li><a href="../../projects.html">Projects</a></li>
+                <li><a href="../../skills.html">Skills</a></li>
+                <li><a href="../../contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="project">
+        <h1>Git Visualizer – Interactive Git Repository Visualization Tool</h1>
+        <p>Git Visualizer is a Java Swing-based application designed to provide a visual representation of Git repositories, especially from remote sources. The project helps users understand commit history, contributors, and relationships between commits through an interactive interface.</p>
+        
+        <h2>Objectives</h2>
+        <ul>
+            <li>Visualize commit history from remote Git repositories</li>
+            <li>Allow users to log in and manage personalized notes for each commit</li>
+            <li>Improve Git learning and debugging with a more intuitive interface</li>
+        </ul>
+
+        <h2>Key Features</h2>
+        <ul>
+            <li>Remote Repository Cloning: Users enter a Git URL, which is cloned using JGit</li>
+            <li>Commit Graph Visualization: Commits are displayed as nodes; hovering shows messages</li>
+            <li>Authentication System: Login/signup using JDBC and MySQL for secure user access</li>
+            <li>Commit Notes: Users can add custom notes linked to commit hashes</li>
+            <li>Three-Tier Architecture: Divided into Presentation, Business Logic, and DAO layers</li>
+        </ul>
+
+        <h2>Technologies Used</h2>
+        <ul>
+            <li>Java Swing – UI design</li>
+            <li>JGit – Git integration</li>
+            <li>MySQL + JDBC – User authentication & note storage</li>
+            <li>MVC / Three-Tier Architecture – Code organization</li>
+        </ul>
+
+        <h2>Architecture Overview</h2>
+        <ul>
+            <li>Presentation Layer: Java Swing GUI for visual interaction</li>
+            <li>Business Logic Layer: Manages Git operations and logic (clone, fetch, render)</li>
+            <li>Data Access Layer: Interacts with MySQL to authenticate users and store notes</li>
+        </ul>
+
+        <h2>Demo Images</h2>
+        <div class="project-images">
+            <img src="images/login.png" alt="Git Visualizer Login Interface" class="project-image">
+            <img src="images/commit-graph.png" alt="Git Visualizer Commit Graph" class="project-image">
+            <img src="images/notes-panel.png" alt="Git Visualizer Notes Panel" class="project-image">
+        </div>
+
+        <h2>Code & Resources</h2>
+        <div class="project-links">
+            <a href="https://github.com/Dhieaaldin/Git_visualizer" target="_blank" class="button">
+                <i class="fab fa-github"></i> View on GitHub
+            </a>
+            <a href="Project Report.odt" download class="button">
+                <i class="fas fa-file-alt"></i> Download Project Report
+            </a>
+        </div>
+
+        <h2>Future Improvements</h2>
+        <ul>
+            <li>Add support for branch visualization</li>
+            <li>Allow filtering commits by author/date/message</li>
+            <li>Improve UI responsiveness and dark mode</li>
+            <li>Deploy as a web-based version using JavaFX or React + Spring</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Dhia Eddine Louati. All rights reserved.</p>
+    </footer>
+</body>
+</html>

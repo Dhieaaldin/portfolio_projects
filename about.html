@@ -3,59 +3,129 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Me - My Portfolio</title>
+    <meta name="description" content="Learn more about Dhia Eddine Louati - Data Science & AI Enthusiast">
+    <title>About Me | Dhia Eddine Louati</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
     <header>
-        <nav>
+        <nav aria-label="Main navigation">
             <ul>
                 <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About Me</a></li>
+                <li><a href="about.html" aria-current="page">About Me</a></li>
                 <li><a href="projects.html">Projects</a></li>
+                <li><a href="skills.html">Skills</a></li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
         </nav>
     </header>
 
-    <section id="about">
-        <h1>About Me</h1>
-        <p>Enthusiastic First-Year Computer Science & Multimedia Student | Data Science & AI Enthusiast | Seeking Opportunities to Apply and Expand Skills.</p>
-        <h2>Skills</h2>
-        <ul>
-            <li>Python</li>
-            <li>Data Analysis</li>
-            <li>Machine Learning</li>
-            <li>SQL</li>
-            <li>Data Visualization</li>
-            <li>Javascipt</li>
-            <li>c/c++</li>
-            <li>PHP</li>
-            <li>video editing</li>
-            <li>motion graphic</li>
-            <li>photo editing</li>
-            <li>problem solving</li>
-            <li>analytical thinking</li>
-            <li>collaborative</li>
-            <li>cyber security</li>
-            <li>kali linux</li>
-        </ul>
-        <a class="button">check my linkedin profile to learn more</a>
-        <h2>Languages</h2>
-        <ul>
-            <li>English (c2 level)</li>
-            <li>French (proficient)</li>
-            <li>Arabic</li>
-            <li>German (currently learning)</li>
-            
-        </ul>
-        <h2>Experience</h2>
-        <p>Passionate first-year Computer Science & Multimedia student with a diverse skill set and interests,</p>
-        <p>Currently working on projects involving data visualization and analysis.</p>
-    </section>
+    <main class="page-transition">
+        <section id="about" class="glass-card">
+            <div class="about-header">
+                <div class="profile-section">
+                    <div class="profile-image-container">
+                        <img src="im.png" alt="Dhia Eddine Louati" class="profile-image">
+                        <div class="profile-overlay"></div>
+                    </div>
+                    <h1>Dhia Eddine Louati</h1>
+                    <p class="title">Data Science & AI Enthusiast</p>
+                    <div class="social-links">
+                        <a href="https://linkedin.com/in/your-profile" class="social-icon" target="_blank" rel="noopener noreferrer">
+                            <i class="fab fa-linkedin"></i>
+                        </a>
+                        <a href="https://github.com/Dhieaaldin" class="social-icon" target="_blank" rel="noopener noreferrer">
+                            <i class="fab fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="about-content">
+                <div class="about-section glass-card">
+                    <h2><i class="fas fa-user-graduate"></i> Education & Background</h2>
+                    <p>First-Year Computer Science & Multimedia Student with a passion for data science and artificial intelligence. Currently focused on developing innovative solutions through data analysis and machine learning.</p>
+                </div>
+
+                <div class="about-section glass-card">
+                    <h2><i class="fas fa-code"></i> Technical Expertise</h2>
+                    <div class="skills-grid">
+                        <div class="skill-category">
+                            <h3>Programming</h3>
+                            <ul class="skill-list">
+                                <li><i class="fab fa-python"></i> Python</li>
+                                <li><i class="fab fa-js"></i> JavaScript</li>
+                                <li><i class="fas fa-code"></i> C/C++</li>
+                                <li><i class="fab fa-php"></i> PHP</li>
+                            </ul>
+                        </div>
+                        <div class="skill-category">
+                            <h3>Data Science</h3>
+                            <ul class="skill-list">
+                                <li><i class="fas fa-database"></i> SQL</li>
+                                <li><i class="fas fa-brain"></i> Machine Learning</li>
+                                <li><i class="fas fa-chart-bar"></i> Data Visualization</li>
+                                <li><i class="fas fa-chart-line"></i> Data Analysis</li>
+                            </ul>
+                        </div>
+                        <div class="skill-category">
+                            <h3>Multimedia</h3>
+                            <ul class="skill-list">
+                                <li><i class="fas fa-video"></i> Video Editing</li>
+                                <li><i class="fas fa-film"></i> Motion Graphics</li>
+                                <li><i class="fas fa-image"></i> Photo Editing</li>
+                            </ul>
+                        </div>
+                        <div class="skill-category">
+                            <h3>Security</h3>
+                            <ul class="skill-list">
+                                <li><i class="fas fa-shield-alt"></i> Cyber Security</li>
+                                <li><i class="fab fa-linux"></i> Kali Linux</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="about-section glass-card">
+                    <h2><i class="fas fa-language"></i> Languages</h2>
+                    <div class="languages-grid">
+                        <div class="language-item">
+                            <span class="language-name">English</span>
+                            <span class="language-level">C2 Level</span>
+                        </div>
+                        <div class="language-item">
+                            <span class="language-name">French</span>
+                            <span class="language-level">Proficient</span>
+                        </div>
+                        <div class="language-item">
+                            <span class="language-name">Arabic</span>
+                            <span class="language-level">Native</span>
+                        </div>
+                        <div class="language-item">
+                            <span class="language-name">German</span>
+                            <span class="language-level">Learning</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="about-section glass-card">
+                    <h2><i class="fas fa-briefcase"></i> Experience & Goals</h2>
+                    <p>Currently working on innovative projects involving data visualization and analysis. Passionate about creating impactful solutions through technology and continuously expanding my knowledge in the field of data science and AI.</p>
+                    <div class="cta-buttons">
+                        <a href="projects.html" class="button">View My Projects</a>
+                        <a href="contact.html" class="button">Get in Touch</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
 
     <footer>
-        <p>&copy; 2024 Dhia Eddine Louati</p>
+        <p>&copy; 2024 Dhia Eddine Louati. All rights reserved.</p>
     </footer>
 </body>
 </html>
