@@ -4,7 +4,11 @@ import requests
 app = Flask(__name__)
 
 # Hard-coded API key (replace "sk-..." with your actual key)
+<<<<<<< HEAD
 API_KEY = "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"
+=======
+API_KEY = "(replace with your actual key)"
+>>>>>>> 6fa665e9912ff7f1408c735d953ae3473bab1145
 
 def build_prompt(features, predictions):
     return f"""Audio Sensory Analysis:
@@ -55,4 +59,8 @@ def generate_prompt():
     return jsonify({"feedback": answer})
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     app.run(port=5004, debug=True, threaded=True)
+=======
+    app.run(port=5004, debug=True, threaded=True)
+>>>>>>> 6fa665e9912ff7f1408c735d953ae3473bab1145
